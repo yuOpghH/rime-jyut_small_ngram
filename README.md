@@ -16,6 +16,7 @@
 <p align="center">
 <img src="https://github.com/yuOpghH/rime-jyut_small_ngram/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/2026-11.png"  style="width:800px;"/>
 </p>
+
 ---
 
 ## 支援哪種編碼
