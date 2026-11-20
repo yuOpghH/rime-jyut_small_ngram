@@ -1,5 +1,6 @@
 # 粵語小詞庫
 
+
 給 Windows 小狼毫（Weasel）用的**粵語全拼輸入方案**。用粵拼（Jyutping）打字，配合一個
 4-gram 粵語語言模型，讓長句的首選更接近自然說法。
 
@@ -10,6 +11,11 @@
 - 適用：Windows 10／11，小狼毫 Weasel 0.15 以上
 - 授權：方案與文件 CC BY-SA 4.0；含粵典衍生內容的部分依 NCODL 1.0（僅限非商業）
 
+聲明：本包主要通過AI許願式編程而成，AI+人工多次校驗、多音字與詞庫權重經由人工調整、readme由AI+人工潤色。<b>以防萬一，執行前請預先進行好備份</b>
+
+<p align="center">
+<img src="https://github.com/yuOpghH/rime-jyut_small_ngram/blob/main/%E5%B1%95%E7%A4%BA%E5%9C%96%E7%89%87/2026-11.png"  style="width:800px;"/>
+</p>
 ---
 
 ## 支援哪種編碼
