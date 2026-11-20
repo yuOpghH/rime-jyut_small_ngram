@@ -1,0 +1,5470 @@
+# 地名、人名、機構名
+---
+name: jyut_small_placenames
+version: "1.0"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+...
+香港	hoeng1 gong2	842543
+公司	gung1 si1	741114
+政府	zing3 fu2	727561
+大學	daai6 hok6	706757
+地區	dei6 keoi1	682535
+學校	hok6 gaau3	694920
+中心	zung1 sam1	661994
+委員會	wai2 jyun4 wui5	645682
+公園	gung1 jyun4	650204
+學院	hok6 jyun2	635388
+澳門	ou3 mun4	637912
+中學	zung1 hok6	650896
+城市	sing4 si5	648916
+平方公里	peng4 fong1 gung1 lei5	601567
+機場	gei1 coeng4	624118
+歐洲	au1 zau1	626013
+鐵路	tit3 lou6	612038
+醫院	ji1 jyun2	641716
+有限公司	jau5 haan6 gung1 si1	596255
+亞洲	aa3 zau1	598604
+馬路	maa5 lou6	592149
+銀行	ngan4 hong2	630411
+電視台	din6 si6 toi4	590603
+澳洲	ou3 zau1	591450
+小學	siu2 hok6	612946
+市場	si5 coeng4	624547
+廣場	gwong2 coeng4	578604
+街道	gaai1 dou6	558328
+頻道	pan4 dou6	560332
+企業	kei5 jip6	591133
+花園	faa1 jyun4	577416
+大廈	daai6 haa6	580301
+海峽	hoi2 haap6	546109
+酒店	zau2 dim3	598236
+大區	daai6 keoi1	542735
+公路	gung1 lou6	568621
+半島	bun3 dou2	548429
+碼頭	maa5 tau4	566069
+中山	zung1 saan1	546990
+圖書館	tou4 syu1 gun2	581272
+大埔	daai6 bou3	588848
+議會	ji5 wui5	550859
+球場	kau4 coeng4	560827
+博物館	bok3 mat6 gun2	564485
+市區	si5 keoi1	550612
+主角	zyu2 gok3	562060
+新城	san1 sing4	519945
+屯門	tyun4 mun4	597171
+細路	sai3 lou6	605236
+香港政府	hoeng1 gong2 zing3 fu2	546210
+隧道	seoi6 dou6	539612
+荃灣	cyun4 waan1	579679
+軌道	gwai2 dou6	519581
+自治區	zi6 zi6 keoi1	517571
+商場	soeng1 coeng4	566830
+非洲	fei1 zau1	527680
+特別行政區	dak6 bit6 hong2 zing3 keoi1	510430
+中場	zung1 coeng4	488435
+觀塘	gun1 tong4	551997
+香港島	hoeng1 gong2 dou2	515359
+遊樂場	jau4 ngaau6 coeng4	514562
+教區	gaau3 keoi1	500272
+軍區	gwan1 keoi1	496509
+旺角	wong6 gok3	561037
+出版社	ceot1 baan2 se5	485861
+司馬	si1 maa5	490604
+高速公路	gou1 cuk1 gung1 lou6	485262
+佛山	fat6 saan1	470552
+將軍澳	zoeng1 gwan1 ou3	535898
+通道	tung1 dou6	495875
+教堂	gaau3 tong4	497786
+城區	sing4 keoi1	483494
+市政府	si5 zing3 fu2	492387
+香港大學	hoeng1 gong2 daai6 hok6	503485
+滿洲	mun5 zau1	476124
+銅鑼灣	tung4 lo4 waan1	553135
+東區	dung1 keoi1	473392
+工廠	gung1 cong2	518603
+荔灣	lai6 waan1	461215
+董事	dung2 si6	487605
+市中心	si5 zung1 sam1	486841
+法院	faat3 jyun2	487014
+校園	gaau3 jyun4	509384
+北區	bak1 keoi1	463836
+深水埗	sam1 seoi2 bou6	531270
+大嶼山	daai6 zeoi6 saan1	482153
+火車站	fo2 ce1 zaam6	483851
+停車場	ting2 ce1 coeng4	552097
+北海道	bak1 hoi2 dou6	469784
+航空公司	hong4 hung1 gung1 si1	480423
+葵涌	kwai4 cung1	529603
+火山	fo2 saan1	460240
+直徑	zik6 ging3	444074
+南區	naam4 keoi1	462584
+工會	gung1 wui5	527913
+桃園	tou4 jyun4	448193
+北角	bak1 gok3	524935
+市轄區	si5 hat6 keoi1	418510
+浸會大學	zam3 wui5 daai6 hok6	438884
+幹線	gon3 sin3	456032
+董事長	dung2 si6 coeng4	466879
+美洲	mei5 zau1	450247
+幼稚園	jau3 zi6 jyun4	473561
+街市	gaai1 si5	492893
+戲院	hei3 jyun2	518732
+九龍城	gau2 lung4 sing4	496162
+柴灣	caai4 waan1	488977
+水塘	seoi2 tong4	477345
+鐘頭	zung1 tau4	529326
+新市鎮	san1 si5 zan3	449289
+高達	gou1 daat6	480675
+張學友	zoeng1 hok6 jau5	422327
+鏡頭	geng3 tau4	502567
+唱片公司	coeng3 pin2 gung1 si1	457270
+廈門	haa6 mun4	429395
+特區	dak6 keoi1	456971
+馬鞍山	maa5 on1 saan1	466644
+高雄	gou1 hung4	438179
+賭場	dou2 coeng4	452519
+張國榮	zoeng1 gwok3 wing4	432764
+蔡依林	coi3 ji1 lam4	425927
+李克勤	lei5 haak1 kan4	409157
+石頭	sek2 tau4	467694
+長洲	coeng4 zau1	491227
+運動場	wan6 dung6 coeng4	452015
+青島	cing1 dou2	428985
+北美洲	bak1 mei5 zau1	424382
+南美洲	naam4 mei5 zau1	423994
+檳城	ban1 sing4	432505
+長沙灣	coeng4 saa1 waan1	496190
+教育局	gaau3 juk6 guk2	451956
+理工大學	lei5 gung1 daai6 hok6	431954
+諗頭	nam2 tau4	435364
+新村	san1 cyun1	454838
+馬場	maa5 coeng4	432650
+科技大學	fo1 gei6 daai6 hok6	430223
+動物園	dung6 mat6 jyun4	432081
+黃河	wong4 ho2	426763
+祠堂	ci4 tong4	436598
+田徑	tin4 ging3	421627
+劉德華	lau4 dak1 waa4	418909
+江門	gong1 mun4	406302
+青山	cing1 saan1	446725
+劉備	lau4 bei6	417096
+龍門	lung4 mun4	476974
+九廣鐵路	gau2 gwong2 tit3 lou6	417888
+酒樓	zau2 lau2	489821
+大城	daai6 sing4	383812
+電路	din6 lou6	425900
+任天堂	jam6 tin1 tong4	448227
+馬德里	maa5 dak1 lei5	415658
+郭富城	gwok3 fu3 sing4	482078
+增城	zang1 sing4	409031
+戰場	zin3 coeng4	438304
+離島	lei4 dou2	414120
+銀河	ngan4 ho2	414641
+九龍灣	gau2 lung4 waan1	478520
+特區政府	dak6 keoi1 zing3 fu2	453439
+天橋	tin1 kiu4	439498
+譚詠麟	taam4 wing6 leon4	411619
+跑道	paau2 dou6	429563
+高雄市	gou1 hung4 si5	405124
+天堂	tin1 tong4	454001
+茶餐廳	caa4 caan1 teng1	464915
+冰島	bing1 dou2	417093
+市政局	si5 zing3 guk2	442077
+時區	si4 keoi1	399630
+郊區	gaau1 keoi1	417347
+農場	nung4 coeng4	440780
+沙頭角	saa1 tau4 gok3	447403
+運河	wan6 ho2	402534
+踢館	tek3 gun2	401686
+荔枝角	lai6 zi1 gok3	457608
+阿里	aa3 lei5	409652
+九龍塘	gau2 lung4 tong4	492185
+克里	haak1 lei5	414924
+半徑	bun3 ging3	401145
+芳村	fong1 cyun1	425011
+阿頭	aa3 tau4	423633
+院校	jyun2 gaau3	412020
+仆街	puk1 gaai1	546835
+墳場	fan4 coeng4	431010
+鄭秀文	zeng6 sau3 man1	389046
+山道	saan1 dou6	452538
+筲箕灣	saau1 gei1 waan1	469325
+赤道	cek3 dou6	409225
+梁振英	loeng4 zan3 jing1	403621
+直轄市	zik6 hat6 si5	399486
+警署	ging2 cyu5	462153
+中西區	zung1 sai1 keoi1	395850
+土瓜灣	tou2 gwaa1 waan1	496990
+診所	can2 so2	441998
+結局	git3 guk2	444953
+省城	saang2 sing4	426610
+三藩市	saam1 faan4 si5	432960
+籃球場	laam2 kau4 coeng4	415795
+磁場	ci4 coeng4	430889
+孫權	syun1 kyun4	401184
+江湖	gong1 wu4	398814
+國道	gwok3 dou6	376260
+縣級市	jyun6 kap1 si5	362739
+口徑	hau2 ging3	385828
+地級市	dei6 kap1 si5	360426
+王菲	wong4 fei1	411162
+台山	toi4 saan1	379979
+中央政府	zung1 joeng1 zing3 fu2	424039
+最高法院	zeoi3 gou1 faat3 jyun2	385494
+張敬軒	zoeng1 ging3 hin1	394678
+港區	gong2 keoi1	393396
+行路	hong2 lou6	493264
+王后	wong4 hau6	388413
+古巨基	gu2 geoi6 gei1	373026
+客觀	haak3 gun1	434580
+高等法院	gou1 dang2 faat3 jyun2	410235
+清真寺	cing1 zan1 zi2	409484
+賓館	ban1 gun2	407333
+海底隧道	hoi2 dai2 seoi6 dou6	388196
+汕頭	saan3 tau4	388986
+研究院	ngaan4 gau3 jyun2	396460
+謝霆鋒	ze6 ting4 fung1	374486
+都城	dou1 sing4	384314
+大使館	daai6 si3 gun2	424771
+周杰倫	zau1 git6 leon4	382533
+城市大學	sing4 si5 daai6 hok6	384272
+石門	sek2 mun4	395935
+羅湖	lo4 wu4	423754
+西區	sai1 keoi1	385026
+日頭	jat6 tau4	473437
+獅子山	si1 zi2 saan1	412959
+立法院	laap6 faat3 jyun2	419419
+高山	gou1 saan1	389246
+上市公司	soeng5 si5 gung1 si1	409473
+上堂	soeng5 tong4	510167
+海港	hoi2 gong2	404562
+油塘	jau4 tong4	419869
+迷宮	mai4 gung1	378217
+鴨脷洲	aap2 lei6 zau1	438441
+片頭	pin2 tau4	378886
+價值觀	gaa3 zik6 gun1	434450
+行山	hong2 saan1	495961
+屏山	ping4 saan1	415830
+禮堂	lai5 tong4	425167
+馬拉松	maa5 laai1 cung4	419555
+神社	san4 se5	372934
+德里	dak1 lei5	383730
+牛頭角	ngau4 tau4 gok3	433309
+林憶蓮	lam4 jik1 lin4	343269
+堅尼地城	gin1 nei4 dei6 sing4	436497
+維多利亞港	wai4 do1 lei6 aa3 gong2	399681
+文化中心	man1 faa3 zung1 sam1	378484
+落馬洲	lok6 maa5 zau1	367706
+許志安	heoi2 zi3 on1	349306
+高麗	gou1 lai6	393144
+釜山	fu2 saan1	366162
+膊頭	bok3 tau4	428036
+金山	gam1 saan1	390407
+嶺南大學	leng5 naam4 daai6 hok6	369653
+盧華	lou4 waa4	332722
+泳灘	wing6 taan1	450830
+澎湖	paang4 wu4	375120
+鯉魚門	lei5 jyu2 mun4	376917
+大會堂	daai6 wui5 tong4	377461
+高句麗	gou1 geoi3 lai6	367452
+城門	sing4 mun4	386819
+福島	fuk1 dou2	373812
+老街	lou5 gaai1	355344
+中區	zung1 keoi1	385590
+大洋洲	daai6 joeng4 zau1	371679
+東山	dung1 saan1	364053
+青洲	cing1 zau1	351677
+行人天橋	hong2 jan4 tin1 kiu4	386808
+迪士尼樂園	dik6 si6 nei4 ngaau6 jyun4	372981
+洪武	hung4 mou5	366755
+西街	sai1 gaai1	396707
+大澳	daai6 ou3	425604
+沙洲	saa1 zau1	369002
+書局	syu1 guk2	417704
+劍橋	gim3 kiu4	397082
+袁世凱	jyun4 sai3 kaai1	365233
+小西灣	siu2 sai1 waan1	360214
+金融中心	gam1 jung4 zung1 sam1	410816
+李氏	lei5 si6	355413
+大酒店	daai6 zau2 dim3	372465
+水道	seoi2 dou6	358951
+西村	sai1 cyun1	341015
+龍頭	lung4 tau4	381310
+鑽石山	zyun3 sek2 saan1	384064
+李斯特城	lei5 si1 dak6 sing4	343832
+南山	naam4 saan1	365564
+摔角	seot1 gok3	387904
+南丫島	naam4 aa1 dou2	403954
+石硤尾	sek2 gip3 mei1	411325
+年頭	nin4 tau4	380532
+禁區	gam3 keoi1	394517
+西灣河	sai1 waan1 ho2	427606
+南極洲	naam4 gik6 zau1	343526
+孫文	syun1 man1	352806
+行街	hong2 gaai1	502021
+主觀	zyu2 gun1	404018
+劉邦	lau4 bong1	354258
+股市	gu2 si5	473846
+華山	waa4 saan1	348568
+消防局	siu1 fong4 guk2	364957
+鄧小平	dang6 siu2 peng4	355417
+罐頭	gun3 tau4	438304
+泰山	taai3 saan1	344733
+保良局	bou2 loeng4 guk2	335926
+廉政公署	lim4 zing3 gung1 cyu5	400772
+廣島	gwong2 dou2	365330
+波斯灣	bo1 si1 waan1	360572
+西湖	sai1 wu4	362119
+西灣	sai1 waan1	377987
+兵部	bing1 bou6	348386
+新山	san1 saan1	356798
+北京路	bak1 ging1 lou6	354829
+梁漢文	loeng4 hon3 man1	318937
+中山路	zung1 saan1 lou6	340869
+康城	hong1 sing4	345072
+古天樂	gu2 tin1 ngaau6	353958
+佛寺	fat6 zi2	375810
+黃埔區	wong4 bou3 keoi1	328775
+城關鎮	sing4 gwaan1 zan3	313517
+吏部	lei6 bou6	361587
+周星馳	zau1 sing1 ci4	373808
+曾志偉	cang4 zi3 wai5	346860
+黃道	wong4 dou6	335270
+富山	fu3 saan1	330132
+陶瓷	tou4 ci4	356379
+曾蔭權	cang4 jam3 kyun4	354684
+何韻詩	ho4 wan5 si1	338008
+董卓	dung2 coek3	349448
+林子祥	lam4 zi2 coeng4	331925
+刑部	jing4 bou6	350385
+德涅斯特河	dak1 nip6 si1 dak6 ho2	341267
+松山	cung4 saan1	323472
+鄭中基	zeng6 zung1 gei1	320524
+鄭伊健	zeng6 ji1 gin6	314605
+北京政府	bak1 ging1 zing3 fu2	341570
+坪洲	ping4 zau1	421189
+三元里	saam1 jyun4 lei5	338852
+差館	caa1 gun2	428763
+彌敦道	mei4 deon1 dou6	374907
+百貨公司	baak3 fo3 gung1 si1	399886
+保安局	bou2 on1 guk2	365089
+張智霖	zoeng1 zi3 lam3	344238
+終審法院	zung1 sam2 faat3 jyun2	363454
+工部	gung1 bou6	340348
+車門	ce1 mun4	382215
+柔道	jau4 dou6	346330
+中央銀行	zung1 joeng1 ngan4 hong2	330857
+朱元璋	zyu1 jyun4 zoeng1	338231
+白宮	baak6 gung1	406651
+超級市場	ciu1 kap1 si5 coeng4	401377
+夜市	je6 si5	340243
+上山	soeng5 saan1	368855
+京畿道	ging1 gei1 dou6	317678
+殯儀館	ban3 ji4 gun2	359538
+金門	gam1 mun4	341388
+鄧紫棋	dang6 zi2 kei2	347874
+張惠妹	zoeng1 wai6 mui6	314351
+中國銀行	zung1 gwok3 ngan4 hong2	333637
+孫燕姿	syun1 jin3 zi1	303243
+空手道	hung1 sau2 dou6	373546
+周慧敏	zau1 wai3 man5	303804
+大廳	daai6 teng1	351699
+通訊社	tung1 seon3 se5	351024
+避風塘	bei6 fung1 tong4	379780
+海山	hoi2 saan1	311424
+幼兒園	jau3 ji4 jyun4	358602
+方力申	fong1 lik6 san1	303587
+中美洲	zung1 mei5 zau1	322173
+李小龍	lei5 siu2 lung4	374346
+唐山	tong4 saan1	312915
+旅行社	leoi5 hong2 se5	386683
+賽道	coi3 dou6	322607
+配角	pui3 gok3	333102
+懲教署	cing4 gaau3 cyu5	329326
+本港	bun2 gong2	458848
+胡錦濤	wu4 gam2 tou4	324170
+鄧麗欣	dang6 lai6 jan1	330385
+林村	lam4 cyun1	345155
+衙門	ngaa4 mun4	373949
+三山	saam1 saan1	303428
+南灣	naam4 waan1	345840
+大山	daai6 saan1	320020
+太湖	taai3 wu4	302319
+北洋政府	bak1 joeng4 zing3 fu2	346097
+洪水橋	hung4 seoi2 kiu4	441190
+高祖	gou1 zou2	319334
+上校	soeng5 gaau3	325820
+太平山	taai3 peng4 saan1	346842
+中山市	zung1 saan1 si5	300955
+許冠傑	heoi2 gun1 git6	305717
+鄧氏	dang6 si6	331954
+黑山	hak1 saan1	305541
+三角洲	saam1 gok3 zau1	367226
+小區	siu2 keoi1	320742
+海角	hoi2 gok3	316761
+牧場	muk6 coeng4	332932
+八鄉	baat3 hoeng1	357417
+唐人街	tong4 jan4 gaai1	343397
+墨西哥城	mak6 sai1 go1 sing4	325046
+西門	sai1 mun4	325367
+摩天大廈	mo1 tin1 daai6 haa6	349941
+香山	hoeng1 saan1	325344
+李嘉誠	lei5 gaa1 sing4	397169
+林俊傑	lam4 zeon3 git6	297973
+董建華	dung2 gin3 waa4	348237
+黑市	hak1 si5	353464
+主題公園	zyu2 tai4 gung1 jyun4	330768
+郵局	jau4 guk2	416746
+度假村	dou6 gaa2 cyun1	317673
+巴里	baa1 lei5	308311
+英皇道	jing1 wong4 dou6	305167
+世界觀	sai3 gaai3 gun1	373497
+天星碼頭	tin1 sing1 maa5 tau4	356003
+劉裕	lau4 jyu6	311578
+印度河	jan3 dou6 ho2	307556
+閘門	zaap6 mun4	338452
+姜濤	goeng1 tou4	367222
+紫禁城	zi2 gam3 sing4	305326
+費城	fai3 sing4	318510
+船灣	syun4 waan1	326347
+王傑	wong4 git6	283907
+嘉義市	gaa1 ji6 si5	297395
+李登輝	lei5 dang1 fai1	336615
+李鵬	lei5 paang4	346818
+也門	jaa5 mun4	299211
+渣打銀行	zaa1 daa1 ngan4 hong2	305890
+電場	din6 coeng4	298280
+鹿角	luk2 gok3	285632
+唐伯虎	tong4 baak3 fu2	290529
+天河路	tin1 ho2 lou6	326545
+婆羅洲	po4 lo4 zau1	304160
+彭定康	paang4 ding6 hong1	312034
+珠江三角洲	zyu1 gong1 saam1 gok3 zau1	326823
+汕尾	saan3 mei1	317897
+竹園	zuk1 jyun4	314863
+大洲	daai6 zau1	307414
+水族館	seoi2 zuk6 gun2	309505
+江澤民	gong1 zaak6 man4	299072
+炮台山	paau3 toi4 saan1	346501
+一帶一路	jat1 daai3 jat1 lou6	339625
+南島	naam4 dou2	313941
+大帽山	daai6 mou2 saan1	321422
+李世民	lei5 sai3 man4	308816
+南澳	naam4 ou3	322758
+吳亦凡	ng4 jik6 faan4	305440
+王晶	wong4 zing1	333316
+額頭	ngaak6 tau4	395048
+李克強	lei5 haak1 koeng4	336085
+力場	lik6 coeng4	308301
+拉丁美洲	laai1 ding1 mei5 zau1	334907
+李健	lei5 gin6	285259
+華爾街	waa4 ji5 gaai1	345057
+蕭敬騰	siu1 ging3 tang4	300948
+郭台銘	gwok3 toi4 ming5	453966
+直角	zik6 gok3	303785
+西西里	sai1 sai1 lei5	290631
+公館	gung1 gun2	292456
+天安門廣場	tin1 on1 mun4 gwong2 coeng4	288708
+禮部	lai5 bou6	308297
+中島	zung1 dou2	293486
+劉歡	lau4 fun1	282233
+張繼聰	zoeng1 gai3 cung1	312456
+一山	jat1 saan1	304525
+梁國雄	loeng4 gwok3 hung4	314407
+鄭少秋	zeng6 siu2 cau1	279086
+陰道	jam1 dou6	365450
+馬仔	maa5 zai2	378397
+吳鎮宇	ng4 zan3 jyu5	350954
+張信哲	zoeng1 seon3 zit3	274355
+杜汶澤	dou6 man4 zaak6	305287
+王莽	wong4 mong5	295653
+虎門	fu2 mun4	299191
+鄭嘉穎	zeng6 gaa1 wing6	285588
+劉美君	lau4 mei5 gwan1	269768
+周潤發	zau1 jeon6 faat3	331266
+迴旋處	wui4 syun4 cyu5	300065
+嘉義縣	gaa1 ji6 jyun6	287398
+德島	dak1 dou2	290713
+福岡縣	fuk1 gong1 jyun6	287055
+尼羅河	nei4 lo4 ho2	322707
+檀香山	taan4 hoeng1 saan1	296322
+淮河	waai4 ho2	300490
+葉問	jip6 man6	421370
+象山	zoeng6 saan1	321268
+車公廟	ce1 gung1 miu2	322227
+北街	bak1 gaai1	310376
+孫耀威	syun1 jiu6 wai1	269093
+後宮	hau6 gung1	310236
+李光耀	lei5 gwong1 jiu6	330223
+李白	lei5 baak6	312566
+八角	baat3 gok3	297944
+千葉縣	cin1 jip6 jyun6	282894
+胡志明市	wu4 zi3 ming4 si5	285468
+大觀	daai6 gun1	302590
+東門	dung1 mun4	292317
+連戰	lin4 zin3	318595
+中山大道	zung1 saan1 daai6 dou6	272288
+古典力學	gu2 din2 lik6 hok6	301099
+張家輝	zoeng1 gaa1 fai1	326984
+愉景灣	jyu6 ging2 waan1	382051
+杜德偉	dou6 dak1 wai5	266732
+爬山	paa4 saan1	386821
+小山	siu2 saan1	275152
+政治局	zing3 zi6 guk2	302884
+新竹市	san1 zuk1 si5	301192
+絲綢之路	si1 cau4 zi1 lou6	350968
+徐佳瑩	ceoi4 gaai1 jing4	285691
+徐小鳳	ceoi4 siu2 fung6	287321
+朱德	zyu1 dak1	295185
+名校	meng2 gaau3	362464
+墨西哥灣	mak6 sai1 go1 waan1	404005
+跆拳道	toi4 kyun4 dou6	279265
+南門	naam4 mun4	306515
+王力宏	wong4 lik6 wang4	266005
+石排灣	sek2 paai4 waan1	285409
+鳳凰山	fung6 wong4 saan1	306043
+龍躍頭	lung4 joek3 tau4	303225
+何君堯	ho4 gwan1 jiu4	347565
+和歌山	wu4 go1 saan1	271036
+堂區	tong4 keoi1	290417
+神道	san4 dou6	305610
+胡杏兒	wu4 hang6 ji4	305673
+葉利欽	jip6 lei6 jam1	302682
+馬尾	maa5 mei1	295162
+函館	haam4 gun2	283563
+石山	sek2 saan1	300724
+貴港	gwai3 gong2	271902
+鄭裕玲	zeng6 jyu6 ling4	303149
+浮山	pou4 saan1	361117
+劉慧卿	lau4 wai3 hing1	260628
+方大同	fong1 daai6 tung4	267826
+株洲	zyu1 zau1	290455
+淺水灣	cin2 seoi2 waan1	391640
+許美靜	heoi2 mei5 zing6	257975
+韓紅	hon4 hung4	288657
+亞太區	aa3 taai3 keoi1	285141
+慈雲山	ci4 wan4 saan1	317722
+明道	ming4 dou6	315835
+林夕	lam4 zik6	288214
+子宮	zi2 gung1	347300
+平山	peng4 saan1	287009
+林彪	lam4 biu1	315931
+林海峰	lam4 hoi2 fung1	317435
+江山	gong1 saan1	342732
+田村	tin4 cyun1	279537
+膝頭	sat1 tau4	354546
+葉劍英	jip6 gim3 jing1	288659
+屏東縣	ping4 dung1 jyun6	316660
+蔡卓妍	coi3 coek3 jin4	270588
+卡路里	kaa1 lou6 lei5	442981
+吉林市	gat1 lam4 si5	294365
+大村	daai6 cyun1	284663
+昂山	ngong5 saan1	298018
+楊宗緯	joeng4 zung1 wai5	267674
+牛池灣	ngau4 ci4 waan1	323340
+蛟河	gaau1 ho2	285508
+關島	gwaan1 dou2	280700
+元洲	jyun4 zau1	304801
+六部	luk6 bou6	297571
+吳奇隆	ng4 kei4 lung4	251616
+林保怡	lam4 bou2 ji4	272142
+補習社	bou2 zaap6 se5	390418
+雲林縣	wan4 lam4 jyun6	268354
+古拉	gu2 laai1	287774
+周華健	zau1 waa4 gin6	296619
+沈殷怡	sam2 jan1 ji4	297635
+花山	faa1 saan1	264542
+唐英年	tong4 jing1 nin4	285460
+天河城	tin1 ho2 sing4	265846
+少校	siu2 gaau3	285190
+控股公司	hung3 gu2 gung1 si1	303887
+靜岡縣	zing6 gong1 jyun6	260175
+人頭	jan4 tau4	336780
+周柏豪	zau1 paak3 hou4	293314
+山城	saan1 sing4	290373
+李兆基	lei5 siu6 gei1	312927
+林志炫	lam4 zi3 jyun4	272622
+石澳	sek2 ou3	321507
+葉德嫻	jip6 dak1 haan4	279895
+周秀娜	zau1 sau3 naa4	318520
+宜蘭縣	ji4 laan4 jyun6	295360
+正街	zeng3 gaai1	333866
+胡定欣	wu4 ding6 jan1	272989
+中校	zung1 gaau3	270660
+斧頭	fu2 tau4	315998
+日和山	jat6 wu4 saan1	245489
+楊明	joeng4 ming4	327266
+王浩信	wong4 hou6 seon3	271755
+鐵道部	tit3 dou6 bou6	285079
+古道	gu2 dou6	288228
+庭園	ting4 jyun4	314566
+枕頭	zam2 tau4	387176
+盧瀚霆	lou4 hon6 ting4	268425
+石橋	sek2 kiu4	267063
+衡山	hang4 saan1	269579
+喬治市	kiu4 zi6 si5	273952
+宮城縣	gung1 sing4 jyun6	265937
+張飛	zoeng1 fei1	363388
+魏家祥	ngai6 gaa1 coeng4	282935
+光頭	gwong1 tau4	365957
+劉少奇	lau4 siu2 kei4	281808
+天門	tin1 mun4	262174
+小路	siu2 lou6	318766
+王冠	wong4 gun1	305884
+王氏	wong4 si6	276845
+路透社	lou6 tau3 se5	281422
+九龍寨城	gau2 lung4 zaai6 sing4	307807
+十八鄉	sap6 baat3 hoeng1	313478
+周大福	zau1 daai6 fuk1	289580
+平交道	peng4 gaau1 dou6	247886
+廬山	lou4 saan1	299330
+曹永廉	cou4 wing5 lim4	293093
+李香蘭	lei5 hoeng1 laan4	275021
+流亡政府	lau4 mong4 zing3 fu2	338724
+王安石	wong4 on1 sek2	297176
+蕪湖	mou4 wu4	269123
+謝賢	ze6 jin4	355342
+龍山	lung4 saan1	302142
+古鎮	gu2 zan3	302394
+岡山	gong1 saan1	273871
+李宗盛	lei5 zung1 sing6	251212
+李約瑟	lei5 joek3 sat1	274783
+江津	gong1 zeon1	251119
+鄧麗君	dang6 lai6 gwan1	273500
+余文樂	jyu4 man1 ngaau6	281589
+夜校	je6 gaau3	352839
+大佛寺	daai6 fat6 zi2	275328
+大浪灣	daai6 long6 waan1	296832
+朝陽區	ciu4 joeng4 keoi1	269650
+李自成	lei5 zi6 seng4	273473
+胡耀邦	wu4 jiu6 bong1	266000
+掉頭	deu6 tau4	306127
+深圳河	sam1 zan3 ho2	303040
+火車頭	fo2 ce1 tau4	269810
+舞廳	mou5 teng1	274344
+鹿兒島	luk2 ji4 dou2	288806
+呂爵安	leoi5 zoek3 on1	257218
+嵩山	sung1 saan1	264024
+彭佳慧	paang4 gaai1 wai3	249317
+梁美芬	loeng4 mei5 fan1	313315
+火葬場	fo2 zong3 coeng4	324132
+盧巧音	lou4 haau2 jam1	238934
+貞觀	zing1 gun1	258152
+三河	saam1 ho2	257060
+勞工處	lou4 gung1 cyu5	373105
+恆河	hang4 ho2	258524
+楊丞琳	joeng4 sing4 lam4	259054
+沙灣	saa1 waan1	247534
+笑傲江湖	siu3 ngou6 gong1 wu4	266414
+蔡少芬	coi3 siu2 fan1	290054
+鄭欣宜	zeng6 jan1 ji4	249190
+駱振偉	lok6 zan3 wai5	242558
+凱里	kaai1 lei5	269468
+劉浩龍	lau4 hou6 lung4	249239
+劉璋	lau4 zoeng1	267253
+吳孟達	ng4 maang6 daat6	245135
+周深	zau1 sam1	247453
+張達明	zoeng1 daat6 ming4	368088
+李俊	lei5 zeon3	249063
+永城	wing5 sing4	305667
+流溪河	lau4 kai1 ho2	252937
+海城	hoi2 sing4	251509
+白河	baak6 ho2	244455
+蔡健雅	coi3 gin6 ngaa5	259760
+鄧炳強	dang6 bing2 koeng4	327237
+上海街	soeng5 hoi2 gaai1	302520
+富士山	fu3 si6 saan1	269950
+東園	dung1 jyun4	252054
+玻璃市	bo1 lei1 si5	255333
+譚耀文	taam4 jiu6 man1	249999
+飯堂	faan6 tong4	334499
+天山	tin1 saan1	270842
+姜皓文	goeng1 hou6 man1	254962
+張立基	zoeng1 laap6 gei1	233571
+徐子珊	ceoi4 zi2 saan1	250948
+母校	mou5 gaau3	336537
+盧海鵬	lou4 hoi2 paang4	246114
+礦場	kwong3 coeng4	284198
+何俊仁	ho4 zeon3 jan4	290557
+多瑙河	do1 nou5 ho2	261699
+岑樂怡	sam4 ngaau6 ji4	246032
+工務局	gung1 mou6 guk2	332921
+廈村	haa6 cyun1	288259
+李卓人	lei5 coek3 jan4	281988
+石城	sek2 sing4	245621
+阮兆祥	jyun2 siu6 coeng4	239054
+阿爾卑斯山	aa3 ji5 bei1 si1 saan1	284705
+三門	saam1 mun4	253348
+九江市	gau2 gong1 si5	245226
+冰山	bing1 saan1	331692
+張氏	zoeng1 si6	265769
+曹植	cou4 zik6	250132
+梅縣	mui4 jyun6	254097
+玉山	juk2 saan1	253538
+蒜頭	syun3 tau4	285559
+林嘉欣	lam4 gaa1 jan1	241057
+盧冠廷	lou4 gun1 ting4	236276
+福山	fuk1 saan1	245977
+錦上路	gam2 soeng5 lou6	287332
+人道	jan4 dou6	304603
+劉徹	lau4 cit3	252962
+張靚穎	zoeng1 leng3 wing6	249137
+愉園	jyu6 jyun4	260163
+扯旗山	ce2 kei4 saan1	267067
+文山	man1 saan1	246387
+果園	gwo2 jyun4	319779
+沿江路	jyun4 gong1 lou6	257716
+胡適	wu4 sik1	263402
+龍崗區	lung4 gong1 keoi1	234158
+劉丹	lau4 daan1	246920
+南京路	naam4 ging1 lou6	304380
+南頭	naam4 tau4	268293
+司法院	si1 faat3 jyun2	274101
+周永康	zau1 wing5 hong1	241105
+奧海城	ou3 hoi2 sing4	277399
+審計署	sam2 gai3 cyu5	302147
+張伯倫	zoeng1 baak3 leon4	253785
+新德里	san1 dak1 lei5	270865
+方中信	fong1 zung1 seon3	254783
+曹爽	cou4 song2	279805
+李國麟	lei5 gwok3 leon4	253761
+江城	gong1 sing4	254841
+花蓮縣	faa1 lin4 jyun6	245763
+荔園	lai6 jyun4	260041
+長島	coeng4 dou2	316209
+青馬大橋	cing1 maa5 daai6 kiu4	339895
+光孝寺	gwong1 haau3 zi2	274787
+嘜頭	mak1 tau4	356883
+客廳	haak3 teng1	360559
+小城	siu2 sing4	284507
+新鄉	san1 hoeng1	238150
+曹格	cou4 gaak3	274420
+李蕙敏	lei5 wai6 man5	225732
+板橋	baan2 kiu4	259860
+林卓廷	lam4 coek3 ting4	300267
+王馨平	wong4 hing1 peng4	227596
+田灣	tin4 waan1	300207
+綠洲	luk6 zau1	258506
+葉玉卿	jip6 juk2 hing1	266961
+袁偉豪	jyun4 wai5 hou4	293245
+許紹雄	heoi2 siu6 hung4	242871
+郭晉安	gwok3 zeon3 on1	242276
+龔如心	gung1 jyu4 sam1	261062
+三島	saam1 dou2	260133
+吳浩康	ng4 hou6 hong1	230338
+周海媚	zau1 hoi2 mei4	369835
+張建聲	zoeng1 gin3 seng1	275128
+李樂詩	lei5 ngaau6 si1	228213
+梁山	loeng4 saan1	242629
+江美儀	gong1 mei5 ji4	246318
+舟山	zau1 saan1	257520
+西樵山	sai1 ciu4 saan1	252974
+遊樂園	jau4 ngaau6 jyun4	280745
+平湖	peng4 wu4	274962
+徐克	ceoi4 haak1	269295
+拳頭	kyun4 tau4	346900
+曹髦	cou4 mou4	261230
+李司棋	lei5 si1 kei2	244778
+李娜	lei5 naa4	233961
+李香琴	lei5 hoeng1 kam4	237390
+柯士甸道	o1 si6 din1 dou6	256899
+轉校	zyun2 gaau3	280878
+韓遂	hon4 seoi5	259775
+鹿島	luk2 dou2	234019
+中央情報局	zung1 joeng1 cing4 bou3 guk2	272995
+孫皓	syun1 hou6	252924
+少林寺	siu2 lam4 zi2	330956
+王宗堯	wong4 zung1 jiu4	253819
+興華路	hing1 waa4 lou6	221881
+蔚山	wai3 saan1	251289
+香港金融管理局	hoeng1 gong2 gam1 jung4 gun2 lei5 guk2	280149
+亞馬遜河	aa3 maa5 seon3 ho2	276986
+南昌街	naam4 coeng1 gaai1	250909
+商城	soeng1 sing4	290735
+張國強	zoeng1 gwok3 koeng4	227114
+彭家麗	paang4 gaa1 lai6	223315
+彭浩翔	paang4 hou6 coeng4	274655
+朱薰	zyu1 fan1	222546
+李敏	lei5 man5	242018
+灣區	waan1 keoi1	238703
+茅山	maau4 saan1	284070
+鄭氏	zeng6 si6	258805
+防城港	fong4 sing4 gong2	228557
+麥潔文	mak6 git3 man1	222546
+內港	noi6 gong2	238668
+劉江	lau4 gong1	288288
+埠頭	fau6 tau4	242390
+孫堅	syun1 gin1	261323
+安祿山	on1 luk6 saan1	258736
+惠山	wai6 saan1	251398
+東城區	dung1 sing4 keoi1	271305
+楊氏	joeng4 si6	244006
+燕山	jin3 saan1	239237
+福岡市	fuk1 gong1 si5	235355
+高海寧	gou1 hoi2 ning4	283411
+吉澳	gat1 ou3	319802
+張兆輝	zoeng1 siu6 fai1	294680
+梁耀忠	loeng4 jiu6 zung1	280568
+王明	wong4 ming4	238180
+美里	mei5 lei5	235798
+中文中學	zung1 man1 zung1 hok6	315217
+何超儀	ho4 ciu1 ji4	288270
+好望角	hou2 mong6 gok3	239679
+平安北道	peng4 on1 bak1 dou6	235464
+徐熙媛	ceoi4 hei1 wun4	262906
+淇澳	kei4 ou3	241618
+胡鴻鈞	wu4 hung4 gwan1	228247
+船尾	syun4 mei1	296484
+西宮	sai1 gung1	242629
+鄺俊宇	kwong3 zeon3 jyu5	351255
+錢嘉樂	cin2 gaa1 ngaau6	238578
+雙橋	soeng1 kiu4	218526
+靠山	kaau3 saan1	233845
+鹽城	jim4 sing4	226605
+南城	naam4 sing4	230527
+堅道	gin1 dou6	234771
+宮崎縣	gung1 kei1 jyun6	224740
+平方英里	peng4 fong1 jing1 lei5	267969
+投資銀行	tau4 zi1 ngan4 hong2	258860
+李淵	lei5 jyun1	241202
+林百欣	lam4 baak3 jan1	284837
+梁氏	loeng4 si6	262918
+泰康路	taai3 hong1 lou6	223985
+洪卓立	hung4 coek3 laap6	220819
+熱河	jit6 ho2	266148
+苗栗市	miu4 leot6 si5	253294
+鄭國	zeng6 gwok3	234655
+陰部	jam1 bou6	275475
+馬灣	maa5 waan1	271423
+劉氏	lau4 si6	298735
+劉皇發	lau4 wong4 faat3	230488
+唐寧	tong4 ning4	257025
+孫科	syun1 fo1	281345
+宣城	syun1 sing4	251267
+快門	faai3 mun4	312560
+新市	san1 si5	225380
+楊潤雄	joeng4 jeon6 hung4	281290
+歐錦棠	au1 gam2 tong4	240315
+王平	wong4 peng4	242266
+紅河	hung4 ho2	245969
+胡楓	wu4 fung1	228367
+蔡楓華	coi3 fung1 waa4	219908
+袁富華	jyun4 fu3 waa4	233806
+許茹芸	heoi2 jyu4 wan4	223876
+道觀	dou6 gun1	293068
+麥明詩	mak6 ming4 si1	320794
+龍尾	lung4 mei1	302823
+元山	jyun4 saan1	272761
+劉嘉玲	lau4 gaa1 ling4	250111
+劉小慧	lau4 siu2 wai3	217205
+吳三桂	ng4 saam1 gwai3	239693
+吳倩蓮	ng4 sin6 lin4	214285
+李嘉欣	lei5 gaa1 jan1	265716
+李明博	lei5 ming4 bok3	229686
+梁靜茹	loeng4 zing6 jyu4	224457
+江若琳	gong1 joek6 lam4	216445
+環城路	waan4 sing4 lou6	215141
+蔡思貝	coi3 si1 bui3	264588
+蕭亞軒	siu1 aa3 hin1	224866
+虎山	fu2 saan1	253381
+隆河	lung4 ho2	218546
+青雲路	cing1 wan4 lou6	214285
+中宮	zung1 gung1	216705
+伍樂城	ng5 ngaau6 sing4	221266
+包頭	baau1 tau4	252505
+城門河	sing4 mun4 ho2	312507
+奸角	gaan1 gok3	289563
+姚子羚	jiu4 zi2 ling4	236596
+寶安區	bou2 on1 keoi1	217158
+張震	zoeng1 zan3	217983
+杜麗莎	dou6 lai6 saa1	219240
+林堡	lam4 bou2	226246
+沈殿霞	sam2 din6 haa4	227043
+胡志明	wu4 zi3 ming4	226246
+講談社	gong2 taam4 se5	228235
+連詩雅	lin4 si1 ngaa5	279786
+馬里	maa5 lei5	244413
+劉佩玥	lau4 pui3 jyut6	260710
+呂氏	leoi5 si6	230504
+喜馬拉雅山	hei2 maa5 laai1 ngaa5 saan1	231512
+大灣	daai6 waan1	223062
+提堂	tai4 tong4	332471
+洲頭	zau1 tau4	276505
+萬福路	maan6 fuk1 lou6	245199
+葉麗儀	jip6 lai6 ji4	215745
+西湖路	sai1 wu4 lou6	258235
+賭廳	dou2 teng1	213565
+三家村	saam1 gaa1 cyun1	220609
+八和會館	baat3 wu4 wui5 gun2	228281
+公孫淵	gung1 syun1 jyun1	234781
+吳若希	ng4 joek6 hei1	230566
+呂方	leoi5 fong1	222600
+城中路	sing4 zung1 lou6	207436
+大同市	daai6 tung4 si5	236156
+岡山縣	gong1 saan1 jyun6	229743
+李斯	lei5 si1	256311
+李斯特	lei5 si1 dak6	246518
+李顯	lei5 hin2	231474
+林雪	lam4 syut3	225464
+洪濤	hung4 tou4	241317
+紫金山	zi2 gam1 saan1	247241
+蕩失路	dong6 sat1 lou6	368414
+防城	fong4 sing4	227496
+陶傑	tou4 git6	240663
+雪狼湖	syut3 long4 wu4	236903
+鞍山	on1 saan1	248098
+饅頭	maan6 tau4	295120
+利園	lei6 jyun4	261466
+居里	geoi1 lei5	239213
+張曼玉	zoeng1 maan6 juk2	251055
+排頭	paai4 tau4	247849
+昂船洲	ngong5 syun4 zau1	278115
+望城	mong6 sing4	250102
+李成昌	lei5 seng4 coeng1	232431
+杜甫	dou6 pou2	289679
+林曉峰	lam4 hiu1 fung1	212359
+梁業	loeng4 jip6	217178
+百和路	baak3 wu4 lou6	217178
+的黎波里	dik1 lai4 bo1 lei5	226404
+美聯社	mei5 lyun4 se5	280976
+翠竹路	ceoi3 zuk1 lou6	205829
+蘇菲	sou1 fei1	235907
+謝天華	ze6 tin1 waa4	208237
+連江縣	lin4 gong1 jyun6	230877
+郭德綱	gwok3 dak1 gong1	241230
+郭沫若	gwok3 mut6 joek6	239033
+龔嘉欣	gung1 gaa1 jan1	217178
+劉傑	lau4 git6	214298
+劉康	lau4 hong1	240480
+吳國敬	ng4 gwok3 ging3	204189
+官洲	gun1 zau1	227682
+廖秀冬	liu6 sau3 dung1	326033
+李柱銘	lei5 cyu5 ming5	232121
+李麗珍	lei5 lai6 zan1	211342
+東城	dung1 sing4	217739
+柏保路	paak3 bou2 lou6	209031
+滋賀縣	zi1 ho6 jyun6	215616
+牛尾	ngau4 mei1	260420
+秦淮河	ceon4 waai4 ho2	225350
+葉振棠	jip6 zan3 tong4	208527
+薛晉寧	sit3 zeon3 ning4	209031
+蘇貞昌	sou1 zing1 coeng1	252978
+西鄉	sai1 hoeng1	218186
+譚晶	taam4 zing1	219946
+馮檢基	fung4 gim2 gei1	234707
+高洋	gou1 joeng4	236661
+高飛	gou1 fei1	247561
+亞門	aa3 mun4	226451
+劉錫明	lau4 sek3 ming4	210724
+北環路	bak1 waan4 lou6	205991
+南園	naam4 jyun4	323297
+呂良偉	leoi5 loeng4 wai5	217244
+曾江	cang4 gong1	216484
+李先念	lei5 sin1 nim6	226322
+楊坤	joeng4 kwan1	213779
+石修	sek2 sau1	216484
+蕭若元	siu1 joek6 jyun4	297521
+五大湖	ng5 daai6 wu4	227612
+伍廷芳	ng5 ting4 fong1	229877
+劉亦菲	lau4 jik6 fei1	318966
+劉心悠	lau4 sam1 jau4	262659
+張寶兒	zoeng1 bou2 ji4	246391
+李思捷	lei5 si1 zit6	205852
+李添勝	lei5 tim1 sing1	220080
+東風路	dung1 fung1 lou6	246450
+泰晤士河	taai3 ng6 si6 ho2	223209
+深旺道	sam1 wong6 dou6	294693
+石塘	sek2 tong4	241401
+秀山	sau3 saan1	226551
+范冰冰	faan6 bing1 bing1	211492
+何婉盈	ho4 jyun2 jing4	206670
+六鄉	luk6 hoeng1	229516
+南里	naam4 lei5	258876
+寧鄉	ning4 hoeng1	217759
+尿道	niu6 dou6	226974
+張松枝	zoeng1 cung4 zi1	259490
+拜山	baai3 saan1	357359
+方位角	fong1 wai6 gok3	223515
+渣甸山	zaa1 din1 saan1	255748
+礦區	kwong3 keoi1	222544
+罷市	baa6 si5	320881
+羅生門	lo4 saang1 mun4	257995
+董必武	dung2 bit1 mou5	222259
+西敏市	sai1 man5 si5	202680
+連雲港	lin4 wan4 gong2	205629
+郝柏村	kok3 paak3 cyun1	226908
+郭嘉駿	gwok3 gaa1 zeon3	206670
+麥美恩	mak6 mei5 jan1	207616
+黃勝	wong4 sing1	244448
+北島	bak1 dou2	222260
+吳宗憲	ng4 zung1 hin3	219413
+喜靈洲	hei2 ling4 zau1	246369
+太和市	taai3 wu4 si5	226468
+密西西比河	mat6 sai1 sai1 bei2 ho2	229040
+山縣	saan1 jyun6	217943
+岑麗香	sam4 lai6 hoeng1	210253
+張宇	zoeng1 jyu5	213876
+彩虹橋	coi2 hung3 kiu4	267880
+愛媛縣	oi3 wun4 jyun6	205404
+新橋	san1 kiu4	245877
+方文山	fong1 man1 saan1	220646
+杜畿	dou6 gei1	216504
+東灣	dung1 waan1	242753
+林志美	lam4 zi3 mei5	203533
+林村河	lam4 cyun1 ho2	229736
+歐姆	au1 mou5	231684
+水頭	seoi2 tau4	260984
+江欣燕	gong1 jan1 jin3	221007
+油門	jau4 mun4	300940
+縣轄市	jyun6 hat6 si5	209838
+范逸臣	faan6 jat6 san4	199939
+莊士敦道	zong1 si6 deon1 dou6	215399
+蜀山	suk6 saan1	214194
+運城	wan6 sing4	211891
+郭奕芯	gwok3 jik6 sam1	216504
+高志森	gou1 zi3 sam1	225326
+高爾	gou1 ji5	240177
+一德路	jat1 dak1 lou6	257853
+三笠宮	saam1 lap1 gung1	204290
+保山	bou2 saan1	214070
+劉俊謙	lau4 zeon3 him1	274493
+向陽路	hoeng3 joeng4 lou6	198165
+寶山	bou2 saan1	206830
+巴生港	baa1 saang1 gong2	221183
+張艾嘉	zoeng1 ngaai6 gaa1	222285
+徐榮	ceoi4 wing4	226134
+斗六市	dau2 luk6 si5	200822
+李佳薇	lei5 gaai1 mei4	198165
+李永達	lei5 wing5 daat6	221610
+李隆基	lei5 lung4 gei1	225961
+杜迪	dou6 dik6	203390
+東安縣	dung1 on1 jyun6	208117
+林良實	lam4 loeng4 sat6	225766
+梁頌恆	loeng4 zung6 hang4	275221
+楊堅	joeng4 gin1	229634
+沈震軒	sam2 zan3 hin1	208281
+津市	zeon1 si5	237186
+濟州島	zai3 zau1 dou2	199697
+維德角	wai4 dak1 gok3	219818
+鄉事會路	hoeng1 si6 wui5 lou6	292363
+霞山	haa4 saan1	210946
+鶴山	hok6 saan1	270286
+劉江華	lau4 gong1 waa4	279649
+和平路	wu4 peng4 lou6	199070
+山階宮	saan1 gaai1 gung1	211384
+平城	peng4 sing4	208408
+張雨生	zoeng1 jyu5 saang1	197431
+快速道路	faai3 cuk1 dou6 lou6	221923
+施丹	si1 daan1	263061
+春秧街	ceon1 joeng1 gaai1	222358
+杜海濤	dou6 hoi2 tou4	211384
+林心如	lam4 sam1 jyu4	205651
+林榮基	lam4 wing4 gei1	390470
+楊樂文	joeng4 ngaau6 man1	201696
+永定河	wing5 ding6 ho2	225463
+法新社	faat3 san1 se5	227427
+洗頭	sai2 tau4	354506
+王君馨	wong4 gwan1 hing1	201696
+王建	wong4 gin3	209413
+紅棉路	hung4 min4 lou6	268328
+蔡潔	coi3 git3	239153
+薛之謙	sit3 zi1 him1	205211
+關山	gwaan1 saan1	197918
+韋家輝	wai5 gaa1 fai1	240721
+麥理浩徑	mak6 lei5 hou6 ging3	211384
+龍津路	lung4 zeon1 lou6	206693
+何秀蘭	ho4 sau3 laan4	203556
+何超	ho4 ciu1	246065
+劉伯承	lau4 baak3 sing4	209199
+協和街	hip3 wu4 gaai1	253609
+吳耀漢	ng4 jiu6 hon3	202559
+吳肇軒	ng4 siu6 hin1	205071
+周門	zau1 mun4	191601
+大校	daai6 gaau3	250785
+大館	daai6 gun2	238513
+廖碧兒	liu6 bik1 ji4	192750
+文德路	man1 dak1 lou6	250940
+曾國祥	cang4 gwok3 coeng4	240848
+林靜儀	lam4 zing6 ji4	238561
+深灣	sam1 waan1	254909
+白山	baak6 saan1	228454
+華泰路	waa4 taai3 lou6	191601
+許鞍華	heoi2 on1 waa4	229613
+郭鋒	gwok3 fung1	208437
+鄭俊弘	zeng6 zeon3 wang4	221636
+鄭希怡	zeng6 hei1 ji4	209859
+駱克道	lok6 haak1 dou6	240443
+龔慈恩	gung1 ci4 jan1	216524
+劉兆銘	lau4 siu6 ming5	211742
+劉易斯	lau4 ji6 si1	213542
+吳氏	ng4 si6	207284
+唐滌生	tong4 dik6 saang1	239476
+大同路	daai6 tung4 lou6	197026
+彭氏	paang4 si6	224074
+曾健成	cang4 gin6 seng4	225767
+李子雄	lei5 zi2 hung4	266877
+李昭南	lei5 ciu1 naam4	195439
+東角	dung1 gok3	217236
+林嘉華	lam4 gaa1 waa4	230911
+桐城	tung4 sing4	201777
+楊尚昆	joeng4 soeng6 kwan1	207795
+死對頭	sei2 deoi3 tau4	290563
+涼山	loeng4 saan1	205728
+胡志偉	wu4 zi3 wai5	231601
+袁文傑	jyun4 man1 git6	204400
+鄭敬基	zeng6 ging3 gei1	229833
+阮小儀	jyun2 siu2 ji4	210636
+韓磊	hon4 leoi5	192585
+高美士	gou1 mei5 si6	192585
+龜頭	gwai1 tau4	294705
+上村	soeng5 cyun1	200046
+中堂	zung1 tong4	217942
+何氏	ho4 si6	210917
+劉曉波	lau4 hiu1 bo1	198521
+劉賓雁	lau4 ban1 ngaan6	256272
+吳宇森	ng4 jyu5 sam1	199094
+圓明園	jyun4 ming4 jyun4	245598
+基隆港	gei1 lung4 gong2	222648
+孫越	syun1 jyut6	197456
+張秀文	zoeng1 sau3 man1	205233
+徐志摩	ceoi4 zi3 mo1	210012
+掃街	sou2 gaai1	290875
+李嘉	lei5 gaa1	199094
+李宇春	lei5 jyu5 ceon1	193557
+橋頭	kiu4 tau4	295265
+橫洲	waang4 zau1	265756
+活火山	wut6 fo2 saan1	246218
+石堅	sek2 gin1	254486
+胡夏	wu4 haa6	208593
+謝雪心	ze6 syut3 sam1	220003
+豐縣	fung1 jyun6	229285
+鄭松泰	zeng6 cung4 taai3	270243
+錢穆	cin2 muk6	263624
+靈堂	ling4 tong4	269406
+韋家雄	wai5 gaa1 hung4	215824
+黑河	hak1 ho2	205148
+何佩瑜	ho4 pui3 jyu4	213251
+信義區	seon3 ji6 keoi1	199329
+傅穎	fu6 wing6	269221
+劉毅	lau4 ngai6	209975
+吉祥路	gat1 coeng4 lou6	197301
+吳浣儀	ng4 wun2 ji4	194517
+圓洲角	jyun4 zau1 gok3	199988
+尖山	zim1 saan1	292732
+山門	saan1 mun4	271164
+張亞東	zoeng1 aa3 dung1	190996
+彭羚	paang4 ling4	262227
+曾航生	cang4 hong4 saang1	195024
+李駿傑	lei5 zeon3 git6	209881
+林一峰	lam4 jat1 fung1	199988
+林泳	lam4 wing6	222613
+梁祖堯	loeng4 zou2 jiu4	202583
+楊廣	joeng4 gwong2	216543
+水務署	seoi2 mou6 cyu5	266714
+潘嘉德	pun1 gaa1 dak1	207525
+王喜	wong4 hei2	249634
+聊城	liu4 sing4	209720
+蔡立兒	coi3 laap6 ji4	188626
+蘇芮	sou1 jeoi6	194517
+蘇麗珊	sou1 lai6 saan1	191628
+鄭融	zeng6 jung4	194517
+馮德倫	fung4 dak1 leon4	206282
+北京城	bak1 ging1 sing4	228779
+吳千語	ng4 cin1 jyu5	251417
+吳家麗	ng4 gaa1 lai6	233276
+女人街	neoi2 jan4 gaai1	230231
+巢湖	caau4 wu4	203801
+常山	soeng4 saan1	204868
+彭德懷	paang4 dak1 waai4	207306
+斜角	ce3 gok3	223331
+斬頭	zaam2 tau4	216162
+新港路	san1 gong2 lou6	198215
+李榮浩	lei5 wing4 hou6	187793
+柏景灣	paak3 ging2 waan1	219543
+民航局	man4 hong4 guk2	247085
+江漢	gong1 hon3	201711
+江蕙	gong1 wai6	191359
+沿河	jyun4 ho2	211684
+海河	hoi2 ho2	200690
+灶頭	zou3 tau4	192092
+王偉	wong4 wai5	195368
+王敏德	wong4 man5 dak1	231990
+譚耀宗	taam4 jiu6 zung1	200311
+食道	sik6 dou6	243500
+鼓樓區	gu2 lau2 keoi1	192512
+佐賀縣	zo2 ho6 jyun6	192346
+何嘉莉	ho4 gaa1 lei6	187618
+何家勁	ho4 gaa1 ging6	196401
+劉秀	lau4 sau3	210368
+劉若英	lau4 joek6 jing1	188172
+半島酒店	bun3 dou2 zau2 dim3	260103
+奈良市	noi6 loeng4 si5	199027
+孫休	syun1 jau1	208533
+孫氏	syun1 si6	205612
+張超雄	zoeng1 ciu1 hung4	260996
+忠清南道	zung1 cing1 naam4 dou6	185028
+施華	si1 waa4	187618
+李安	lei5 on1	226016
+李泰祥	lei5 taai3 coeng4	196401
+李碧華	lei5 bik1 waa4	237170
+李聖傑	lei5 sing3 git6	182463
+李顯龍	lei5 hin2 lung4	239182
+李麗珊	lei5 lai6 saan1	312267
+林曉培	lam4 hiu1 pui4	190018
+比華利山	bei2 waa4 lei6 saan1	236745
+江華	gong1 waa4	183756
+竹山	zuk1 saan1	199979
+胡漢民	wu4 hon3 man4	234581
+芒街	mong1 gaai1	190659
+蔡元培	coi3 jyun4 pui4	207003
+蔡琴	coi3 kam4	191822
+蘇玉華	sou1 juk2 waa4	190659
+許靖韻	heoi2 zing6 wan5	193584
+譚維維	taam4 wai4 wai4	190659
+連山	lin4 saan1	196401
+郭偉亮	gwok3 wai5 loeng6	190659
+鄭海泉	zeng6 hoi2 cyun4	206738
+霍山	fok3 saan1	196306
+何嘉麗	ho4 gaa1 lai6	182275
+何洛瑤	ho4 lok6 jiu4	202607
+劉協	lau4 hip3	208481
+南環路	naam4 waan4 lou6	180229
+夏園	haa6 jyun4	194543
+多寶路	do1 bou2 lou6	185531
+姜文	goeng1 man1	203834
+安城	on1 sing4	185420
+宏達路	wang4 daat6 lou6	216779
+張九齡	zoeng1 gau2 ling4	199446
+張建宗	zoeng1 gin3 zung1	248633
+張碧晨	zoeng1 bik1 san4	192804
+張藝謀	zoeng1 ngai6 mau4	203603
+方士	fong1 si6	216870
+朱立倫	zyu1 laap6 leon4	198393
+李健宏	lei5 gin6 wang4	220641
+李賢	lei5 jin4	185531
+李靜儀	lei5 zing6 ji4	188654
+李麗蕊	lei5 lai6 jeoi5	182275
+東平路	dung1 peng4 lou6	178874
+林依晨	lam4 ji1 san4	178874
+林大輝	lam4 daai6 fai1	189201
+林振強	lam4 zan3 koeng4	204814
+林耀聲	lam4 jiu6 seng1	191655
+林青霞	lam4 cing1 haa4	298368
+桂宮	gwai3 gung1	208481
+梁洛施	loeng4 lok6 si1	241624
+楊詩敏	joeng4 si1 man5	191655
+歐丁玉	au1 ding1 juk2	205117
+武夷山	mou5 ji4 saan1	229585
+沙螺灣	saa1 lo2 waan1	202607
+滅門	mit6 mun4	235296
+王浩	wong4 hou6	195649
+窗門	coeng1 mun4	343391
+蘇皓兒	sou1 hou6 ji4	194543
+謝君豪	ze6 gwan1 hou4	209618
+財務公司	coi4 mou6 gung1 si1	304698
+趙構	ziu6 kau3	199446
+郭金發	gwok3 gam1 faat3	191655
+鄭君綿	zeng6 gwan1 min4	209902
+鄭家純	zeng6 gaa1 seon4	243731
+集英社	zaap6 jing1 se5	195456
+頤和園	ji4 wu4 jyun4	197232
+一件頭	jat1 gin6 tau4	252868
+何華超	ho4 waa4 ciu1	180035
+劉禪	lau4 sim4	199203
+南縣	naam4 jyun6	189029
+吳家樂	ng4 gaa1 ngaau6	195991
+周梁淑怡	zau1 loeng4 suk6 ji4	195491
+堅拿道	gin1 naa4 dou6	183386
+大東門	daai6 dung1 mun4	183386
+天瑞路	tin1 seoi6 lou6	222780
+孔廟	hung2 miu2	194284
+島根縣	dou2 gan1 jyun6	189029
+康寧道	hong1 ning4 dou6	180035
+廣福道	gwong2 fuk1 dou6	210679
+張曉明	zoeng1 hiu1 ming4	253447
+張魯	zoeng1 lou5	209110
+徐浩昌	ceoi4 hou6 coeng1	195491
+曹達華	cou4 daat6 waa4	242863
+曾偉權	cang4 wai5 kyun4	189677
+李克用	lei5 haak1 jung6	220156
+林徽因	lam4 fai1 jan1	193773
+渡頭	dou6 tau4	209565
+渣華道	zaa1 waa4 dou6	246391
+潛山	cim4 saan1	181370
+王林	wong4 lam4	195491
+簡淑兒	kaan2 suk6 ji4	214014
+聲部	seng1 bou6	222606
+萬山	maan6 saan1	193773
+蓬萊路	fung4 loi4 lou6	180035
+蕭芳芳	siu1 fong1 fong1	199295
+許冠文	heoi2 gun1 man1	204674
+譚小環	taam4 siu2 waan4	259051
+貝澳	bui3 ou3	198241
+郭可盈	gwok3 ho2 jing4	209486
+郭政鴻	gwok3 zing3 hung4	198241
+郭氏	gwok3 si6	213938
+隔山	gaak3 saan1	200895
+頭頭	tau4 tau4	333153
+飛機場	fei1 gei1 coeng4	251424
+高湛	gou1 zaam3	209191
+麥士維	mak6 si6 wai4	195491
+中核市	zung1 hat6 si5	177728
+中非共和國	zung1 fei1 gung6 wu4 gwok3	243047
+九里	gau2 lei5	205944
+冼村	sin2 cyun1	184481
+劉千石	lau4 cin1 sek2	192994
+劉家昌	lau4 gaa1 coeng1	225356
+劉小麗	lau4 siu2 lai6	262747
+劉玉翠	lau4 juk2 ceoi3	184481
+同福路	tung4 fuk1 lou6	217370
+吳回	ng4 wui4	186980
+吳婉芳	ng4 jyun2 fong1	175555
+周俊偉	zau1 zeon3 wai5	188856
+周延	zau1 jin4	205279
+圓洲	jyun4 zau1	200186
+夏侯霸	haa6 hau4 baa3	219166
+布城	bou3 sing4	199051
+平安南道	peng4 on1 naam4 dou6	185058
+廣福橋	gwong2 fuk1 kiu4	204304
+張愛玲	zoeng1 oi3 ling4	222600
+張振朗	zoeng1 zan3 long5	221986
+懸索橋	jyun4 sok3 kiu4	193926
+楊光	joeng4 gwong1	232828
+樂山	ngaau6 saan1	222952
+水城	seoi2 sing4	192794
+水龍頭	seoi2 lung4 tau4	323215
+汀角路	ting4 gok3 lou6	255136
+泥涌	nai4 cung1	182494
+牡丹江市	maau5 daan1 gong1 si5	220609
+短路	dyun2 lou6	265927
+胡希文	wu4 hei1 man1	177728
+興華街	hing1 waa4 gaai1	288099
+葉漢	jip6 hon3	196427
+蘿蔔頭	lo4 baak6 tau4	215095
+許氏	heoi2 si6	194123
+詹天佑	zim1 tin1 jau6	188750
+鄭則士	zeng6 zak1 si6	181179
+開城	hoi1 sing4	235762
+陰澳	jam1 ou3	234295
+陶大宇	tou4 daai6 jyu5	219007
+香城	hoeng1 sing4	272449
+鴨洲	aap2 zau1	225356
+龍湖	lung4 wu4	184481
+上訴法庭	soeng5 sou3 faat3 ting4	199145
+伍佰	ng5 baak3	184876
+傅園慧	fu6 jyun4 wai3	198622
+加拿大政府	gaa1 naa4 daai6 zing3 fu2	230365
+吳尊	ng4 zyun1	178906
+吳敦義	ng4 deon1 ji6	225927
+周杰	zau1 git6	197352
+孫慧雪	syun1 wai3 syut3	182306
+巴拿馬運河	baa1 naa4 maa5 wan6 ho2	221643
+底格里斯河	dai2 gaak3 lei5 si1 ho2	193348
+康山	hong1 saan1	176767
+朱千雪	zyu1 cin1 syut3	188026
+朱由檢	zyu1 jau2 gim2	200508
+李泉	lei5 cyun4	185560
+李澤楷	lei5 zaak6 kaai2	241638
+東興路	dung1 hing1 lou6	187812
+林奕匡	lam4 jik6 hong1	182306
+林志華	lam4 zi3 waa4	186803
+林海	lam4 hoi2	185560
+梁家仁	loeng4 gaa1 jan4	180261
+楊愛瑾	joeng4 oi3 gan2	178906
+殺校	saat3 gaau3	197352
+江嘉敏	gong1 gaa1 man5	218617
+洪湖	hung4 wu4	178786
+王德輝	wong4 dak1 fai1	200037
+畢打街	bat1 daa1 gaai1	222135
+盧氏	lou4 si6	200417
+社山	se5 saan1	185560
+繩角	sing2 gok3	178906
+船橋	syun4 kiu4	199671
+船頭	syun4 tau4	265140
+華林寺	waa4 lam4 zi2	178906
+葉童	jip6 tung4	183601
+蔡衍明	coi3 hin2 ming4	190310
+西敏寺	sai1 man5 zi2	193348
+許雲基	heoi2 wan4 gei1	175349
+青山醫院	cing1 saan1 ji1 jyun2	281366
+高以翔	gou1 ji5 coeng4	185560
+高城	gou1 sing4	190207
+鳳園	fung6 jyun4	182306
+麥齊光	mak6 cai4 gwong1	199671
+亞公角	aa3 gung1 gok3	259989
+伍思凱	ng5 si1 kaai1	169040
+何香凝	ho4 hoeng1 jing4	181401
+光山	gwong1 saan1	192885
+劉志	lau4 zi3	215765
+吳克儉	ng4 haak1 gim6	199795
+呂秀蓮	leoi5 sau3 lin4	190883
+塔城	taap3 sing4	218258
+姚明	jiu4 ming4	183416
+孫臏	syun1 ban3	199227
+寶華路	bou2 waa4 lou6	180067
+張德蘭	zoeng1 dak1 laan4	176565
+恆山	hang4 saan1	197403
+慈江道	ci4 gong1 dou6	176441
+擰頭	ning6 tau4	369597
+景德鎮	ging2 dak1 zan3	191941
+杜魯福	dou6 lou5 fuk1	197686
+東鄉	dung1 hoeng1	183189
+林夏薇	lam4 haa6 mei4	196862
+楊牧	joeng4 muk6	169040
+楊秀惠	joeng4 sau3 wai6	184694
+檳威大橋	ban1 wai1 daai6 kiu4	203484
+沈夢辰	sam2 mung6 san4	186625
+洞庭湖	dung6 ting4 wu4	196017
+流花路	lau4 faa1 lou6	219142
+王振	wong4 zan3	191840
+碧雲道	bik1 wan4 dou6	244371
+聖山	sing3 saan1	195517
+蘇惠德	sou1 wai6 dak1	217295
+蘇民	sou1 man4	203628
+赤門	cek3 mun4	189705
+郭小霖	gwok3 siu2 lam3	176565
+鄭國江	zeng6 gwok3 gong1	183416
+鏡泊湖	geng3 paak3 wu4	192666
+靈山	ling4 saan1	179331
+鶴園	hok6 jyun4	186625
+前山	cin4 saan1	177003
+孤山	gu1 saan1	234612
+寶雲道	bou2 wan4 dou6	187675
+峽灣	haap6 waan1	224836
+庫頁島	fu3 jip6 dou2	248985
+張伯苓	zoeng1 baak3 ling2	206264
+張天	zoeng1 tin1	166371
+彭福	paang4 fuk1	166371
+恩寧路	jan1 ning4 lou6	221486
+朱玲玲	zyu1 ling4 ling4	181210
+李方桂	lei5 fong1 gwai3	181210
+林作	lam4 zok3	181210
+林偉	lam4 wai5	185088
+林奮強	lam4 fan5 koeng4	192098
+林志玲	lam4 zi3 ling4	206709
+海門	hoi2 mun4	181093
+渠務署	keoi4 mou6 cyu5	250365
+潘燦良	pun1 caan3 loeng4	209090
+盧覓雪	lou4 mik6 syut3	189163
+石鏡泉	sek2 geng3 cyun4	290256
+竹田宮	zuk1 tin4 gung1	187675
+紅菜頭	hung4 coi3 tau4	208476
+自由港	zi6 jau2 gong2	225374
+蕭邦	siu1 bong1	171871
+西華路	sai1 waa4 lou6	174149
+謝瑞麟	ze6 seoi6 leon4	213932
+譚凱倫	taam4 kaai1 leon4	170359
+譚炳文	taam4 bing2 man1	183817
+運頭角	wan6 tau4 gok3	193637
+鄧兆尊	dang6 siu6 zyun1	323705
+雞頭	gai1 tau4	296801
+鳳山	fung6 saan1	192921
+麥美娟	mak6 mei5 gyun1	170359
+麻城	maa4 sing4	191673
+二沙島	ji6 saa1 dou2	240848
+五山	ng5 saan1	221730
+劉彩玉	lau4 coi2 juk2	163605
+北港	bak1 gong2	239566
+同慶路	tung4 hing3 lou6	163605
+吳美	ng4 mei5	175383
+呂蒙	leoi5 mung4	198925
+周浩鼎	zau1 hou6 ding2	179440
+唐明	tong4 ming4	222154
+大鵬灣	daai6 paang4 waan1	188711
+姚松炎	jiu4 cung4 jim4	182336
+張滿源	zoeng1 mun5 jyun4	171655
+戚玉武	cik1 juk2 mou5	220151
+方潤華	fong1 jeon6 waa4	185590
+李世榮	lei5 sai3 wing4	165256
+李冰冰	lei5 bing1 bing1	173811
+李詠	lei5 wing6	167736
+李進	lei5 zeon3	191608
+李達	lei5 daat6	185369
+杜如風	dou6 jyu4 fung1	188711
+杜蘭朵	dou6 laan4 do2	191932
+東環路	dung1 waan4 lou6	163605
+林德信	lam4 dak1 seon3	183632
+柏道	paak3 dou6	163605
+梁小冰	loeng4 siu2 bing1	178939
+梁文禮	loeng4 man1 lai5	187119
+楊紫瓊	joeng4 zi2 king4	167736
+楊耀忠	joeng4 jiu6 zung1	191608
+永興路	wing5 hing1 lou6	163605
+洪堡	hung4 bou2	176677
+王嘉慧	wong4 gaa1 wai3	167736
+白城	baak6 sing4	196454
+盧慧敏	lou4 wai3 man5	178939
+石蓮路	sek2 lin4 lou6	211571
+綠島	luk6 dou2	184215
+葉文輝	jip6 man1 fai1	166871
+西林寺	sai1 lam4 zi2	290529
+謝偉俊	ze6 wai5 zeon3	252988
+豐原區	fung1 jyun4 keoi1	222303
+農林路	nung4 lam4 lou6	163605
+鄭惠玉	zeng6 wai6 juk2	178939
+鎮安路	zan3 on1 lou6	215981
+陳鴻烈	can4 hung4 lit6	182336
+韋唯	wai5 wai4	182336
+麥當雄	mak6 dong1 hung4	222154
+何廣沛	ho4 gwong2 pui3	202197
+何雁詩	ho4 ngaan6 si1	180099
+余光中	jyu4 gwong1 zung1	222816
+佛光山	fat6 gwong1 saan1	172799
+傅嘉莉	fu6 gaa1 lei6	181432
+公主道	gung1 zyu2 dou6	239813
+劉仲敬	lau4 zung6 ging3	176598
+劉健儀	lau4 gin6 ji4	179363
+劉夢熊	lau4 mung6 hung4	170480
+劉家輝	lau4 gaa1 fai1	174392
+劉錫賢	lau4 sek3 jin4	162449
+南夢宮	naam4 mung6 gung1	185077
+吳堯堯	ng4 jiu4 jiu4	188112
+周庭	zau1 ting4	256017
+周永勤	zau1 wing5 kan4	208391
+周治平	zau1 zi6 peng4	170614
+喀山	haak3 saan1	177871
+大沙河	daai6 saa1 ho2	160736
+大涌	daai6 cung1	257548
+太和路	taai3 wu4 lou6	222816
+姚莉	jiu4 lei6	305938
+婆羅門	po4 lo4 mun4	190272
+安定路	on1 ding6 lou6	162449
+宮古島	gung1 gu2 dou2	197378
+布吉島	bou3 gat1 dou2	206236
+張敏	zoeng1 man5	186269
+徐向前	ceoi4 hoeng3 cin4	183219
+徐才厚	ceoi4 coi4 hau5	180099
+文化村	man1 faa3 cyun1	182033
+朱智賢	zyu1 zi3 jin4	210651
+李偉文	lei5 wai5 man1	187879
+李婷	lei5 ting4	162449
+李美鳳	lei5 mei5 fung6	320836
+李龍基	lei5 lung4 gei1	238226
+東華路	dung1 waa4 lou6	160736
+林區	lam4 keoi1	179861
+林韋辰	lam4 wai5 san4	174392
+楊卓娜	joeng4 coek3 naa4	172929
+楊駿	joeng4 zeon3	220379
+河濱路	ho2 ban1 lou6	160736
+洪嘉豪	hung4 gaa1 hou4	160736
+淘金路	tou4 gam1 lou6	174392
+王嘉爾	wong4 gaa1 ji5	314318
+王心凌	wong4 sam1 ling4	189363
+華美路	waa4 mei5 lou6	160736
+董敏莉	dung2 man5 lei6	165020
+袁國勇	jyun4 gwok3 jung5	313929
+豆角	dau2 gok3	254230
+贛縣	gam3 jyun6	165763
+赤灣	cek3 waan1	220830
+達之路	daat6 zi1 lou6	236606
+郭璞	gwok3 pok3	185979
+間島	gaan1 dou2	195446
+陳偉	can4 wai5	160736
+電車站	din6 ce1 zaam6	240762
+韓寒	hon4 hon4	180474
+韓庚	hon4 gang1	174392
+馮紐曼	fung4 nau2 maan6	160736
+高島	gou1 dou2	181917
+高街	gou1 gaai1	186654
+龍城	lung4 sing4	211848
+乾清宮	gon1 cing1 gung1	183847
+人在江湖	jan4 zoi6 gong1 wu4	247032
+何志平	ho4 zi3 peng4	190742
+危城	ngai4 sing4	174183
+吉之島	gat1 zi1 dou2	278680
+吉大港	gat1 daai6 gong2	176789
+周氏	zau1 si6	193213
+周迅	zau1 seon3	163885
+唐寧街	tong4 ning4 gaai1	190377
+太平門	taai3 peng4 mun4	238764
+姚貝娜	jiu4 bui3 naa4	174183
+姜麗文	goeng1 lai6 man1	166409
+安達市	on1 daat6 si5	193664
+宜城	ji4 sing4	178302
+巴生河	baa1 saang1 ho2	181241
+張學明	zoeng1 hok6 ming4	181241
+張宇人	zoeng1 jyu5 jan4	212309
+張惠雅	zoeng1 wai6 ngaa5	163885
+張慧儀	zoeng1 wai3 ji4	175623
+張沛樂	zoeng1 pui3 ngaau6	170395
+張立	zoeng1 laap6	208920
+彭德	paang4 dak1	161275
+彭秀慧	paang4 sau3 wai3	166409
+徐欣瑩	ceoi4 jan1 jing4	196383
+徐翔	ceoi4 coeng4	157756
+斧山	fu2 saan1	286087
+方剛	fong1 gong1	162204
+星城	sing1 sing4	177036
+曹氏	cou4 si6	183734
+朱由榔	zyu1 jau2 long4	184541
+朱鑑然	zyu1 gaam3 jin4	170395
+李希凡	lei5 hei1 faan4	195190
+李彩華	lei5 coi2 waa4	190377
+李明	lei5 ming4	254971
+李清照	lei5 cing1 ziu3	188257
+東平洲	dung1 peng4 zau1	166409
+林毅夫	lam4 ngai6 fu1	193664
+梁博	loeng4 bok3	159535
+梁愛詩	loeng4 oi3 si1	166409
+梁文道	loeng4 man1 dou6	185411
+楊尚友	joeng4 soeng6 jau5	157756
+泥路	nai4 lou6	237993
+洛河	lok6 ho2	174055
+洪德路	hung4 dak1 lou6	235512
+清城	cing1 sing4	205575
+王祖賢	wong4 zou2 jin4	166409
+王韜	wong4 tou1	204264
+璧山	bik1 saan1	177671
+石天	sek2 tin1	165529
+筆架山	bat1 gaa3 saan1	183847
+胡佳	wu4 gaai1	174716
+胡蝶	wu4 dip6	166409
+萬松園	maan6 cung4 jyun4	157756
+蔡素玉	coi3 sou3 juk2	184541
+蕭煌奇	siu1 wong4 kei4	162204
+蘇雅琳	sou1 ngaa5 lam4	187704
+象鼻山	zoeng6 bei6 saan1	235512
+鄧佩儀	dang6 pui3 ji4	184541
+鄧建明	dang6 gin3 ming4	168000
+韋綺姍	wai5 ji2 saan1	157756
+高凌風	gou1 ling4 fung1	177549
+高文	gou1 man1	173389
+高演	gou1 jin2	194782
+高緯	gou1 wai5	180891
+鴉洲	aa1 zau1	184541
+龜山	gwai1 saan1	172586
+交河	gaau1 ho2	158315
+劉暢	lau4 coeng3	154655
+劉業強	lau4 jip6 koeng4	158315
+劉濤	lau4 tou4	154655
+叩頭	kau3 tau4	218113
+周壽臣	zau1 sau6 san4	180324
+塔門	taap3 mun4	154655
+徐少強	ceoi4 siu2 koeng4	167773
+徐展堂	ceoi4 zin2 tong4	293852
+徐英偉	ceoi4 jing1 wai5	175417
+必嘉街	bit1 gaa1 gaai1	167773
+恆安路	hang4 on1 lou6	159282
+掃桿埔	sou2 gon1 bou3	175291
+朱常洛	zyu1 soeng4 lok6	182367
+李修賢	lei5 sau1 jin4	163645
+李天	lei5 tin1	163645
+李宗偉	lei5 zung1 wai5	182252
+李帥	lei5 seoi3	165294
+村山	cyun1 saan1	163498
+林秀怡	lam4 sau3 ji4	163645
+梁經國	loeng4 ging1 gwok3	178971
+梁錦松	loeng4 gam2 cung4	183662
+棧道	zaan2 dou6	185619
+楊淇	joeng4 kei4	165294
+歐氏	au1 si6	161026
+江灣路	gong1 waan1 lou6	154655
+洛城	lok6 sing4	170039
+溜冰場	lau4 bing1 coeng4	238332
+潘志文	pun1 zi3 man1	236069
+潘源良	pun1 jyun4 loeng4	165294
+犀角	sai1 gok3	232698
+珀麗灣	paak3 lai6 waan1	175417
+白沙洲	baak6 saa1 zau1	163498
+盧華爾河區	lou4 waa4 ji5 ho2 keoi1	154655
+盧頌恩	lou4 zung6 jan1	167773
+糧船灣	loeng4 syun4 waan1	185619
+胡錫進	wu4 sek3 zeon3	287159
+臨江大道	lam4 gong1 daai6 dou6	154655
+興芳路	hing1 fong1 lou6	255877
+范文芳	faan6 man1 fong1	154655
+菱角	ling4 gok3	178225
+蔡齡齡	coi3 ling4 ling4	166909
+蕭氏	siu1 si6	194686
+連城	lin4 sing4	171558
+郭亞倫	gwok3 aa3 leon4	178971
+鄧月平	dang6 jyut6 peng4	161026
+鄧麗英	dang6 lai6 jing1	163645
+錢小豪	cin2 siu2 hou4	159282
+關市	gwaan1 si5	166035
+陽城	joeng4 sing4	184601
+雪城	syut3 sing4	168490
+青海湖	cing1 hoi2 wu4	178225
+麥潤培	mak6 jeon6 pui4	182618
+鼎湖	ding2 wu4	165294
+龍鳳鄉	lung4 fung6 hoeng1	154655
+事頭	si6 tau4	295439
+劉藍溪	lau4 laam4 kai1	183477
+南湖路	naam4 wu4 lou6	151423
+古明華	gu2 ming4 waa4	227085
+吊橋	diu3 kiu4	212555
+吳雲甫	ng4 wan4 pou2	165059
+周志康	zau1 zi3 hong1	180130
+唐文龍	tong4 man1 lung4	169113
+唐氏	tong4 si6	279313
+天華路	tin1 waa4 lou6	260011
+安山	on1 saan1	174171
+寶崗大道	bou2 gong1 daai6 dou6	160777
+寶源路	bou2 jyun4 lou6	151423
+張晉	zoeng1 zeon3	202912
+戚其義	cik1 kei4 ji6	180130
+朱慧敏	zyu1 wai3 man5	160777
+李心潔	lei5 sam1 git3	169113
+李惠利	lei5 wai6 lei6	170650
+李成桂	lei5 seng4 gwai3	165801
+李楓	lei5 fung1	151423
+李滄區	lei5 cong1 keoi1	180388
+李純	lei5 seon4	159830
+李華明	lei5 waa4 ming4	172964
+東曉路	dung1 hiu1 lou6	156243
+東村	dung1 cyun1	159830
+林宇中	lam4 jyu5 zung1	158057
+林尚沃	lam4 soeng6 juk1	165059
+林氏	lam4 si6	168264
+柏架山	paak3 gaa3 saan1	159830
+梁榮駿	loeng4 wing4 zeon3	169113
+梁諾妍	loeng4 nok6 jin4	198233
+橋東路	kiu4 dung1 lou6	151423
+歐瑞偉	au1 seoi6 wai5	165059
+汀九橋	ting4 gau2 kiu4	207721
+河東路	ho2 dung1 lou6	155237
+淮山	waai4 saan1	202792
+清水河	cing1 seoi2 ho2	165059
+王滬寧	wong4 wu6 ning4	169113
+瑤頭	jiu4 tau4	165059
+百勝角	baak3 sing1 gok3	183477
+盧吉道	lou4 gat1 dou6	176631
+盧溝橋	lou4 kau1 kiu4	182063
+眉山	mei4 saan1	211869
+福龍路	fuk1 lung4 lou6	151423
+種星堂	zung3 sing1 tong4	165059
+綠園	luk6 jyun4	164017
+葉振弘	jip6 zan3 wang4	151423
+蒲城	pou4 sing4	176259
+蔡寶欣	coi3 bou2 jan1	151423
+許雅婷	heoi2 ngaa5 ting4	181771
+詹朗林	zim1 long5 lam4	160777
+諾希山	nok6 hei1 saan1	167405
+謝斐道	ze6 fei2 dou6	202792
+譚惠珠	taam4 wai6 zyu1	217270
+鄧家彪	dang6 gaa1 biu1	169683
+鄭智化	zeng6 zi3 faa3	156243
+錢國偉	cin2 gwok3 wai5	158057
+閔行區	man5 hong2 keoi1	164914
+陳揚	can4 joeng2	165059
+陳逸寧	can4 jat6 ning4	202792
+陶君行	tou4 gwan1 hong2	191107
+韓世忠	hon4 sai3 zung1	160777
+馮素波	fung4 sou3 bo1	205296
+高圓宮	gou1 jyun4 gung1	172157
+鳳城	fung6 sing4	168977
+麥家瑜	mak6 gaa1 jyu4	158057
+仁威廟	jan4 wai1 miu2	166447
+伍家朗	ng5 gaa1 long5	188835
+何佐芝	ho4 zo2 zi1	170431
+何甘棠	ho4 gam1 tong4	157798
+全羅南道	cyun4 lo4 naam4 dou6	161315
+劉維	lau4 wai4	159577
+劉美娟	lau4 mei5 gyun1	161315
+劉靜儀	lau4 zing6 ji4	177826
+印洲塘	jan3 zau1 tong4	254168
+周嘉洛	zau1 gaa1 lok6	186120
+圓角	jyun4 gok3	203644
+大東部	daai6 dung1 bou6	155815
+大角山	daai6 gok3 saan1	162244
+寶墨園	bou2 mak6 jyun4	157798
+張炳良	zoeng1 bing2 loeng4	155815
+張超	zoeng1 ciu1	148049
+彭志銘	paang4 zi3 ming5	169596
+恆福路	hang4 fuk1 lou6	150065
+曉光街	hiu1 gwong1 gaai1	206120
+曹彰	cou4 zoeng1	163015
+朱克	zyu1 haak1	157798
+李旦	lei5 daan3	168752
+李曉欣	lei5 hiu1 jan1	148049
+李維嘉	lei5 wai4 gaa1	166447
+李蔓瑩	lei5 maan6 jing4	182889
+林師傑	lam4 si1 git6	153078
+林志穎	lam4 zi3 wing6	148049
+林文龍	lam4 man1 lung4	207698
+林正峰	lam4 zeng3 fung1	154969
+桐鄉	tung4 hoeng1	175279
+梁嘉恆	loeng4 gaa1 hang4	178092
+楊帆	joeng4 faan4	148049
+楊雪盈	joeng4 syut3 jing4	174218
+橋鎮	kiu4 zan3	158615
+歐文龍	au1 man1 lung4	152030
+水月宮	seoi2 jyut6 gung1	166447
+永樂街	wing5 ngaau6 gaai1	208519
+洪秀柱	hung4 sau3 cyu5	208519
+涌尾	cung1 mei1	210846
+湖縣	wu4 jyun6	153946
+王敏剛	wong4 man5 gong1	177826
+王永平	wong4 wing5 peng4	255961
+瑞和街	seoi6 wu4 gaai1	260110
+盧大偉	lou4 daai6 wai5	154969
+胡瓜	wu4 gwaa1	164533
+荊門	ging1 mun4	206036
+蕭萬長	siu1 maan6 coeng4	160375
+藏區	cong4 keoi1	215072
+許光漢	heoi2 gwong1 hon3	201761
+許寶恆	heoi2 bou2 hang4	153078
+詞尾	ci4 mei1	152030
+越華路	jyut6 waa4 lou6	157798
+郭威	gwok3 wai1	166447
+郭炳江	gwok3 bing2 gong1	165567
+郭炳湘	gwok3 bing2 soeng1	165567
+鄧智堅	dang6 zi3 gin1	166447
+鄧超	dang6 ciu1	179516
+鄧雨賢	dang6 jyu5 jin4	157798
+鄭家富	zeng6 gaa1 fu3	161315
+鄭耀棠	zeng6 jiu6 tong4	170431
+重慶大廈	cung4 hing3 daai6 haa6	260925
+金融街	gam1 jung4 gaai1	198437
+阮氏	jyun2 si6	164678
+阮玲玉	jyun2 ling4 juk2	157798
+陶氏	tou4 si6	169596
+韋傑	wai5 git6	167899
+韋禮安	wai5 lai5 on1	168752
+飯廳	faan6 teng1	295242
+高澄	gou1 cing4	170431
+高鈞賢	gou1 gwan1 jin4	174218
+鹿港	luk2 gong2	163015
+麥當娜	mak6 dong1 naa4	255415
+黃國	wong4 gwok3	170431
+久米島	gau2 mai5 dou2	166073
+井岡山	zeng2 gong1 saan1	167671
+伍允龍	ng5 wan5 lung4	177193
+何浩文	ho4 hou6 man1	144519
+余子明	jyu4 zi2 ming4	154699
+偏門	pin1 mun4	245300
+劉日曦	lau4 jat6 hei1	144519
+劉湘	lau4 soeng1	167532
+北海市	bak1 hoi2 si5	171726
+吳京	ng4 ging1	169373
+吳周	ng4 zau1	163537
+吳嘉龍	ng4 gaa1 lung4	159323
+吳國昌	ng4 gwok3 coeng1	167810
+呂利	leoi5 lei6	163684
+大亞灣	daai6 aa3 waan1	231662
+大興區	daai6 hing1 keoi1	159970
+姚瑩瑩	jiu4 jing4 jing4	200030
+姜育恆	goeng1 juk6 hang4	144519
+巢湖市	caau4 wu4 si5	176100
+廣島市	gwong2 dou2 si5	150684
+張文傑	zoeng1 man1 git6	149778
+張明敏	zoeng1 ming4 man5	202076
+文京區	man1 ging1 keoi1	169100
+時鐘酒店	si4 zung1 zau2 dim3	246145
+曾寶儀	cang4 bou2 ji4	154699
+朱光	zyu1 gwong1	210223
+朱次伯	zyu1 ci3 baak3	179003
+李國章	lei5 gwok3 zoeng1	161067
+李壽全	lei5 sau6 cyun4	159323
+李天翔	lei5 tin1 coeng4	163684
+李汶靜	lei5 man4 zing6	263029
+李銘順	lei5 ming5 seon6	154699
+林建明	lam4 gin3 ming4	149778
+梁志祥	loeng4 zi3 coeng4	177193
+梁羽生	loeng4 jyu5 saang1	156550
+梧桐山	ng4 tung4 saan1	144519
+楊偉倫	joeng4 wai5 leon4	149778
+楊文蔚	joeng4 man1 wai3	284469
+楊森	joeng4 sam1	182587
+沈卓盈	sam2 coek3 jing4	211927
+沙縣	saa1 jyun6	172822
+海部	hoi2 bou6	180964
+王俊凱	wong4 zeon3 kaai1	149778
+王晨	wong4 san4	149778
+王貽興	wong4 ji4 hing1	149778
+甘道	gam1 dou6	234418
+皇珠路	wong4 zyu1 lou6	204486
+盤福路	pun2 fuk1 lou6	175451
+盧惠光	lou4 wai6 gwong1	149778
+盧龍光	lou4 lung4 gwong1	182398
+興安路	hing1 on1 lou6	144519
+茶山	caa4 saan1	172407
+華景路	waa4 ging2 lou6	144519
+萍鄉	ping4 hoeng1	163390
+葉國謙	jip6 gwok3 him1	169373
+許賢	heoi2 jin4	144519
+譚永浩	taam4 wing5 hou6	159323
+譚盾	taam4 teon5	175451
+譚香文	taam4 hoeng1 man1	187177
+警校	ging2 gaau3	227364
+連道	lin4 dou6	209310
+鄭保瑞	zeng6 bou2 seoi6	155549
+鄭浩南	zeng6 hou6 naam4	149778
+雀巢公司	zoek2 caau4 gung1 si1	167810
+馮寶欣	fung4 bou2 jan1	154699
+高劍父	gou1 gim3 fu6	167810
+高歡	gou1 fun1	176100
+九華徑	gau2 waa4 ging3	165097
+伍朝樞	ng5 ciu4 syu1	226863
+伍淑怡	ng5 suk6 ji4	160818
+伍秉鑑	ng5 bing2 gaam3	165097
+何承天	ho4 sing4 tin1	165097
+何桂藍	ho4 gwai3 laam4	252420
+何泳芍	ho4 wing6 coek3	146329
+凹頭	nap1 tau4	146329
+劉小華	lau4 siu2 waa4	146329
+劉志強	lau4 zi3 koeng4	146329
+劉欣	lau4 jan1	146329
+劉禹錫	lau4 jyu5 sek3	162529
+千葉市	cin1 jip6 si5	155117
+半春園	bun3 ceon1 jyun4	212372
+南新路	naam4 san1 lou6	140819
+吳建豪	ng4 gin3 hou4	192658
+吳秋北	ng4 cau1 bak1	165097
+周冠威	zau1 gun1 wai1	234179
+周生生	zau1 saang1 saang1	194776
+周融	zau1 jung4	182399
+唐君毅	tong4 gwan1 ngai6	313153
+埔里	bou3 lei5	198614
+基督城	gei1 duk1 sing4	186328
+壽縣	sau6 jyun6	157942
+大西洋城	daai6 sai1 joeng4 sing4	160818
+太行山	taai3 hong2 saan1	150398
+央街	joeng1 gaai1	162529
+孫偉	syun1 wai5	149313
+孫東	syun1 dung1	181802
+安全島	on1 cyun4 dou2	230198
+安大略湖	on1 daai6 loek6 wu4	169013
+寶翠園	bou2 ceoi3 jyun4	206281
+岑村	sam4 cyun1	151469
+左營區	zo2 jing4 keoi1	157118
+平道	peng4 dou6	140819
+廖氏	liu6 si6	180162
+弘道	wang4 dou6	152355
+張國鈞	zoeng1 gwok3 gwan1	178380
+張蔓莎	zoeng1 maan6 saa1	140819
+張藝興	zoeng1 ngai6 hing1	151469
+張角	zoeng1 gok3	165840
+徐玄	ceoi4 jyun4	188219
+文東路	man1 dung1 lou6	203810
+曹奐	cou4 wun6	165097
+曹芳	cou4 fong1	175895
+朱厚任	zyu1 hau5 jam6	163296
+朱執信	zyu1 zap1 seon3	153399
+朱江	zyu1 gong1	230114
+杉山	caam3 saan1	153231
+李寧	lei5 ning4	151297
+李少光	lei5 siu2 gwong1	201931
+李晨	lei5 san4	157942
+李靜	lei5 zing6	175452
+杜氏	dou6 si6	156958
+林希靈	lam4 hei1 ling4	146329
+林苑	lam4 jyun2	158100
+楊立門	joeng4 laap6 mun4	151469
+楊英偉	joeng4 jing1 wai5	140819
+橫瀾島	waang4 laan4 dou2	168301
+津山	zeon1 saan1	163149
+流山	lau4 saan1	156958
+湘鄉	soeng1 hoeng1	202728
+潘書韻	pun1 syu1 wan5	189789
+潘氏	pun1 si6	151469
+烏日區	wu1 jat6 keoi1	149313
+獅山	si1 saan1	146329
+珠江路	zyu1 gong1 lou6	140819
+盧亭	lou4 ting2	140819
+秦觀	ceon4 gun1	180162
+程介南	cing4 gaai3 naam4	151469
+蕭伯納	siu1 baak3 naap6	168163
+謝嘉怡	ze6 gaa1 ji4	165097
+謝文欣	ze6 man1 jan1	146329
+譚杏藍	taam4 hang6 laam4	146329
+迎龍路	jing4 lung4 lou6	140819
+郭文貴	gwok3 man1 gwai3	250133
+郭晶晶	gwok3 zing1 zing1	146329
+郭濤	gwok3 tou4	148391
+郭藹明	gwok3 ngoi2 ming4	250034
+鄧玉嬌	dang6 juk2 giu1	140819
+鄧穎超	dang6 wing6 ciu1	159871
+鄭智	zeng6 zi3	200228
+醫道	ji1 dou6	160818
+金穗路	gam1 seoi6 lou6	147276
+針山	zam1 saan1	172999
+雙塔路	soeng1 taap3 lou6	140819
+韓雪	hon4 syut3	151469
+高曉松	gou1 hiu1 cung4	168301
+高本漢	gou1 bun2 hon3	165097
+麥卡錫	mak6 kaa1 sek3	164056
+黃齡	wong4 ling4	146329
+世田谷區	sai3 tin4 guk1 keoi1	166201
+九宮	gau2 gung1	156856
+伊利湖	ji1 lei6 wu4	158657
+何漢權	ho4 hon3 kyun4	166933
+光孝路	gwong1 haau3 lou6	157841
+六榕路	luk6 jung4 lou6	230393
+劉翔	lau4 coeng4	146978
+劉辯	lau4 bin6	162285
+南涌	naam4 cung1	163055
+吳君麗	ng4 gwan1 lai6	192877
+吳嘉儀	ng4 gaa1 ji4	142717
+吳瑞庭	ng4 seoi6 ting4	136931
+呂四娘	leoi5 sei3 noeng4	148097
+周卓盈	zau1 coek3 jing4	162285
+商道	soeng1 dou6	163055
+大分縣	daai6 fan1 jyun6	141516
+大東山	daai6 dung1 saan1	170479
+天業路	tin1 jip6 lou6	203667
+姚謙	jiu4 him1	162285
+孫儷	syun1 lai6	180774
+小松宮	siu2 cung4 gung1	157841
+布達拉宮	bou3 daat6 laai1 gung1	233383
+康王路	hong1 wong4 lou6	162285
+張世傑	zoeng1 sai3 git6	198462
+張同祖	zoeng1 tung4 zou2	136931
+張春橋	zoeng1 ceon1 kiu4	156856
+張燕	zoeng1 jin3	155013
+張玉華	zoeng1 juk2 waa4	142717
+彭慧中	paang4 wai3 zung1	142717
+彭真	paang4 zan1	155013
+徐正康	ceoi4 zeng3 hong1	161356
+懷聖寺	waai4 sing3 zi2	157841
+晉城	zeon3 sing4	147917
+曾淑雅	cang4 suk6 ngaa5	136931
+朱氏	zyu1 si6	155013
+李君妍	lei5 gwan1 jin4	142717
+李國偉	lei5 gwok3 wai5	142717
+李國豪	lei5 gwok3 hou4	139258
+李汝大	lei5 jyu5 daai6	157841
+杜燕歌	dou6 jin3 go1	155859
+林俊賢	lam4 zeon3 jin4	142717
+林兆霞	lam4 siu6 haa4	142717
+林書豪	lam4 syu1 hou4	206258
+林炳昌	lam4 bing2 coeng1	284367
+架勢堂	gaa3 sai3 tong4	155606
+桂花路	gwai3 faa1 lou6	136931
+梁健平	loeng4 gin6 peng4	150112
+梁思浩	loeng4 si1 hou6	157841
+梁舜燕	loeng4 seon3 jin3	142717
+楊瑞麟	joeng4 seoi6 leon4	157841
+楓樹街	fung1 syu3 gaai1	176022
+橋港	kiu4 gong2	136931
+橫塘路	waang4 tong4 lou6	136931
+欄河	laan4 ho2	153124
+歸仁區	gwai1 jan4 keoi1	198943
+汪東城	wong1 dung1 sing4	151014
+油街	jau4 gaai1	235543
+洪氏	hung4 si6	190432
+活道	wut6 dou6	228597
+潘偉源	pun1 wai5 jyun4	153124
+王健	wong4 gin6	144877
+甲骨文公司	gaap3 gwat1 man1 gung1 si1	155859
+程可為	cing4 ho2 wai6	148097
+立方公里	laap6 fong1 gung1 lei5	163963
+竹島	zuk1 dou2	141516
+竹角	zuk1 gok3	166485
+紫苑鎮	zi2 jyun2 zan3	148097
+羅得島	lo4 dat1 dou2	148097
+船街	syun4 gaai1	201109
+草山	cou2 saan1	160416
+葉建源	jip6 gin3 jyun4	187382
+蒙山	mung4 saan1	157682
+蔡國威	coi3 gwok3 wai1	139258
+袁嘉蔚	jyun4 gaa1 wai3	166485
+袁氏	jyun4 si6	155013
+西敏宮	sai1 man5 gung1	162285
+詹培忠	zim1 pui4 zung1	153124
+豐樂路	fung1 ngaau6 lou6	142717
+賀陽宮	ho6 joeng4 gung1	166485
+返校	faan1 gaau3	253737
+通山	tung1 saan1	201141
+郭靜	gwok3 zing6	144877
+鄧汝超	dang6 jyu5 ciu1	141516
+鄭麗麗	zeng6 lai6 lai6	149023
+金菊路	gam1 guk1 lou6	136931
+集賢路	zaap6 jin4 lou6	136931
+韋莊	wai5 zong1	159618
+飛鵝路	fei1 ngo2 lou6	136931
+馮友蘭	fung4 jau5 laan4	234529
+魏建功	ngai6 gin3 gung1	148097
+鯉景灣	lei5 ging2 waan1	196810
+鹽田區	jim4 tin4 keoi1	157841
+麥嘉	mak6 gaa1	142717
+麥基	mak6 gei1	146978
+麥貝夷	mak6 bui3 ji4	136931
+龍虎門	lung4 fu2 mun4	136931
+七號差館	cat1 hou6 caa1 gun2	138927
+三鄉	saam1 hoeng1	141195
+中港城	zung1 gong2 sing4	144570
+中英街	zung1 jing1 gaai1	196654
+乾炒牛河	gon1 caau2 ngau4 ho2	265716
+京山	ging1 saan1	148553
+伍樂怡	ng5 ngaau6 ji4	149825
+何來	ho4 lai4	285671
+何建宗	ho4 gin3 zung1	151796
+何柱國	ho4 cyu5 gwok3	139969
+劉家良	lau4 gaa1 loeng4	149825
+劉志遠	lau4 zi3 jyun5	146679
+劉恆	lau4 hang4	169770
+劉文正	lau4 man1 zeng3	154743
+劉永	lau4 wing5	150730
+十香園	sap6 hoeng1 jyun4	144570
+吳文遠	ng4 man1 jyun5	149825
+吳日言	ng4 jat6 jin4	141195
+吳莫愁	ng4 mok6 sau4	137665
+呂慧儀	leoi5 wai3 ji4	153718
+呂雉	leoi5 zi6	135288
+周亦卿	zau1 jik6 hing1	132836
+單車館	sin4 ce1 gun2	225512
+四方街	sei3 fong1 gaai1	196654
+圓山	jyun4 saan1	147621
+大新縣	daai6 san1 jyun6	144570
+大樹區	daai6 syu3 keoi1	154413
+天台山	tin1 toi4 saan1	145538
+天涯海角	tin1 ngaai4 hoi2 gok3	229046
+孫武	syun1 mou5	147621
+尾道	mei1 dou6	146679
+廟頭	miu2 tau4	149825
+張右雨	zoeng1 jau6 jyu5	138927
+張寶華	zoeng1 bou2 waa4	159365
+張崇基	zoeng1 sung4 gei1	144570
+張永霖	zoeng1 wing5 lam3	159365
+張衡	zoeng1 hang4	150730
+張雷	zoeng1 leoi4	132836
+彰化市	zoeng1 faa3 si5	149649
+戚美珍	cik1 mei5 zan1	196654
+振華道	zan3 waa4 dou6	149825
+方城	fong1 sing4	155592
+映灣園	jing2 waan1 jyun4	138927
+曹敏莉	cou4 man5 lei6	149825
+曹雪芹	cou4 syut3 kan2	151796
+曾秀清	cang4 sau3 cing1	145538
+朱琳	zyu1 lam4	135288
+朱由校	zyu1 jau2 gaau3	132836
+李光前	lei5 gwong1 cin4	144570
+李凱琳	lei5 kaai1 lam4	158400
+李國英	lei5 gwok3 jing1	144570
+李昂	lei5 ngong5	142207
+東湖路	dung1 wu4 lou6	132836
+東角道	dung1 gok3 dou6	163723
+林健鋒	lam4 gin6 fung1	190931
+林凱恩	lam4 kaai1 jan1	234444
+林彬	lam4 ban1	162812
+林正英	lam4 zeng3 jing1	143397
+林淑儀	lam4 suk6 ji4	132836
+梁榮忠	loeng4 wing4 zung1	141195
+梁漢威	loeng4 hon3 wai1	137665
+梅東路	mui4 dung1 lou6	144570
+楊毅	joeng4 ngai6	132836
+武館	mou5 gun2	252746
+水牛城	seoi2 ngau4 sing4	148731
+水街	seoi2 gaai1	196654
+沙宣道	saa1 syun1 dou6	200871
+沙島	saa1 dou2	149825
+洪欣	hung4 jan1	274684
+洪門	hung4 mun4	203301
+深灣道	sam1 waan1 dou6	246428
+温縣	wan1 jyun6	145538
+潘國山	pun1 gwok3 saan1	168564
+牛潭尾	ngau4 taam4 mei1	149825
+王世充	wong4 sai3 cung1	155592
+王延政	wong4 jin4 zing3	149825
+王晰	wong4 sik1	154743
+百福道	baak3 fuk1 dou6	190931
+盧鎮業	lou4 zan3 jip6	169770
+石禮謙	sek2 lai5 him1	211055
+自我中心	zi6 ngo5 zung1 sam1	251492
+至道	zi3 dou6	203350
+興縣	hing1 jyun6	148553
+葉氏	jip6 si6	157422
+蔡氏	coi3 si6	146679
+蟠龍路	faan1 lung4 lou6	132836
+謝志偉	ze6 zi3 wai5	154743
+謝氏	ze6 si6	157263
+走堂	zau2 tong4	297170
+郭爾君	gwok3 ji5 gwan1	165750
+鄧兆棠	dang6 siu6 tong4	149825
+鄭衍峰	zeng6 hin2 fung1	132836
+鄭鈞	zeng6 gwan1	141195
+金銀島	gam1 ngan4 dou2	226252
+阮福映	jyun2 fuk1 jing2	138927
+雲門山	wan4 mun4 saan1	132836
+雲龍路	wan4 lung4 lou6	132836
+香山路	hoeng1 saan1 lou6	138927
+高平市	gou1 peng4 si5	144570
+高行健	gou1 hong2 gin6	141195
+高野山	gou1 je5 saan1	156432
+魏延	ngai6 jin4	164334
+魚角	jyu2 gok3	161108
+麥可怡	mak6 ho2 ji4	188703
+龍富路	lung4 fu3 lou6	193846
+亞丁灣	aa3 ding1 waan1	155161
+伍氏	ng5 si6	158954
+劉天健	lau4 tin1 gin6	128509
+劉義隆	lau4 ji6 lung4	142892
+劉金勝	lau4 gam1 sing1	173034
+劉雅瑟	lau4 ngaa5 sat1	146378
+北崙河	bak1 leon4 ho2	128509
+南朗山	naam4 long5 saan1	151515
+吳偉豪	ng4 wai5 hou4	134940
+吳冰	ng4 bing1	140872
+呂不韋	leoi5 bat1 wai5	174832
+周瑩	zau1 jing4	147143
+唐奕聰	tong4 jik6 cung1	151515
+唐鶴德	tong4 hok6 dak1	156329
+四都鎮	sei3 dou1 zan3	131102
+塘尾	tong4 mei1	153444
+太子港	taai3 zi2 gong2	195904
+巴黎公社	baa1 lai4 gung1 se5	162569
+市中區	si5 zung1 keoi1	134940
+希慎道	hei1 san6 dou6	151515
+廣雅路	gwong2 ngaa5 lou6	140872
+張大春	zoeng1 daai6 ceon1	141889
+張文慈	zoeng1 man1 ci4	156329
+張永豪	zoeng1 wing5 hou4	165136
+張羣	zoeng1 kwan4	148439
+張耀揚	zoeng1 jiu6 joeng2	224246
+張蔓姿	zoeng1 maan6 zi1	128509
+徐嬌	ceoi4 giu1	140872
+徐彬	ceoi4 ban1	151515
+方健儀	fong1 gin6 ji4	134940
+旗津區	kei4 zeon1 keoi1	131102
+旺市	wong6 si5	174832
+曹查理	cou4 caa4 lei5	140872
+曹禺	cou4 jyu4	133609
+曾慶瑜	cang4 hing3 jyu4	190123
+曾華倩	cang4 waa4 sin6	134940
+朱友貞	zyu1 jau5 zing1	140872
+朱瞻基	zyu1 zim1 gei1	131102
+朱維德	zyu1 wai4 dak1	146378
+李卓敏	lei5 coek3 man5	134940
+李婉華	lei5 jyun2 waa4	189725
+李承乾	lei5 sing4 gon1	151515
+李明蔚	lei5 ming4 wai3	245149
+李曉東	lei5 hiu1 dung1	131102
+李海泉	lei5 hoi2 cyun4	134940
+李湛	lei5 zaam3	153444
+李澤鉅	lei5 zaak6 geoi6	140872
+李錦綸	lei5 gam2 leon4	138391
+杜達	dou6 daat6	140872
+林佳龍	lam4 gaai1 lung4	177660
+林尚義	lam4 soeng6 ji6	134940
+林熙蕾	lam4 hei1 leoi4	191924
+林超榮	lam4 ciu1 wing4	191924
+梁偉文	loeng4 wai5 man1	188933
+梁燕城	loeng4 jin3 sing4	183538
+梁翹柏	loeng4 kiu4 paak3	134940
+梵淨山	faan4 zing6 saan1	303046
+楊弦	joeng4 jin4	165136
+楊振寧	joeng4 zan3 ning4	133609
+楊晨	joeng4 san4	140872
+楊穎	joeng4 wing6	134940
+汝城	jyu5 sing4	153108
+沙埔	saa1 bou3	128509
+海下灣	hoi2 haa5 waan1	191924
+濱海區	ban1 hoi2 keoi1	138391
+王勃	wong4 but6	131102
+王洛賓	wong4 lok6 ban1	128509
+王瑞	wong4 seoi6	128509
+王翦	wong4 zin2	134940
+男女校	naam4 neoi2 gaau3	235003
+盧文端	lou4 man1 dyun1	146378
+石詠莉	sek2 wing6 lei6	134940
+神岡區	san4 gong1 keoi1	159604
+紅梅路	hung4 mui4 lou6	128509
+紅橋	hung4 kiu4	224246
+胡國興	wu4 gwok3 hing1	188933
+胡恩威	wu4 jan1 wai1	140872
+胡海泉	wu4 hoi2 cyun4	148439
+范特西	faan6 dak6 sai1	160859
+荔城	lai6 sing4	128509
+萬寶路	maan6 bou2 lou6	147325
+萬華區	maan6 waa4 keoi1	137327
+葉偉信	jip6 wai5 seon3	194802
+董仲舒	dung2 zung6 syu1	137327
+蔡幸娟	coi3 hang6 gyun1	188933
+蕭笙	siu1 sang1	158142
+許仕仁	heoi2 si6 jan4	140872
+譚倩紅	taam4 sin6 hung4	140872
+譚夏士	taam4 haa6 si6	151515
+迷城	mai4 sing4	168703
+郭平	gwok3 peng4	159604
+鄧藹霖	dang6 ngoi2 lam3	146378
+鄭元暢	zeng6 jyun4 coeng3	137327
+鄭恕峰	zeng6 syu3 fung1	128509
+金湖	gam1 wu4	131102
+錢學森	cin2 hok6 sam1	148439
+阮兆輝	jyun2 siu6 fai1	134940
+雷山	leoi4 saan1	153108
+非洲之角	fei1 zau1 zi1 gok3	196402
+韋小寶	wai5 siu2 bou2	151515
+馮克安	fung4 haak1 on1	191924
+高爾基	gou1 ji5 gei1	152231
+高華	gou1 waa4	268017
+鴻福堂	hung4 fuk1 tong4	174832
+麥克華堡	mak6 haak1 waa4 bou2	131102
+黑水河	hak1 seoi2 ho2	134940
+龍鳳區	lung4 fung6 keoi1	128509
+五島	ng5 dou2	138056
+伍漢持	ng5 hon3 ci4	192904
+俄亥俄河	ngo4 hoi6 ngo4 ho2	155740
+傅達仁	fu6 daat6 jan4	153169
+劉卓裕	lau4 coek3 jyu6	162325
+劉諾衡	lau4 nok6 hang4	136987
+劉頌鵬	lau4 zung6 paang4	133253
+北寧路	bak1 ning4 lou6	134375
+古天祥	gu2 tin1 coeng4	130733
+古縣	gu2 jyun6	136779
+吳承恩	ng4 sing4 jan1	130733
+呂奇	leoi5 kei4	123924
+呂有慧	leoi5 jau5 wai3	142769
+呂頌賢	leoi5 zung6 jin4	220011
+周曉鷗	zau1 hiu1 ngau1	133253
+周漢寧	zau1 hon3 ning4	130733
+周興哲	zau1 hing1 zit3	164388
+周鼎	zau1 ding2	123924
+唐禹哲	tong4 jyu5 zit3	136987
+嘉亨灣	gaa1 hang1 waan1	189952
+四美街	sei3 mei5 gaai1	150887
+坦洲	taan2 zau1	123924
+堅巷	gin1 hong2	192904
+天辰路	tin1 san4 lou6	123924
+姜子牙	goeng1 zi2 ngaa4	164388
+定慧寺	ding6 wai3 zi2	155057
+小洲村	siu2 zau1 cyun1	142769
+屏東市	ping4 dung1 si5	136779
+常陸宮	soeng4 luk6 gung1	138056
+平頂山	peng4 deng2 saan1	129327
+庇護工場	bei3 wu6 gung1 coeng4	225873
+廖嬋娥	liu6 sim4 ngo4	157883
+引水道	jan5 seoi2 dou6	164388
+張家朗	zoeng1 gaa1 long5	170027
+張惠長	zoeng1 wai6 coeng4	309031
+張永森	zoeng1 wing5 sam1	223724
+張浩	zoeng1 hou6	126673
+張馨予	zoeng1 hing1 jyu5	123924
+徐匯區	ceoi4 wui6 keoi1	141373
+德州市	dak1 zau1 si5	134375
+德星路	dak1 sing1 lou6	123924
+攸縣	jau4 jyun6	136779
+新宮	san1 gung1	139312
+方偉傑	fong1 wai5 git6	148145
+方樹泉	fong1 syu3 cyun4	136987
+方紹聰	fong1 siu6 cung1	130733
+施匡翹	si1 hong1 kiu4	130733
+施耐庵	si1 noi6 am1	139312
+普陀山	pou2 to4 saan1	133253
+朱婷	zyu1 ting4	136987
+朱幼麟	zyu1 jau3 leon4	153169
+朱晉傑	zyu1 zeon3 git6	190734
+李亨	lei5 hang1	157883
+李嘉豪	lei5 gaa1 hou4	123924
+李忱	lei5 sam4	123924
+李沛旭	lei5 pui3 juk1	157883
+李清	lei5 cing1	193421
+李炎	lei5 jim4	136987
+李璐	lei5 lou6	123924
+李重茂	lei5 cung4 mau6	148145
+杜煥	dou6 wun6	162325
+林瑞麟	lam4 seoi6 leon4	195746
+林莉	lam4 lei6	136987
+梁嘉銘	loeng4 gaa1 ming5	126673
+梁文傑	loeng4 man1 git6	153169
+楊潔	joeng4 git3	123924
+正陽門	zeng3 joeng4 mun4	149070
+武城	mou5 sing4	227108
+比沙路	bei2 saa1 lou6	142769
+水蔭路	seoi2 jam3 lou6	130733
+永興縣	wing5 hing1 jyun6	149809
+江慧楓	gong1 wai3 fung1	176055
+沈從文	sam2 cung4 man1	133253
+沈貞巧	sam2 zing1 haau2	136987
+泊村	paak3 cyun1	123924
+津島	zeon1 dou2	129327
+浪澄灣	long6 cing4 waan1	188104
+烏頭	wu1 tau4	208386
+牙鷹洲	ngaa4 jing1 zau1	234698
+獨山	duk6 saan1	130733
+王錦輝	wong4 gam2 fai1	153169
+王雙駿	wong4 soeng1 zeon3	123924
+白寶山	baak6 bou2 saan1	143570
+盧偉國	lou4 wai5 gwok3	130733
+眾安街	zung3 on1 gaai1	207337
+石崗路	sek2 gong1 lou6	123924
+碧街	bik1 gaai1	208274
+祁連山	kei4 lin4 saan1	131892
+福榮街	fuk1 wing4 gaai1	126673
+簡氏	kaan2 si6	198968
+紅荔路	hung4 lai6 lou6	123924
+胡然	wu4 jin4	142769
+能仁寺	nang4 jan4 zi2	136987
+興泰路	hing1 taai3 lou6	123924
+興雲路	hing1 wan4 lou6	123924
+花蓮市	faa1 lin4 si5	129327
+蒙城	mung4 sing4	139110
+蔡克健	coi3 haak1 gin6	142769
+蔡甸區	coi3 din1 keoi1	144740
+蔡若蓮	coi3 joek6 lin4	210304
+蕭友梅	siu1 jau5 mui4	291177
+蘆洲區	lou4 zau1 keoi1	190490
+蘇浩	sou1 hou6	123924
+蘇運瑩	sou1 wan6 jing4	136987
+袁帥	jyun4 seoi3	130733
+袁彌明	jyun4 mei4 ming4	135692
+袁惟仁	jyun4 wai4 jan4	130733
+西高山	sai1 gou1 saan1	148145
+許文軒	heoi2 man1 hin1	142769
+許綽婷	heoi2 coek3 ting4	136987
+許美珍	heoi2 mei5 zan1	189952
+許飛	heoi2 fei1	136987
+詩書路	si1 syu1 lou6	136987
+謝金燕	ze6 gam1 jin3	134375
+譚國僑	taam4 gwok3 kiu4	130733
+貝加爾湖	bui3 gaa1 ji5 wu4	150159
+赤洲	cek3 zau1	148145
+鄭佩佩	zeng6 pui3 pui3	129327
+鄭嘉豪	zeng6 gaa1 hou4	123924
+金洲路	gam1 zau1 lou6	123924
+銀洲	ngan4 zau1	133253
+錢納利	cin2 naap6 lei6	153169
+阮兒	jyun2 ji4	164388
+陽山	joeng4 saan1	144927
+雲城	wan4 sing4	123924
+雲景道	wan4 ging2 dou6	126673
+韋偉	wai5 wai5	123924
+韓非	hon4 fei1	154035
+高皓正	gou1 hou6 zeng3	172360
+高知市	gou1 zi1 si5	133253
+高鳴	gou1 ming4	123924
+鳴琴路	ming4 kam4 lou6	123924
+鴻福街	hung4 fuk1 gaai1	162325
+麥哥利	mak6 go1 lei6	136987
+麥紫莉	mak6 zi2 lei6	123924
+龍導尾	lung4 dou6 mei1	130733
+龍德路	lung4 dak1 lou6	123924
+龍興路	lung4 hing1 lou6	123924
+龍華區	lung4 waa4 keoi1	123924
+中北路	zung1 bak1 lou6	119046
+乾道	gon1 dou6	132675
+伍富橋	ng5 fu3 kiu4	138981
+伍詠詩	ng5 wing6 si1	119046
+何偉龍	ho4 wai5 lung4	132895
+何家駒	ho4 gaa1 keoi1	119046
+何文匯	ho4 man1 wui6	132895
+何璐怡	ho4 lou6 ji4	130136
+何鍾泰	ho4 zung1 taai3	132895
+共青城	gung6 cing1 sing4	184775
+利安道	lei6 on1 dou6	261682
+劉向	lau4 hoeng3	127511
+劉宇寧	lau4 jyu5 ning4	146728
+劉翁	lau4 jung1	165789
+劉華	lau4 waa4	207314
+劉進	lau4 zeon3	131528
+南宮	naam4 gung1	126283
+南泥灣	naam4 nai4 waan1	124792
+南泰路	naam4 taai3 lou6	119046
+古河	gu2 ho2	126283
+吳中區	ng4 zung1 keoi1	132675
+吳思遠	ng4 si1 jyun5	138981
+吳權	ng4 kyun4	132895
+吳靜	ng4 zing6	121973
+呂珊	leoi5 saan1	132895
+呂秉權	leoi5 bing2 kyun4	208140
+固城	gu3 sing4	127511
+塞納河	sak1 naap6 ho2	140023
+大清真寺	daai6 cing1 zan1 zi2	145402
+大理市	daai6 lei5 si5	132675
+大環道	daai6 waan4 dou6	227398
+大觀區	daai6 gun1 keoi1	119046
+大里區	daai6 lei5 keoi1	195991
+姚思榮	jiu4 si1 wing4	216552
+孫明揚	syun1 ming4 joeng2	121973
+寶路	bou2 lou6	132895
+崖門	ngaai4 mun4	135345
+幽門	jau1 mun4	187929
+廖麗麗	liu6 lai6 lai6	131528
+廣德路	gwong2 dak1 lou6	119046
+廣雲路	gwong2 wan4 lou6	119046
+張一山	zoeng1 jat1 saan1	277333
+張家豐	zoeng1 gaa1 fung1	138981
+張展鵬	zoeng1 zin2 paang4	182358
+張磊	zoeng1 leoi5	121973
+張秀賢	zoeng1 sau3 jin4	138981
+張芸京	zoeng1 wan4 ging1	144620
+張豐毅	zoeng1 fung1 ngai6	131528
+徐崢	ceoi4 zang1	119046
+徐順全	ceoi4 seon6 cyun4	154787
+惠福路	wai6 fuk1 lou6	132895
+愛蝶灣	oi3 dip6 waan1	136437
+搬龍門	bun1 lung4 mun4	180856
+新縣	san1 jyun6	135133
+方山	fong1 saan1	127511
+方泳琳	fong1 wing6 lam4	132895
+景福街	ging2 fuk1 gaai1	119046
+曾守明	cang4 sau2 ming4	128950
+曾德成	cang4 dak1 seng4	141248
+朝天路	ciu4 tin1 lou6	187929
+朱拉隆功	zyu1 laai1 lung4 gung1	136437
+朱祁鎮	zyu1 kei4 zan3	119046
+朱自清	zyu1 zi6 cing1	143449
+朱褒	zyu1 bou1	154787
+朱高熾	zyu1 gou1 ci3	138981
+李之芳	lei5 zi1 fong1	130136
+李剛	lei5 gong1	141248
+李志恆	lei5 zi3 hang4	144620
+李文亮	lei5 man1 loeng6	233431
+李治廷	lei5 zi6 ting4	126283
+李源	lei5 jyun4	134022
+李源潮	lei5 jyun4 ciu4	121973
+李穎芝	lei5 wing6 zi1	132895
+李貞駒	lei5 zing1 keoi1	138981
+杜牧	dou6 muk6	141248
+杜穎珊	dou6 wing6 saan1	119046
+東泰路	dung1 taai3 lou6	119046
+林珊珊	lam4 saan1 saan1	184775
+根德道	gan1 dak1 dou6	126283
+梁敏儀	loeng4 man5 ji4	119046
+梁文廣	loeng4 man1 gwong2	119046
+梁文福	loeng4 man1 fuk1	126283
+梁淑貞	loeng4 suk6 zing1	126283
+梁雍婷	loeng4 jung1 ting4	184775
+楊楚營	joeng4 co2 jing4	144620
+樂道	ngaau6 dou6	190958
+死火山	sei2 fo2 saan1	200426
+永興村	wing5 hing1 cyun1	119046
+沈括	sam2 kut3	126283
+海庭道	hoi2 ting4 dou6	246441
+海樂路	hoi2 ngaau6 lou6	119046
+海陽路	hoi2 joeng4 lou6	119046
+淡路	taam5 lou6	143449
+湖內區	wu4 noi6 keoi1	119046
+滑縣	waat6 jyun6	139823
+潘屋	pun1 uk1	119046
+潘紹聰	pun1 siu6 cung1	119046
+濱江路	ban1 gong1 lou6	121973
+物華街	mat6 waa4 gaai1	243505
+王婉諭	wong4 jyun2 jyu6	149872
+王玉玲	wong4 juk2 ling4	126283
+王琳	wong4 lam4	138779
+王聖堂	wong4 sing3 tong4	138981
+王藍	wong4 laam4	126283
+環角道	waan4 gok3 dou6	225529
+百靈路	baak3 ling4 lou6	132895
+綠道	luk6 dou6	141248
+總社	zung2 se5	151842
+聲道	seng1 dou6	164901
+興寧市	hing1 ning4 si5	119046
+葉錦龍	jip6 gam2 lung4	149872
+葉非英	jip6 fei1 jing1	144620
+蓮坳	lin4 aau3	132895
+蔡一傑	coi3 jat1 git6	126283
+蔡一智	coi3 jat1 zi3	132895
+蔡康永	coi3 hong1 wing5	188731
+蔡頌思	coi3 zung6 si1	132895
+薛忠銘	sit3 zung1 ming5	138981
+蘇曉康	sou1 hiu1 hong1	244987
+蘭島	laan4 dou2	126283
+蛟河市	gaau1 ho2 si5	144620
+袁國強	jyun4 gwok3 koeng4	160611
+襄城	soeng1 sing4	130136
+西角	sai1 gok3	149872
+詹憲慈	zim1 hin3 ci4	119046
+謝高晉	ze6 gou1 zeon3	119046
+豐澤路	fung1 zaak6 lou6	119046
+迪欣湖	dik6 jan1 wu4	144620
+鄧文瀚	dang6 man1 hon6	144620
+鄧穎芝	dang6 wing6 zi1	119046
+鄭經	zeng6 ging1	132895
+鄭雪兒	zeng6 syut3 ji4	132895
+金鄉	gam1 hoeng1	139823
+鋤頭	co4 tau4	224373
+錫安堂	sek3 on1 tong4	138981
+阮政峰	jyun2 zing3 fung1	119046
+阻街	zo2 gaai1	245369
+陳莉萍	can4 lei6 ping4	138981
+陽門	joeng4 mun4	119046
+雲景路	wan4 ging2 lou6	119046
+雲港路	wan4 gong2 lou6	119046
+靜安區	zing6 on1 keoi1	130136
+靜岡市	zing6 gong1 si5	131528
+韋奇立	wai5 kei4 laap6	138981
+韋應物	wai5 jing1 mat6	138981
+韋拉	wai5 laai1	153762
+韓氏	hon4 si6	138779
+高楓	gou1 fung1	121973
+高樹	gou1 syu3	131528
+高氏	gou1 si6	134022
+麥凱程	mak6 kaai1 cing4	157061
+麥皓兒	mak6 hou6 ji4	121973
+麥馬拿文	mak6 maa5 naa4 man1	245333
+齊富路	cai4 fu3 lou6	126283
+龍田鄉	lung4 tin4 hoeng1	126283
+龍穴島	lung4 jyut6 dou2	149872
+龍華鎮	lung4 waa4 zan3	121973
+三蘇祠	saam1 sou1 ci4	288128
+中壢區	zung1 lek6 keoi1	129763
+企堂	kei5 tong4	121558
+伏加河	fuk6 gaa1 ho2	113837
+位元堂	wai6 jyun4 tong4	128571
+何思諺	ho4 si1 jin6	121558
+何晉樂	ho4 zeon3 ngaau6	113837
+六島	luk6 dou2	113837
+冬菇頭	dung1 gu1 tau4	160361
+劉保	lau4 bou2	119971
+劉國勳	lau4 gwok3 fan1	113837
+劉弗陵	lau4 fat1 ling4	129763
+劉詢	lau4 seon1	131162
+劉駿	lau4 zeon3	119971
+卑利街	bei1 lei6 gaai1	188962
+史托港	si2 tok3 gong2	135883
+后里區	hau6 lei5 keoi1	187647
+吳伯雄	ng4 baak3 hung4	122863
+吳綺莉	ng4 ji2 lei6	121558
+吳邦國	ng4 bong1 gwok3	113837
+呂宋島	leoi5 sung3 dou2	129763
+呂運亨	leoi5 wan6 hang1	128339
+呂靜文	leoi5 zing6 man1	121558
+呂麗君	leoi5 lai6 gwan1	239069
+周小燕	zau1 siu2 jin3	113837
+周小龍	zau1 siu2 lung4	140925
+周明權	zau1 ming4 kyun4	218265
+周松崗	zau1 cung4 gong1	113837
+周殷廷	zau1 jan1 ting4	121558
+周澄	zau1 cing4	140925
+唐劍康	tong4 gim3 hong1	121558
+唐山大兄	tong4 saan1 daai6 hing1	128571
+唐碧霞	tong4 bik1 haa4	151561
+天榮路	tin1 wing4 lou6	182609
+姚婷芝	jiu4 ting4 zi1	121558
+官立學校	gun1 laap6 hok6 gaau3	245480
+寺區	zi2 keoi1	113837
+山貝河	saan1 bui3 ho2	191951
+岑寧兒	sam4 ning4 ji4	128571
+廣和路	gwong2 wu4 lou6	113837
+張家豪	zoeng1 gaa1 hou4	121558
+張張	zoeng1 zoeng1	268519
+張敬仁	zoeng1 ging3 jan4	153931
+張華峰	zoeng1 waa4 fung1	153931
+張萬年	zoeng1 maan6 nin4	116965
+彭斯	paang4 si1	217542
+徐晃	ceoi4 fong2	170978
+慶豐路	hing3 fung1 lou6	113837
+截拳道	zit6 kyun4 dou6	128571
+拖頭	to1 tau4	163002
+星街	sing1 gaai1	121558
+曾國強	cang4 gwok3 koeng4	121558
+月華街	jyut6 waa4 gaai1	121558
+望德堂區	mong6 dak1 tong4 keoi1	116965
+朱諾	zyu1 nok6	128571
+李佩玲	lei5 pui3 ling4	134997
+李元玲	lei5 jyun4 ling4	113837
+李好	lei5 hou2	128571
+李察波頓	lei5 caat3 bo1 deon6	113837
+李棟旭	lei5 dung6 juk1	263697
+李歐	lei5 au1	134783
+李泰	lei5 taai3	128571
+李澤添	lei5 zaak6 tim1	128571
+李炳憲	lei5 bing2 hin3	116965
+李琳琳	lei5 lam4 lam4	113837
+李福兆	lei5 fuk1 siu6	134997
+李谷一	lei5 guk1 jat1	121558
+李飛	lei5 fei1	220317
+杜德	dou6 dak1	134997
+杜葉錫恩	dou6 jip6 sek3 jan1	131162
+林利	lam4 lei6	121558
+林定國	lam4 ding6 gwok3	113837
+林小美	lam4 siu2 mei5	113837
+林建名	lam4 gin3 meng2	113837
+林秀貞	lam4 sau3 zing1	119971
+林靜	lam4 zing6	151561
+梁智鴻	loeng4 zi3 hung4	128571
+梁鼎芬	loeng4 ding2 fan1	134997
+梅道	mui4 dou6	121558
+楊之光	joeng4 zi1 gwong1	113837
+楊偉雄	joeng4 wai5 hung4	183468
+楊傳廣	joeng4 cyun4 gwong2	116965
+楊孫西	joeng4 syun1 sai1	121558
+楊玉梅	joeng4 juk2 mui4	128571
+樹頭	syu3 tau4	218265
+汀角	ting4 gok3	121558
+沙渡路	saa1 dou6 lou6	113837
+沛縣	pui3 jyun6	139695
+洪天路	hung4 tin1 lou6	218265
+流沙河	lau4 saa1 ho2	182609
+添美道	tim1 mei5 dou6	221109
+潘基文	pun1 gei1 man1	113837
+潘氏家廟	pun1 si6 gaa1 miu2	128571
+潘玲玲	pun1 ling4 ling4	191951
+瀏陽河	lau4 joeng4 ho2	113837
+王之一	wong4 zi1 jat1	132314
+王嘉盈	wong4 gaa1 jing4	113837
+王若琳	wong4 joek6 lam4	134997
+王衍	wong4 hin2	121558
+瓊山	king4 saan1	219078
+石沙路	sek2 saa1 lou6	113837
+石黑賢	sek2 hak1 jin4	135883
+碧溪路	bik1 kai1 lou6	113837
+福知山	fuk1 zi1 saan1	116965
+程美段	cing4 mei5 dyun6	158601
+糖街	tong4 gaai1	183900
+索克縣	sok3 haak1 jyun6	113837
+索馬里	sok3 maa5 lei5	135554
+結城	git3 sing4	134783
+聯華路	lyun4 waa4 lou6	113837
+胡國雄	wu4 gwok3 hung4	134997
+華樂路	waa4 ngaau6 lou6	113837
+華貴路	waa4 gwai3 lou6	113837
+葉巧琳	jip6 haau2 lam4	121558
+葉鎮輝	jip6 zan3 fai1	128571
+葉鴻輝	jip6 hung4 fai1	248717
+蔡淇俊	coi3 kei4 zeon3	121558
+蔡細歷	coi3 sai3 lik6	116965
+蕭涵方	siu1 haam4 fong1	113837
+藤縣	tang4 jyun6	127125
+蘇穎智	sou1 wing6 zi3	169223
+街頭巷尾	gaai1 tau4 hong2 mei1	248458
+袁嘉敏	jyun4 gaa1 man5	121558
+袁枚	jyun4 mui4	124392
+西屯區	sai1 tyun4 keoi1	130937
+觀綠路	gun1 luk6 lou6	113837
+許家媛	heoi2 gaa1 wun4	128571
+詹秉熙	zim1 bing2 hei1	128571
+迎福路	jing4 fuk1 lou6	113837
+遊車河	jau4 ce1 ho2	264980
+郭熙	gwok3 hei1	140925
+鄧家禮	dang6 gaa1 lai5	121558
+鄧浩光	dang6 hou6 gwong1	134997
+鄭華娟	zeng6 waa4 gyun1	113837
+金灣	gam1 waan1	128571
+銀海區	ngan4 hoi2 keoi1	121558
+銅鑼鄉	tung4 lo4 hoeng1	185851
+錢氏	cin2 si6	131162
+開福區	hoi1 fuk1 keoi1	140925
+阮浩棕	jyun2 hou6 zung1	113837
+阿蓮區	aa3 lin4 keoi1	124392
+雙河	soeng1 ho2	128339
+頭份市	tau4 fan2 si5	121558
+餘杭區	jyu4 hong4 keoi1	129763
+馮國經	fung4 gwok3 ging1	128571
+骨場	gwat1 coeng4	284122
+高木涉	gou1 muk6 sip3	113837
+高永文	gou1 wing5 man1	121558
+魏韵芝	ngai6 wan5 zi1	113837
+麒麟山	kei4 leon4 saan1	146427
+麥潤壽	mak6 jeon6 sau6	113837
+麥皓為	mak6 hou6 wai6	124392
+一宮	jat1 gung1	127957
+五指山	ng5 zi2 saan1	137043
+伊達市	ji1 daat6 si5	108248
+伍淑清	ng5 suk6 cing1	176088
+伏見區	fuk6 gin3 keoi1	159154
+何俊賢	ho4 zeon3 jin4	108248
+傅聲	fu6 seng1	180379
+全羅道	cyun4 lo4 dou6	141621
+劉依靜	lau4 ji1 zing6	116522
+劉國昌	lau4 gwok3 coeng1	116522
+劉弘	lau4 wang4	119545
+劉思希	lau4 si1 hei1	116522
+劉業成	lau4 jip6 seng4	137043
+劉炳章	lau4 bing2 zoeng1	108248
+劉雲山	lau4 wan4 saan1	108248
+南崗村	naam4 gong1 cyun1	117915
+南投市	naam4 tau4 si5	111608
+同和路	tung4 wu4 lou6	123990
+吳一里	ng4 jat1 lei5	142821
+吳麗珠	ng4 lai6 zyu1	180379
+周作人	zau1 zok3 jan4	189334
+周卓奇	zau1 coek3 kei4	117915
+周禮茂	zau1 lai5 mau6	111608
+周處	zau1 cyu5	119545
+周蜜	zau1 mat6	116522
+周躍龍	zau1 joek3 lung4	108248
+唐俊街	tong4 zeon3 gaai1	231282
+唐貝詩	tong4 bui3 si1	108248
+圍頭村	wai4 tau4 cyun1	133311
+坡山	bo1 saan1	148193
+塘尾道	tong4 mei1 dou6	116522
+士美菲路	si6 mei5 fei1 lou6	123990
+大角	daai6 gok3	111608
+大角頭	daai6 gok3 tau4	137043
+奇門	kei4 mun4	108248
+姚君達	jiu4 gwan1 daat6	126737
+姜成勳	goeng1 seng4 fan1	217970
+孫泳恩	syun1 wing6 jan1	116522
+孫漢霖	syun1 hon3 lam3	116522
+宜蘭市	ji4 laan4 si5	122453
+容縣	jung4 jyun6	123990
+寶山鄉	bou2 saan1 hoeng1	108248
+寶鄉橋	bou2 hoeng1 kiu4	130794
+岑寧童	sam4 ning4 tung4	123990
+岑杏賢	sam4 hang6 jin4	150668
+嵩縣	sung1 jyun6	114826
+庇利街	bei3 lei6 gaai1	123990
+張國柱	zoeng1 gwok3 cyu5	111608
+張帥	zoeng1 seoi3	108248
+張建東	zoeng1 gin3 dung1	116522
+張水院	zoeng1 seoi2 jyun2	181264
+張涵予	zoeng1 haam4 jyu5	180379
+張菲	zoeng1 fei1	123743
+張鐵林	zoeng1 tit3 lam4	117915
+張雪芹	zoeng1 syut3 kan2	123990
+彭美詩	paang4 mei5 si1	142821
+徐肇平	ceoi4 siu6 peng4	123990
+怡樂路	ji4 ngaau6 lou6	123990
+應元路	jing1 jyun4 lou6	116522
+挹翠路	jap1 ceoi3 lou6	116522
+施偉賢	si1 wai5 jin4	119545
+晉城街	zeon3 sing4 gaai1	108248
+曹宏威	cou4 wang4 wai1	243369
+曹思詩	cou4 si1 si1	116522
+曹熊	cou4 hung4	117915
+朱汶欣	zyu1 man4 jan1	108248
+朱耀明	zyu1 jiu6 ming4	108248
+李丹	lei5 daan1	108248
+李仁孝	lei5 jan4 haau3	108248
+李倩怡	lei5 sin6 ji4	287571
+李國煌	lei5 gwok3 wong4	116522
+李大斐	lei5 daai6 fei2	137043
+李小加	lei5 siu2 gaa1	213676
+李小文	lei5 siu2 man1	116522
+李小萌	lei5 siu2 mang4	111608
+李小鵬	lei5 siu2 paang4	108248
+李恩宙	lei5 jan1 zau6	126737
+李漢魂	lei5 hon3 wan4	116522
+李炳文	lei5 bing2 man1	116522
+李綺虹	lei5 ji2 hung3	123990
+李莉	lei5 lei6	116522
+李薇	lei5 mei4	116522
+李鳳翔	lei5 fung6 coeng4	120885
+村山富市	cyun1 saan1 fu3 si5	123990
+林丹	lam4 daan1	123743
+林兆彬	lam4 siu6 ban1	130794
+林慕德	lam4 mou6 dak1	137043
+林景程	lam4 ging2 cing4	116522
+林松	lam4 cung4	108248
+林琳	lam4 lam4	119545
+林祖輝	lam4 zou2 fai1	123990
+林若寧	lam4 joek6 ning4	116522
+林蛟	lam4 gaau1	123990
+林語堂	lam4 jyu5 tong4	117915
+林輝	lam4 fai1	123990
+柳城	lau5 sing4	123990
+柳河	lau5 ho2	116522
+梁凱寧	loeng4 kaai1 ning4	150668
+梁君培	loeng4 gwan1 pui4	108248
+梁少霞	loeng4 siu2 haa4	117915
+梁思禮	loeng4 si1 lai5	108248
+梁柏堅	loeng4 paak3 gin1	119545
+梁繼昌	loeng4 gai3 coeng1	191923
+棲霞區	cai1 haa4 keoi1	114826
+楊培安	joeng4 pui4 on1	108248
+楊天經	joeng4 tin1 ging1	116522
+楊建兵	joeng4 gin3 bing1	123990
+楊浦區	joeng4 pou2 keoi1	116522
+楊玉環	joeng4 juk2 waan4	123990
+橫瀝鎮	waang4 lek6 zan3	108248
+歐倩怡	au1 sin6 ji4	108248
+江志強	gong1 zi3 koeng4	160110
+沈祖堯	sam2 zou2 jiu4	180379
+泥城	nai4 sing4	116522
+洪敬堯	hung4 ging3 jiu4	133311
+海心島	hoi2 sam1 dou2	130794
+海怡路	hoi2 ji4 lou6	220995
+海陽市	hoi2 joeng4 si5	129159
+淮海路	waai4 hoi2 lou6	117915
+港運城	gong2 wan6 sing4	183715
+無主之城	mou4 zyu2 zi1 sing4	108248
+熱普城	jit6 pou2 sing4	179190
+獨島	duk6 dou2	130794
+王冬勝	wong4 dung1 sing1	160110
+王卓淇	wong4 coek3 kei4	116522
+王喬	wong4 kiu4	119545
+王景弘	wong4 ging2 wang4	123990
+王曉明	wong4 hiu1 ming4	111608
+王福齡	wong4 fuk1 ling4	137043
+王秀琳	wong4 sau3 lam4	108248
+王羽	wong4 jyu5	114826
+王賢誌	wong4 jin4 zi3	116522
+琵琶湖	pei4 paa4 wu4	108248
+留堂	lau4 tong4	246263
+石垣市	sek2 wun4 si5	134217
+石天欣	sek2 tin1 jan1	108248
+福島區	fuk1 dou2 keoi1	108248
+禪城	sim4 sing4	123990
+科韻路	fo1 wan5 lou6	108248
+簡尼	kaan2 nei4	119545
+簡愛	kaan2 oi3	218962
+簡慕華	kaan2 mou6 waa4	111608
+米埔	mai5 bou3	218962
+紅場	hung4 coeng4	154519
+翔龍灣	coeng4 lung4 waan1	116522
+翠華路	ceoi3 waa4 lou6	114826
+耀興道	jiu6 hing1 dou6	186239
+胡宇威	wu4 jyu5 wai1	134217
+胡斯	wu4 si1	138111
+腳趾尾	goek3 zi2 mei1	220995
+興國路	hing1 gwok3 lou6	108248
+舒城	syu1 sing4	133311
+芬治大道	fan1 zi6 daai6 dou6	116522
+莒縣	geoi2 jyun6	129159
+萬壽路	maan6 sau6 lou6	108248
+葉振聲	jip6 zan3 seng1	119545
+葉芝	jip6 zi1	133311
+董嘉儀	dung2 gaa1 ji4	116522
+蔡明禧	coi3 ming4 hei1	130794
+薩丁島	saat3 ding1 dou2	130794
+藍塘道	laam4 tong4 dou6	116522
+藝洲路	ngai6 zau1 lou6	108248
+蘇可欣	sou1 ho2 jan1	116522
+蘇志威	sou1 zi3 wai1	116522
+蘇炳添	sou1 bing2 tim1	133093
+蘇韻姿	sou1 wan5 zi1	116522
+袁潔儀	jyun4 git3 ji4	116522
+許穆	heoi2 muk6	123990
+謝可逸	ze6 ho2 jat6	108248
+謝幕	ze6 mok6	119545
+連城訣	lin4 sing4 kyut3	114826
+郭伯雄	gwok3 baak3 hung4	123990
+郭思	gwok3 si1	116522
+鄧伊程	dang6 ji1 cing4	116522
+鄧嘉傑	dang6 gaa1 git6	116522
+鄧育昆	dang6 juk6 kwan1	108248
+鄧英敏	dang6 jing1 man5	119545
+金巴倫道	gam1 baa1 leon4 dou6	195772
+門仔塘	mun4 zai2 tong4	130794
+關廟區	gwaan1 miu2 keoi1	188133
+阮富仲	jyun2 fu3 zung6	216872
+防煙門	fong4 jin1 mun4	202493
+陳旭明	can4 juk1 ming4	108248
+隱門	jan2 mun4	116522
+韋羅莎	wai5 lo4 saa1	123990
+風順堂區	fung1 seon6 tong4 keoi1	116522
+飛躍道	fei1 joek3 dou6	189980
+馮定國	fung4 ding6 gwok3	130794
+馮志豐	fung4 zi3 fung1	116522
+駿業路	zeon3 jip6 lou6	108248
+高嘉瑜	gou1 gaa1 jyu4	123990
+高圓圓	gou1 jyun4 jyun4	117915
+高思博	gou1 si1 bok3	142821
+高田路	gou1 tin4 lou6	108248
+魏徵	ngai6 zing1	108248
+鳳山縣	fung6 saan1 jyun6	120885
+麥詩敏	mak6 si1 man5	123990
+龍宮	lung4 gung1	188133
+龍田鎮	lung4 tin4 zan3	108248
+龍鳳鎮	lung4 fung6 zan3	108248
+七聖古廟	cat1 sing3 gu2 miu2	102219
+乍得湖	zaa3 dat1 wu4	126347
+伍國瑩	ng5 gwok3 jing4	102219
+何國棟	ho4 gwok3 dung6	105847
+佛光寺	fat6 gwong1 zi2	119116
+侯城	hau4 sing4	178082
+利東街	lei6 dung1 gaai1	200691
+劉仕裕	lau4 si6 jyu6	111132
+劉凱怡	lau4 kaai1 ji4	111132
+劉宏	lau4 wang4	102219
+劉家衡	lau4 gaa1 hang4	119116
+劉洲	lau4 zau1	102219
+劉漢	lau4 hon3	102219
+劉雪華	lau4 syut3 waa4	111132
+劉鶴	lau4 hok6	219652
+北門區	bak1 mun4 keoi1	111132
+南珠路	naam4 zyu1 lou6	102219
+古天農	gu2 tin1 nung4	102219
+含山	ham4 saan1	122040
+吳世勳	ng4 sai3 fan1	102219
+吳村	ng4 cyun1	111132
+吳松街	ng4 cung4 gaai1	217581
+吳瓊	ng4 king4	102219
+吳秀波	ng4 sau3 bo1	114371
+周傳雄	zau1 cyun4 hung4	240467
+周夢蝶	zau1 mung6 dip6	111132
+周志文	zau1 zi3 man1	129012
+周旨	zau1 zi2	132953
+周湯豪	zau1 tong1 hou4	147260
+周琳	zau1 lam4	102219
+周秀蘭	zau1 sau3 laan4	111132
+周耀輝	zau1 jiu6 fai1	119116
+圓通寺	jyun4 tung1 zi2	102219
+地球村	dei6 kau4 cyun1	241535
+天柏路	tin1 paak3 lou6	240467
+天津路	tin1 zeon1 lou6	102219
+天秀路	tin1 sau3 lou6	200691
+孫季卿	syun1 gwai3 hing1	105847
+宏光道	wang4 gwong1 dou6	112626
+宏茂橋	wang4 mau6 kiu4	126347
+寶其利街	bou2 kei4 lei6 gaai1	126347
+寶業路	bou2 jip6 lou6	102219
+小樽市	siu2 zeon1 si5	102219
+巴拉那河	baa1 laai1 naa5 ho2	115803
+布禮斯大區	bou3 lai5 si1 daai6 keoi1	111132
+帶河路	daai3 ho2 lou6	119116
+庫務署	fu3 mou6 cyu5	111132
+廉欽道	lim4 jam1 dou6	122040
+廖成利	liu6 seng4 lei6	102219
+廣利路	gwong2 lei6 lou6	102219
+建湖	gin3 wu4	121788
+張伯斯	zoeng1 baak3 si1	111132
+張偉文	zoeng1 wai5 man1	102219
+張善政	zoeng1 sin6 zing3	126347
+張嘉兒	zoeng1 gaa1 ji4	122040
+張家港	zoeng1 gaa1 gong2	109312
+張庭	zoeng1 ting4	157104
+張耀棟	zoeng1 jiu6 dung6	102219
+張芯	zoeng1 sam1	102219
+張遠	zoeng1 jyun5	117478
+張錦程	zoeng1 gam2 cing4	111132
+張露	zoeng1 lou6	102219
+彭卓棋	paang4 coek3 kei2	139036
+彭懷安	paang4 waai4 on1	111132
+彭麗媛	paang4 lai6 wun4	111132
+徐文浩	ceoi4 man1 hou6	102219
+急庇利街	gap1 bei3 lei6 gaai1	132953
+恆春鎮	hang4 ceon1 zan3	114371
+新營區	san1 jing4 keoi1	105847
+施介強	si1 gaai3 koeng4	111132
+施漢諾	si1 hon3 nok6	111132
+曹震豪	cou4 zan3 hou4	109312
+曾健明	cang4 gin6 ming4	102219
+曾健超	cang4 gin6 ciu1	119116
+曾建怡	cang4 gin3 ji4	102219
+曾祥忠	cang4 coeng4 zung1	111132
+曾美欣	cang4 mei5 jan1	111132
+曾華德	cang4 waa4 dak1	102219
+朗天路	long5 tin1 lou6	111132
+本宮	bun2 gung1	115803
+朱凱婷	zyu1 kaai1 ting4	105847
+朱嘉盈	zyu1 gaa1 jing4	126347
+朱門怨	zyu1 mun4 jyun3	105847
+李叔同	lei5 suk1 tung4	109312
+李商隱	lei5 soeng1 jan2	119116
+李宗瑞	lei5 zung1 seoi6	120464
+李定國	lei5 ding6 gwok3	119116
+李寶珊	lei5 bou2 saan1	126347
+李居明	lei5 geoi1 ming4	117478
+李恆	lei5 hang4	105847
+李文浩	lei5 man1 hou6	122040
+李治	lei5 zi6	126347
+李海鷹	lei5 hoi2 jing1	132953
+李澄	lei5 cing4	111132
+李百全	lei5 baak3 cyun4	126347
+李美慧	lei5 mei5 wai3	111132
+李詠民	lei5 wing6 man4	118854
+杜大偉	dou6 daai6 wai5	102219
+杜浩成	dou6 hou6 seng4	144670
+東勢區	dung1 sai3 keoi1	126108
+林俊其	lam4 zeon3 kei4	119116
+林善	lam4 sin6	111132
+林園區	lam4 jyun4 keoi1	105847
+林寶	lam4 bou2	111132
+林樹森	lam4 syu3 sam1	179451
+林正財	lam4 zeng3 coi4	111132
+林浩文	lam4 hou6 man1	111132
+林素蔚	lam4 sou3 wai3	111132
+林茂發	lam4 mau6 faat3	111132
+林護堂	lam4 wu6 tong4	102219
+桃源街	tou4 jyun4 gaai1	102219
+梁實秋	loeng4 sat6 cau1	105847
+梁晨	loeng4 san4	111132
+榮市	wing4 si5	114371
+橙縣	caang2 jyun6	129012
+櫻島	jing1 dou2	156944
+歐胡島	au1 wu4 dou2	119116
+武進區	mou5 zeon3 keoi1	102219
+氣門	hei3 mun4	154847
+永安街	wing5 on1 gaai1	215454
+江燕路	gong1 jin3 lou6	102219
+江獻珠	gong1 hin3 zyu1	102219
+沈氏	sam2 si6	117478
+沙福道	saa1 fuk1 dou6	215454
+游乃海	jau4 naai5 hoi2	178082
+潘兆平	pun1 siu6 peng4	126347
+潘振承	pun1 zan3 sing4	119116
+潘迪華	pun1 dik6 waa4	152340
+犬山	hyun2 saan1	112626
+王俠	wong4 hap6	109312
+王寧	wong4 ning4	111132
+王建民	wong4 gin3 man4	152340
+王志文	wong4 zi3 man1	102219
+王應睞	wong4 jing1 loi4	139036
+王昆	wong4 kwan1	102219
+王曉理	wong4 hiu1 lei5	121788
+王百羽	wong4 baak3 jyu5	111132
+王貴德	wong4 gwai3 dak1	112626
+珠璣路	zyu1 gei1 lou6	111132
+環頭	waan4 tau4	181518
+盛泰道	sing6 taai3 dou6	179451
+盧氏縣	lou4 si6 jyun6	124613
+石庫門	sek2 fu3 mun4	126347
+石氏	sek2 si6	105847
+福華街	fuk1 waa4 gaai1	181518
+結志街	git3 zi3 gaai1	217581
+聖保羅堂	sing3 bou2 lo4 tong4	178082
+聖馬利亞堂	sing3 maa5 lei6 aa3 tong4	217581
+聚德路	zeoi6 dak1 lou6	102219
+胡亥	wu4 hoi6	139036
+胡卓希	wu4 coek3 hei1	126347
+興發街	hing1 faat3 gaai1	198029
+菊湖	guk1 wu4	126347
+葉國忠	jip6 gwok3 zung1	102219
+葉子楣	jip6 zi2 mei4	119116
+葉興國	jip6 hing1 gwok3	124613
+董健莉	dung2 gin6 lei6	111132
+蓮湖區	lin4 wu4 keoi1	121788
+蔡奇	coi3 kei4	105847
+蔡曉童	coi3 hiu1 tung4	111132
+蔡耀昌	coi3 jiu6 coeng1	126347
+蕭徽勇	siu1 fai1 jung5	117478
+薛影儀	sit3 jing2 ji4	119116
+蘇加	sou1 gaa1	118854
+蘇嘉全	sou1 gaa1 cyun4	109312
+蘇杭街	sou1 hong4 gaai1	182827
+袁紫僑	jyun4 zi2 kiu4	111132
+裕熙園	jyu6 hei1 jyun4	130197
+許軼	heoi2 jat6	111132
+詞頭	ci4 tau4	105847
+詹納	zim1 naap6	129012
+諾福島	nok6 fuk1 dou2	102219
+謝妙儀	ze6 miu6 ji4	132953
+謝影雪	ze6 jing2 syut3	109312
+謝珊珊	ze6 saan1 saan1	102219
+譚志源	taam4 zi3 jyun4	124857
+貝璐道	bui3 lou6 dou6	182117
+逢源路	fung4 jyun4 lou6	111132
+連中三元	lin4 zung1 saam1 jyun4	105847
+遠景路	jyun5 ging2 lou6	102219
+遼河	liu4 ho2	109312
+郭敬明	gwok3 ging3 ming4	114371
+郭頂	gwok3 deng2	147260
+鄭金鈴	zeng6 gam1 ling4	112626
+鄭錦昌	zeng6 gam2 coeng1	102219
+金獅路	gam1 si1 lou6	102219
+金馬倫道	gam1 maa5 leon4 dou6	198029
+鎮海區	zan3 hoi2 keoi1	105847
+閣道	gok3 dou6	112626
+阮品強	jyun2 ban2 koeng4	114371
+阿姆河	aa3 mou5 ho2	122040
+陳淑蘭	can4 suk6 laan4	175441
+隨縣	ceoi4 jyun6	128781
+青敬路	cing1 ging3 lou6	119116
+韓城	hon4 sing4	105847
+香葉道	hoeng1 jip6 dou6	102219
+馬條	maa5 tiu4	119116
+鳳德道	fung6 dak1 dou6	178082
+鹽水區	jim4 seoi2 keoi1	102219
+麥德羅	mak6 dak1 lo4	114371
+麥氏	mak6 si6	117478
+龍沙區	lung4 saa1 keoi1	119116
+龔柯允	gung1 o1 wan5	102219
+三義鄉	saam1 ji6 hoeng1	175715
+互市	wu6 si5	117038
+仁濟路	jan4 zai3 lou6	95675
+伍婉婷	ng5 jyun2 ting4	128634
+伍景英	ng5 ging2 jing1	113912
+伍韻婷	ng5 wan5 ting4	105335
+何世柱	ho4 sai3 cyu5	95675
+何俊軒	ho4 zeon3 hin1	105335
+何南慧	ho4 naam4 wai3	95675
+何大一	ho4 daai6 jat1	108822
+何志偉	ho4 zi3 wai5	131222
+何振梁	ho4 zan3 loeng4	105335
+傀儡政府	faai3 leoi5 zing3 fu2	182639
+傅博	fu6 bok3	103369
+元妙觀	jyun4 miu6 gun1	121626
+克街	haak1 gaai1	198935
+凡城	faan4 sing4	106945
+前鎮區	cin4 zan3 keoi1	95675
+劉兆佳	lau4 siu6 gaai1	113912
+劉半農	lau4 bun3 nung4	113912
+劉思美	lau4 si1 mei5	105335
+劉怡翔	lau4 ji4 coeng4	175715
+劉慕裳	lau4 mou6 soeng4	113912
+劉朔	lau4 sok3	95675
+劉柏辛	lau4 paak3 san1	95675
+劉泉	lau4 cyun4	95675
+劉潔	lau4 git3	95675
+劉玄	lau4 jyun4	112157
+劉玉玲	lau4 juk2 ling4	95675
+劉盈	lau4 jing4	105335
+劉秉賓	lau4 bing2 ban1	95675
+劉純燕	lau4 seon4 jin3	105335
+劉肇	lau4 siu6	105335
+劉莊	lau4 zong1	95675
+劉遵義	lau4 zeon1 ji6	95675
+劉金龍	lau4 gam1 lung4	113912
+功樂道	gung1 ngaau6 dou6	214008
+南崗區	naam4 gong1 keoi1	95675
+司徒美堂	si1 tou4 mei5 tong4	128634
+吳卓衡	ng4 coek3 hang4	95675
+吳天兒	ng4 tin1 ji4	105335
+吳思佳	ng4 si1 gaai1	113912
+吳紫韻	ng4 zi2 wan5	95675
+吳詠寧	ng4 wing6 ning4	113912
+呂嘉	leoi5 gaa1	117038
+周俊賢	zau1 zeon3 jin4	95675
+周宣王	zau1 syun1 wong4	105335
+周有光	zau1 jau5 gwong1	105335
+周聰	zau1 cung1	121626
+唐傑忠	tong4 git6 zung1	105335
+唐河	tong4 ho2	105335
+唐隆	tong4 lung4	124457
+單縣	sin4 jyun6	116768
+嚴藝丹	jim4 ngai6 daan1	95675
+培成路	pui4 seng4 lou6	182639
+墳洲	fan4 zau1	95675
+夏縣	haa6 jyun6	116768
+大內區	daai6 noi6 keoi1	113912
+天耀路	tin1 jiu6 lou6	179255
+太平村	taai3 peng4 cyun1	117038
+姚敏	jiu4 man5	95675
+孫政才	syun1 zing3 coi4	113912
+富里	fu3 lei5	99619
+寶崗堂	bou2 gong1 tong4	95675
+寶靈街	bou2 ling4 gaai1	95675
+崖州灣	ngaai4 zau1 waan1	273732
+巫奇	mou4 kei4	95675
+巫峽	mou4 haap6	112157
+廖淑怡	liu6 suk6 ji4	113912
+廬山市	lou4 saan1 si5	95675
+張俊河	zoeng1 zeon3 ho2	95675
+張小光	zoeng1 siu2 gwong1	95675
+張春暉	zoeng1 ceon1 fai1	113912
+張武孝	zoeng1 mou5 haau3	105335
+張澤相	zoeng1 zaak6 soeng3	95675
+張耀升	zoeng1 jiu6 sing1	105335
+張馳豪	zoeng1 ci4 hou4	95675
+彩榮路	coi2 wing4 lou6	105335
+徐婷	ceoi4 ting4	105335
+徐宏傑	ceoi4 wang4 git6	238669
+徐日勤	ceoi4 jat6 kan4	95675
+徐浩	ceoi4 hou6	95675
+徐遠華	ceoi4 jyun5 waa4	175715
+德城	dak1 sing4	103369
+忠縣	zung1 jyun6	177126
+恭城	gung1 sing4	99619
+成和道	seng4 wu4 dou6	105335
+房縣	fong4 jyun6	116768
+扭橋	nau2 kiu4	95675
+摩羅街	mo1 lo4 gaai1	179255
+新華區	san1 waa4 keoi1	95675
+新都區	san1 dou1 keoi1	103369
+映日路	jing2 jat6 lou6	95675
+景雲路	ging2 wan4 lou6	99619
+曹綺文	cou4 ji2 man1	175715
+曹縣	cou4 jyun6	113631
+曾淑勤	cang4 suk6 kan4	95675
+朱厚照	zyu1 hau5 ziu3	95675
+朱然	zyu1 jin4	112157
+李修平	lei5 sau1 peng4	105335
+李嘉文	lei5 gaa1 man1	95675
+李宗德	lei5 zung1 dak1	121626
+李寶君	lei5 bou2 gwan1	113912
+李思敏	lei5 si1 man5	113912
+李思欣	lei5 si1 jan1	95675
+李慧芝	lei5 wai3 zi1	95675
+李揚敬	lei5 joeng2 ging3	113912
+李旭	lei5 juk1	95675
+李焯芬	lei5 coek3 fan1	121626
+李燕燕	lei5 jin3 jin3	105335
+李牧	lei5 muk6	127188
+李秉常	lei5 bing2 soeng4	95675
+李義	lei5 ji6	105335
+李誦	lei5 zung6	105335
+李雨陽	lei5 jyu5 joeng4	95675
+李麗麗	lei5 lai6 lai6	95675
+杜林	dou6 lam4	106945
+東港鎮	dung1 gong2 zan3	180603
+松仔園	cung4 zai2 jyun4	95675
+板橋區	baan2 kiu4 keoi1	95675
+林偉文	lam4 wai5 man1	95675
+林健華	lam4 gin6 waa4	105335
+林克明	lam4 haak1 ming4	175715
+林慧	lam4 wai3	113912
+林日曦	lam4 jat6 hei1	105335
+林月琴	lam4 jyut6 kam4	99619
+林泳怡	lam4 wing6 ji4	105335
+林鳳嬌	lam4 fung6 giu1	95675
+林黛	lam4 doi6	99619
+梁仲恆	loeng4 zung6 hang4	105335
+梁冠聰	loeng4 gun1 cung1	194133
+梁凡	loeng4 faan4	103369
+梁嘉進	loeng4 gaa1 zeon3	95675
+梁敏巧	loeng4 man5 haau2	121626
+梁田	loeng4 tin4	105335
+梁皓恩	loeng4 hou6 jan1	113912
+梁雨恩	loeng4 jyu5 jan1	95675
+梅華路	mui4 waa4 lou6	95675
+梨本宮	lei2 bun2 gung1	105335
+楊民翠	joeng4 man4 ceoi3	95675
+楊益言	joeng4 jik1 jin4	175715
+樂禮街	ngaau6 lai5 gaai1	99619
+橋頭區	kiu4 tau4 keoi1	105335
+歐思邦	au1 si1 bong1	105335
+民光街	man4 gwong1 gaai1	121626
+民吉街	man4 gat1 gaai1	182639
+汪笨湖	wong1 ban6 wu4	95675
+沈月	sam2 jyut6	176655
+波河	bo1 ho2	112157
+浩園	hou6 jyun4	108822
+海曙區	hoi2 cyu5 keoi1	99619
+海澤街	hoi2 zaak6 gaai1	95675
+添華道	tim1 waa4 dou6	214008
+港人治港	gong2 jan4 zi6 gong2	149007
+漁光道	jyu4 gwong1 dou6	99619
+潘協慶	pun1 hip3 hing3	105335
+潘宗光	pun1 zung1 gwong1	105335
+潘樂陶	pun1 ngaau6 tou4	158643
+澳景路	ou3 ging2 lou6	240989
+火山湖	fo2 saan1 wu4	99619
+烏山	wu1 saan1	110361
+獵德大橋	lip6 dak1 daai6 kiu4	105335
+獵德大道	lip6 dak1 daai6 dou6	95675
+王俊棠	wong4 zeon3 tong4	95675
+王維	wong4 wai4	95675
+王賜豪	wong4 ci3 hou4	99619
+甌海區	ngau1 hoi2 keoi1	105335
+白加道	baak6 gaa1 dou6	113912
+皇龍道	wong4 lung4 dou6	175715
+祝枝山	zuk1 zi1 saan1	95675
+程仁富	cing4 jan4 fu3	105335
+程普	cing4 pou2	118421
+稔灣	nam6 waan1	105335
+紅蓮路	hung4 lin4 lou6	95675
+美濃區	mei5 nung4 keoi1	99619
+胡勝正	wu4 sing1 zeng3	108822
+胡春月	wu4 ceon1 jyut6	113912
+胡鴻烈	wu4 hung4 lit6	105335
+與門	jyu5 mun4	95675
+興工街	hing1 gung1 gaai1	95675
+荒尾	fong1 mei1	119781
+華洲路	waa4 zau1 lou6	95675
+華蘭路	waa4 laan4 lou6	95675
+萌島	mang4 dou2	95675
+葉子戲	jip6 zi2 hei3	113912
+葉麗娜	jip6 lai6 naa4	196931
+葛城	got3 sing4	112157
+董作賓	dung2 zok3 ban1	105335
+董氏	dung2 si6	116768
+蔡沐霖	coi3 muk6 lam3	121626
+蔡玉玲	coi3 juk2 ling4	140978
+蔡穎恩	coi3 wing6 jan1	99619
+蕭一山	siu1 jat1 saan1	105335
+蕭永方	siu1 wing5 fong1	95675
+蕭秀香	siu1 sau3 hoeng1	105335
+蕭衍	siu1 hin2	103369
+蘇亞利斯	sou1 aa3 lei6 si1	95675
+蘇偉泉	sou1 wai5 cyun4	105335
+蘇迪曼	sou1 dik6 maan6	117038
+蘇鏘	sou1 coeng1	105335
+袁寶華	jyun4 bou2 waa4	112157
+裕仁街	jyu6 jan4 gaai1	95675
+許嘉恬	heoi2 gaa1 tim4	128634
+許大勇	heoi2 daai6 jung5	95675
+許鈞	heoi2 gwan1	95675
+許鎮德	heoi2 zan3 dak1	121626
+詹詠然	zim1 wing6 jin4	99619
+謝寧	ze6 ning4	105335
+謝淑映	ze6 suk6 jing2	95675
+謝立文	ze6 laap6 man1	218284
+譚佑銘	taam4 jau6 ming5	105335
+譚兆偉	taam4 siu6 wai5	108822
+譚凱邦	taam4 kaai1 bong1	182639
+譚國政	taam4 gwok3 zing3	95675
+譚坤倫	taam4 kwan1 leon4	113912
+譚拔士	taam4 bat6 si6	108822
+譚淇淇	taam4 kei4 kei4	105335
+豐島區	fung1 dou2 keoi1	99619
+貢山	gung3 saan1	110361
+通城	tung1 sing4	183817
+連合道	lin4 hap6 dou6	179255
+遊船河	jau4 syun4 ho2	200310
+郭軍城	gwok3 gwan1 sing4	95675
+鄧伊婷	dang6 ji1 ting4	128634
+鄧志學	dang6 zi3 hok6	113912
+鄧景輝	dang6 ging2 fai1	95675
+鄭宇	zeng6 jyu5	113912
+鄭承隆	zeng6 sing4 lung4	113912
+鄭龍	zeng6 lung4	112157
+鄺肖卿	kwong3 ciu3 hing1	113912
+金澤城	gam1 zaak6 sing4	95675
+金馬倫山	gam1 maa5 leon4 saan1	121626
+阮嘉敏	jyun2 gaa1 man5	113912
+陶希聖	tou4 hei1 sing3	117038
+陸鼎堂	luk6 ding2 tong4	95675
+雲泉路	wan4 cyun4 lou6	95675
+靈隱寺	ling4 jan2 zi2	95675
+青河	cing1 ho2	95675
+靜觀	zing6 gun1	219902
+順寧道	seon6 ning4 dou6	95675
+順河	seon6 ho2	110361
+須彌山	seoi1 mei4 saan1	108822
+頭洲	tau4 zau1	105335
+馮桂芬	fung4 gwai3 fan1	135054
+駱文捷	lok6 man1 zit6	95675
+高世章	gou1 sai3 zoeng1	105335
+高可慧	gou1 ho2 wai3	99619
+高恆	gou1 hang4	106945
+高文浩	gou1 man1 hou6	121626
+高殷	gou1 jan1	113912
+高美尼	gou1 mei5 nei4	95675
+鬥獸場	dau3 sau3 coeng4	105335
+鯉景道	lei5 ging2 dou6	105335
+麥國風	mak6 gwok3 fung1	95675
+麥德正	mak6 dak1 zeng3	113912
+龍口路	lung4 hau2 lou6	95675
+龍港	lung4 gong2	99619
+三東大道	saam1 dung1 daai6 dou6	88520
+中灣	zung1 waan1	99063
+丹拿山	daan1 naa4 saan1	99063
+五河	ng5 ho2	100808
+伊塞克湖	ji1 sak1 haak1 wu4	116323
+余思敏	jyu4 si1 man5	99063
+保榮路	bou2 wing4 lou6	173272
+內門區	noi6 mun4 keoi1	88520
+八橋	baat3 kiu4	108329
+公孫恭	gung1 syun1 gung1	108329
+刁曼島	diu1 maan6 dou2	116595
+判頭	pun3 tau4	99425
+前金區	cin4 gam1 keoi1	88520
+劉佩瓊	lau4 pui3 king4	116595
+劉劍倫	lau4 gim3 leon4	124056
+劉吳惠蘭	lau4 ng4 wai6 laan4	99063
+劉少君	lau4 siu2 gwan1	88520
+劉思惠	lau4 si1 wai6	116595
+劉焯霖	lau4 coek3 lam3	99063
+劉盛蘭	lau4 sing6 laan4	99063
+劉秀成	lau4 sau3 seng4	88520
+劉素芳	lau4 sou3 fong1	99063
+劉胡軼	lau4 wu4 jat6	88520
+劉錦玲	lau4 gam2 ling4	88520
+劍河	gim3 ho2	99063
+南洲路	naam4 zau1 lou6	88520
+南灣道	naam4 waan1 dou6	212535
+南風道	naam4 fung1 dou6	173272
+古天奴	gu2 tin1 nou4	209149
+右京區	jau6 ging1 keoi1	96927
+君傲灣	gwan1 ngou6 waan1	88520
+吳一嘯	ng4 jat1 siu3	88520
+吳傑莊	ng4 git6 zong1	99063
+吳兆南	ng4 siu6 naam4	174728
+吳國麟	ng4 gwok3 leon4	88520
+吳宗權	ng4 zung1 kyun4	173272
+吳市	ng4 si5	106439
+吳清輝	ng4 cing1 fai1	108329
+吳興區	ng4 hing1 keoi1	104502
+吳辰君	ng4 san4 gwan1	88520
+呂潔	leoi5 git3	88520
+周潔冰	zau1 git3 bing1	116595
+周炳輝	zau1 bing2 fai1	99063
+周程宇	zau1 cing4 jyu5	99063
+唐明苑	tong4 ming4 jyun2	99063
+唐曉詩	tong4 hiu1 si1	88520
+唐賢街	tong4 jin4 gaai1	216892
+嚴凱泰	jim4 kaai1 taai3	99063
+圓崗洲	jyun4 gong1 zau1	88520
+塔村區	taap3 cyun1 keoi1	88520
+大樹灣	daai6 syu3 waan1	108329
+天影路	tin1 jing2 lou6	176924
+天科路	tin1 fo1 lou6	88520
+天蠍宮	tin1 kit3 gung1	111396
+太和街	taai3 wu4 gaai1	88520
+始興縣	ci2 hing1 jyun6	96927
+姚宏遠	jiu4 wang4 jyun5	99063
+姚文智	jiu4 man1 zi3	130854
+姚萍	jiu4 ping4	176924
+媽灣	maa1 waan1	88520
+宋站鎮	sung3 zaam6 zan3	108329
+宏威路	wang4 wai1 lou6	88520
+富國島	fu3 gwok3 dou2	92839
+屋久島	uk1 gau2 dou2	146479
+岑仲勉	sam4 zung6 min5	108329
+岡山市	gong1 saan1 si5	96927
+川龍街	cyun1 lung4 gaai1	99063
+巨港	geoi6 gong2	176924
+巴芬島	baa1 fan1 dou2	96927
+布吉鎮	bou3 gat1 zan3	88520
+平陽縣	peng4 joeng4 jyun6	111685
+廖慧儀	liu6 wai3 ji4	99063
+張佑赫	zoeng1 jau6 haak1	99063
+張俊浩	zoeng1 zeon3 hou6	88520
+張勉	zoeng1 min5	99063
+張千一	zoeng1 cin1 jat1	116595
+張嘉殷	zoeng1 gaa1 jan1	108329
+張少華	zoeng1 siu2 waa4	88520
+張翔	zoeng1 coeng4	174242
+張耀麟	zoeng1 jiu6 leon4	92839
+張莉	zoeng1 lei6	88520
+張薔	zoeng1 coeng4	88520
+彭心	paang4 sam1	116595
+彭敬慈	paang4 ging3 ci4	88520
+彭美嫦	paang4 mei5 soeng4	88520
+徐世珍	ceoi4 sai3 zan1	102840
+徐乃麟	ceoi4 naai5 leon4	88520
+徐廣林	ceoi4 gwong2 lam4	88520
+徐林	ceoi4 lam4	88520
+徐華鳳	ceoi4 waa4 fung6	88520
+御龍山	jyu6 lung4 saan1	99063
+德雲道	dak1 wan4 dou6	99063
+惠城	wai6 sing4	88520
+慕容垂	mou6 jung4 seoi4	92839
+慧安園	wai3 on1 jyun4	88520
+懷特島	waai4 dak6 dou2	99063
+或門	waak6 mun4	88520
+戚黛黛	cik1 doi6 doi6	99063
+拳道	kyun4 dou6	99063
+收數公司	sau1 sou3 gung1 si1	214277
+政民路	zing3 man4 lou6	88520
+方以智	fong1 ji5 zi3	102840
+方媛	fong1 wun4	99063
+方敏婷	fong1 man5 ting4	99063
+方文雄	fong1 man1 hung4	88520
+方震揚	fong1 zan3 joeng2	108329
+景福宮	ging2 fuk1 gung1	106439
+曾敏之	cang4 man5 zi1	99063
+曾穎欣	cang4 wing6 jan1	88520
+朝陽市	ciu4 joeng4 si5	92839
+李依琳	lei5 ji1 lam4	88520
+李偉健	lei5 wai5 gin6	88520
+李儒	lei5 jyu4	99063
+李冰	lei5 bing1	88520
+李凱賢	lei5 kaai1 jin4	88520
+李國修	lei5 gwok3 sau1	92839
+李國棟	lei5 gwok3 dung6	108329
+李安道	lei5 on1 dou6	116595
+李宗吾	lei5 zung1 ng4	108329
+李影	lei5 jing2	99063
+李德旺	lei5 dak1 wong6	108329
+李心敏	lei5 sam1 man5	88520
+李恕權	lei5 syu3 kyun4	99063
+李恪	lei5 kok3	99063
+李文龍	lei5 man1 lung4	92839
+李明憲	lei5 ming4 hin3	99063
+李會昌	lei5 wui5 coeng1	88520
+李李仁	lei5 lei5 jan4	88520
+李業廣	lei5 jip6 gwong2	99063
+李正帆	lei5 zeng3 faan4	88520
+李永健	lei5 wing5 gin6	88520
+李洪基	lei5 hung4 gei1	92839
+李淑儀	lei5 suk6 ji4	88520
+李爾晨	lei5 ji5 san4	88520
+李聰	lei5 cung1	88520
+李解	lei5 gaai2	102840
+李軍澤	lei5 gwan1 zaak6	117987
+李鳳英	lei5 fung6 jing1	99063
+杜奧巴	dou6 ou3 baa1	174242
+杜定友	dou6 ding6 jau5	99063
+東山島	dung1 saan1 dou2	104502
+東平大道	dung1 peng4 daai6 dou6	88520
+東引鄉	dung1 jan5 hoeng1	88520
+東頭洲	dung1 tau4 zau1	130854
+林偉民	lam4 wai5 man4	106439
+林原惠	lam4 jyun4 wai6	99063
+林奕含	lam4 jik6 ham4	88520
+林忌	lam4 gei6	116595
+林新強	lam4 san1 koeng4	99063
+林方達	lam4 fong1 daat6	88520
+林映暉	lam4 jing2 fai1	88520
+林漢明	lam4 hon3 ming4	88520
+林聞恩	lam4 man4 jan1	99063
+林頓	lam4 deon6	109878
+桂竹路	gwai3 zuk1 lou6	88520
+梁振邦	loeng4 zan3 bong1	99063
+梁晃維	loeng4 fong2 wai4	99063
+梁熙	loeng4 hei1	99063
+梁珍	loeng4 zan1	170456
+棠安路	tong4 on1 lou6	99063
+楊偉基	joeng4 wai5 gei1	212535
+楊哲安	joeng4 zit3 on1	102840
+楊嘉欣	joeng4 gaa1 jan1	88520
+楊埕	joeng4 cing4	116595
+楊孝華	joeng4 haau3 waa4	88520
+楊應彬	joeng4 jing1 ban1	88520
+楊格	joeng4 gaak3	223008
+楊梅區	joeng4 mui4 keoi1	181739
+楊楊	joeng4 joeng4	92839
+楊永信	joeng4 wing5 seon3	108329
+楊洋	joeng4 joeng4	92839
+楊澤怡	joeng4 zaak6 ji4	108329
+楊雁雁	joeng4 ngaan6 ngaan6	173272
+楊鴻俊	joeng4 hung4 zeon3	88520
+橫沙島	waang4 saa1 dou2	88520
+歐家裕	au1 gaa1 jyu6	99063
+民耀街	man4 jiu6 gaai1	173272
+江建民	gong1 gin3 man4	88520
+江毅	gong1 ngai6	88520
+江氏	gong1 si6	102840
+沈騰	sam2 tang4	88520
+沙灣鎮	saa1 waan1 zan3	99063
+派潭鎮	paai3 taam4 zan3	99063
+添馬街	tim1 maa5 gaai1	212535
+清華街	cing1 waa4 gaai1	173272
+渡華路	dou6 waa4 lou6	214745
+漁東路	jyu4 dung1 lou6	88520
+潘任惠珍	pun1 jam6 wai6 zan1	99063
+潘文迪	pun1 man1 dik6	88520
+潘靜文	pun1 zing6 man1	108329
+濱江區	ban1 gong1 keoi1	88520
+灣景園	waan1 ging2 jyun4	173272
+烏洲	wu1 zau1	99063
+犁壁山	lai4 bik1 saan1	88520
+王一博	wong4 jat1 bok3	116595
+王太利	wong4 taai3 lei6	92839
+王守仁	wong4 sau2 jan4	116595
+王定宇	wong4 ding6 jyu5	99063
+王璐瑤	wong4 lou6 jiu4	99063
+王粵生	wong4 jyut6 saang1	173272
+王維娜	wong4 wai4 naa4	88520
+王金維	wong4 gam1 wai4	88520
+發祥街	faat3 coeng4 gaai1	99063
+白田街	baak6 tin4 gaai1	99063
+盧寵茂	lou4 cung2 mau6	99063
+盧琳	lou4 lam4	178314
+目黑區	muk6 hak1 keoi1	108026
+石嘴山	sek2 zeoi2 saan1	92839
+石岡區	sek2 gong1 keoi1	111396
+石平	sek2 peng4	99063
+祁縣	kei4 jyun6	100808
+福景路	fuk1 ging2 lou6	88520
+福臨門	fuk1 lam4 mun4	88520
+科翔路	fo1 coeng4 lou6	88520
+紫式部	zi2 sik1 bou6	99063
+翼城	jik6 sing4	180293
+聖海倫娜島	sing3 hoi2 leon4 naa4 dou2	108329
+聚龍村	zeoi6 lung4 cyun1	130854
+胡學霖	wu4 hok6 lam3	88520
+胡定旭	wu4 ding6 juk1	108329
+胡文森	wu4 man1 sam1	173272
+胡紅玉	wu4 hung4 juk2	99063
+芝麻街	zi1 maa4 gaai1	92839
+茂蘿街	mau6 lo4 gaai1	173272
+華城	waa4 sing4	88520
+萬里	maan6 lei5	108026
+葉健強	jip6 gin6 koeng4	99063
+葉欣	jip6 jan1	99063
+葉聖陶	jip6 sing3 tou4	99063
+葉良俊	jip6 loeng4 zeon3	88520
+葉靖儀	jip6 zing6 ji4	88520
+董敬文	dung2 ging3 man1	88520
+董耀中	dung2 jiu6 zung1	88520
+蔡冠深	coi3 gun1 sam1	88520
+蔡嘉欣	coi3 gaa1 jan1	108329
+蔡意橋	coi3 ji3 kiu4	88520
+蔡敏君	coi3 man5 gwan1	124056
+蔡智明	coi3 zi3 ming4	108329
+蕭元	siu1 jyun4	108329
+蕭志美	siu1 zi3 mei5	108329
+薛氏	sit3 si6	96927
+蘇嘉豪	sou1 gaa1 hou4	108329
+蘇詩丁	sou1 si1 ding1	108329
+蘇黎世湖	sou1 lai4 sai3 wu4	111396
+蘭芳道	laan4 fong1 dou6	173272
+螺洲	lo2 zau1	99063
+血汗工廠	hyut3 hon6 gung1 cong2	181739
+袁弘	jyun4 wang4	88520
+袁思行	jyun4 si1 hong2	116595
+袁鎮業	jyun4 zan3 jip6	88520
+西班牙港	sai1 baan1 ngaa4 gong2	99063
+西麗路	sai1 lai6 lou6	88520
+許志傑	heoi2 zi3 git6	88520
+許賢發	heoi2 jin4 faat3	88520
+諸城	zyu1 sing4	104502
+譚偉豪	taam4 wai5 hou4	88520
+譚鐵牛	taam4 tit3 ngau4	180411
+迎江區	jing4 gong1 keoi1	99063
+連勝文	lin4 sing1 man1	99063
+連城道	lin4 sing4 dou6	194348
+連震東	lin4 zan3 dung1	119615
+那瑪夏區	naa5 maa5 haa6 keoi1	96927
+郭少明	gwok3 siu2 ming4	88520
+郭書瑤	gwok3 syu1 jiu4	92839
+郭泰	gwok3 taai3	88520
+郭芯其	gwok3 sam1 kei4	88520
+鄧永鏘	dang6 wing5 coeng1	88520
+鄧爾邦	dang6 ji5 bong1	124056
+鄧美欣	dang6 mei5 jan1	99063
+金馬大橋	gam1 maa5 daai6 kiu4	173272
+銀線灣	ngan4 sin3 waan1	238373
+阮德鏘	jyun2 dak1 coeng1	88520
+阮文雄	jyun2 man1 hung4	104502
+陳俊良	can4 zeon3 loeng4	108329
+陳穎妍	can4 wing6 jin4	99063
+青麟路	cing1 leon4 lou6	139952
+非門	fei1 mun4	88520
+韋廉信	wai5 lim4 seon3	108329
+韋費路	wai5 fai3 lou6	139952
+韓君婷	hon4 gwan1 ting4	88520
+韓耀庭	hon4 jiu6 ting4	124056
+飯鏟頭	faan6 caan2 tau4	176924
+馮國綸	fung4 gwok3 leon4	99063
+馮子亮	fung4 zi2 loeng6	88520
+馮家俊	fung4 gaa1 zeon3	102840
+馮文娟	fung4 man1 gyun1	88520
+馮皓揚	fung4 hou6 joeng2	88520
+駱賓王	lok6 ban1 wong4	88520
+高基	gou1 gei1	88520
+高陽市	gou1 joeng4 si5	92839
+高雷陽道	gou1 leoi4 joeng4 dou6	100808
+魏德聖	ngai6 dak1 sing3	99063
+魯山	lou5 saan1	92839
+鴉打街	aa1 daa1 gaai1	88520
+鶴見區	hok6 gin3 keoi1	88520
+鹿湖	luk2 wu4	99063
+麗水市	lai6 seoi2 si5	174728
+麥家廉	mak6 gaa1 lim4	108329
+黃傑	wong4 git6	88520
+龍崎區	lung4 kei1 keoi1	99063
+龍崗道	lung4 gong1 dou6	173272
+龍河路	lung4 ho2 lou6	88520
+龔照勝	gung1 ziu3 sing1	99063
+三灣鄉	saam1 waan1 hoeng1	80628
+下龍灣	haa5 lung4 waan1	80628
+中和區	zung1 wu4 keoi1	89893
+九河	gau2 ho2	80628
+二月河	ji6 jyut6 ho2	80628
+二澳	ji6 ou3	80628
+亞畢諾道	aa3 bat1 nok6 dou6	80628
+伊榮街	ji1 wing4 gaai1	80628
+伍凱欣	ng5 kaai1 jan1	102307
+何婷恩	ho4 ting4 jan1	92231
+何定國	ho4 ding6 gwok3	92231
+何志欽	ho4 zi3 jam1	92231
+何沛霖	ho4 pui3 lam3	80628
+何紫綸	ho4 zi2 leon4	102307
+佳廉道	gaai1 lim4 dou6	170749
+傅全香	fu6 cyun4 hoeng1	80628
+傷城	soeng1 sing4	80628
+先賢祠	sin1 jin4 ci4	92231
+光昌街	gwong1 coeng1 gaai1	170749
+六龜區	luk6 gwai1 keoi1	92231
+冼村路	sin2 cyun1 lou6	80628
+凡湖	faan4 wu4	98159
+劉勇威	lau4 jung5 wai1	80628
+劉卓	lau4 coek3	92231
+劉友福	lau4 jau5 fuk1	80628
+劉嘉鴻	lau4 gaa1 hung4	80628
+劉家聰	lau4 gaa1 cung1	80628
+劉徽	lau4 fai1	85400
+劉據	lau4 geoi3	80628
+劉樂妍	lau4 ngaau6 jin4	80628
+劉欣宜	lau4 jan1 ji4	92231
+劉炳	lau4 bing2	136018
+劉綺婷	lau4 ji2 ting4	80628
+劉錦澤	lau4 gam2 zaak6	80628
+加新社	gaa1 san1 se5	80628
+匯星路	wui6 sing1 lou6	80628
+匯民道	wui6 man4 dou6	174520
+南屯區	naam4 tyun4 keoi1	94137
+南怡島	naam4 ji4 dou2	171751
+印洲	jan3 zau1	213286
+厚街	hau5 gaai1	92231
+古佩玲	gu2 pui3 ling4	136018
+古卓文	gu2 coek3 man1	80628
+可可西里	ho2 ho2 sai1 lei5	89893
+史篤城	si2 duk1 sing4	136018
+吳南生	ng4 naam4 saang1	80628
+吳哥尼	ng4 go1 nei4	92231
+吳嘉麗	ng4 gaa1 lai6	92231
+吳安儀	ng4 on1 ji4	92231
+吳尚時	ng4 soeng6 si4	111210
+吳洛汶	ng4 lok6 man4	80628
+吳爾初	ng4 ji5 co1	80628
+吳紹明	ng4 siu6 ming4	92231
+吳詠梅	ng4 wing6 mui4	80628
+吳靜怡	ng4 zing6 ji4	80628
+呂麗紅	leoi5 lai6 hung4	111210
+周小松	zau1 siu2 cung4	92231
+周庭希	zau1 ting4 hei1	92231
+周文耀	zau1 man1 jiu6	80628
+唐澤壽明	tong4 zaak6 sau6 ming4	85400
+唐英傑案	tong4 jing1 git6 on3	111210
+唐貝欣	tong4 bui3 jan1	80628
+嚴俊	jim4 zeon3	80628
+城皇街	sing4 wong4 gaai1	92231
+基里	gei1 lei5	105619
+士丹利街	si6 daan1 lei6 gaai1	170749
+大星山	daai6 sing1 saan1	80628
+大赤門	daai6 cek3 mun4	92231
+天路	tin1 lou6	80628
+太和園	taai3 wu4 jyun4	80628
+奧卑利街	ou3 bei1 lei6 gaai1	174520
+姚柏良	jiu4 paak3 loeng4	136018
+姚潔貞	jiu4 git3 zing1	102307
+姚華樂路	jiu4 waa4 ngaau6 lou6	80628
+姜在忠	goeng1 zoi6 zung1	92231
+婦道	fu5 dou6	85400
+孫佳君	syun1 gaai1 gwan1	136018
+孫樞	syun1 syu1	92231
+孫璞	syun1 pok3	92231
+學甲區	hok6 gaap3 keoi1	80628
+守山	sau2 saan1	111210
+安睦街	on1 muk6 gaai1	102307
+宋家村	sung3 gaa1 cyun1	80628
+室蘭市	sat1 laan4 si5	80628
+寶勒巷	bou2 lak6 hong2	111210
+寶雲山	bou2 wan4 saan1	102307
+寶雲縣	bou2 wan4 jyun6	80628
+對馬島	deoi3 maa5 dou2	109391
+小平市	siu2 peng4 si5	94137
+小星山	siu2 sing1 saan1	80628
+屬領島	suk6 leng5 dou2	111210
+岑潔儀	sam4 git3 ji4	92231
+崇禮門	sung4 lai5 mun4	111210
+崗貝路	gong1 bui3 lou6	92231
+左京區	zo2 ging1 keoi1	98159
+左鎮區	zo2 zan3 keoi1	80628
+布力徑	bou3 lik6 ging3	119187
+布威島	bou3 wai1 dou2	80628
+平塘	peng4 tong4	92231
+庫拉河	fu3 laai1 ho2	98159
+康安街	hong1 on1 gaai1	80628
+廖中萊	liu6 zung1 loi4	100261
+廖嘉輝	liu6 gaa1 fai1	102307
+廖雋嘉	liu6 zeon3 gaa1	80628
+廣陵區	gwong2 ling4 keoi1	98159
+延慶區	jin4 hing3 keoi1	85400
+建華區	gin3 waa4 keoi1	80628
+張仁良	zoeng1 jan4 loeng4	136018
+張君培	zoeng1 gwan1 pui4	80628
+張喬	zoeng1 kiu4	92231
+張嘉年	zoeng1 gaa1 nin4	85400
+張國洪	zoeng1 gwok3 hung4	80628
+張宏光	zoeng1 wang4 gwong1	102307
+張宗燧	zoeng1 zung1 seoi6	80628
+張慧珍	zoeng1 wai3 zan1	80628
+張文順	zoeng1 man1 seon6	80628
+張智揚	zoeng1 zi3 joeng2	80628
+張本立	zoeng1 bun2 laap6	80628
+張根碩	zoeng1 gan1 sek6	94137
+張潤衡	zoeng1 jeon6 hang4	111210
+張美瑤	zoeng1 mei5 jiu4	92231
+張錫鵬	zoeng1 sek3 paang4	92231
+彭少逸	paang4 siu2 jat6	92231
+彭志宏	paang4 zi3 wang4	80628
+彭杏英	paang4 hang6 jing1	80628
+彭紀諺	paang4 gei2 jin6	92231
+彭維納	paang4 wai4 naap6	170749
+彭蔭剛	paang4 jam3 gong1	237304
+待月橋	doi6 jyut6 kiu4	102307
+律倫街	leot6 leon4 gaai1	80628
+徐帆	ceoi4 faan4	92231
+徐德帥	ceoi4 dak1 seoi3	92231
+徐新	ceoi4 san1	85400
+徐鴻志	ceoi4 hung4 zi3	80628
+怡心園	ji4 sam1 jyun4	92231
+摩亨佐達羅城	mo1 hang1 zo2 daat6 lo4 sing4	80628
+新龍鎮	san1 lung4 zan3	80628
+方靜	fong1 zing6	80628
+方龍飛	fong1 lung4 fei1	89893
+施榮懷	si1 wing4 waai4	80628
+施氏	si1 si6	89893
+施羅德	si1 lo4 dak1	80628
+旭區	juk1 keoi1	80628
+昌崗路	coeng1 gong1 lou6	92231
+曹仁虎	cou4 jan4 fu2	172253
+曾偉明	cang4 wai5 ming4	80628
+曾恩波	cang4 jan1 bo1	213286
+曾秀好	cang4 sau3 hou2	94137
+曾鞏	cang4 gung2	172253
+朔城區	sok3 sing4 keoi1	98159
+朱植雄	zyu1 zik6 hung4	119187
+李亨澤	lei5 hang1 zaak6	85400
+李嘉圖	lei5 gaa1 tou4	170749
+李國權	lei5 gwok3 kyun4	111210
+李孝利	lei5 haau3 lei6	96351
+李安修	lei5 on1 sau1	80628
+李宰鎮	lei5 zoi2 zan3	193195
+李師師	lei5 si1 si1	80628
+李慧珍	lei5 wai3 zan1	80628
+李月兒	lei5 jyut6 ji4	102307
+李民橋	lei5 man4 kiu4	80628
+李永財	lei5 wing5 coi4	141871
+李潤庭	lei5 jeon6 ting4	80628
+李瑞雨	lei5 seoi6 jyu5	92231
+李秀滿	lei5 sau3 mun5	111210
+李興華	lei5 hing1 waa4	80628
+李艾佳	lei5 ngaai6 gaai1	80628
+李豐	lei5 fung1	89893
+李金玲	lei5 gam1 ling4	80628
+李錦梅	lei5 gam2 mui4	80628
+李駿碩	lei5 zeon3 sek6	102307
+李鴻忠	lei5 hung4 zung1	80628
+李麗霞	lei5 lai6 haa4	85400
+杜審言	dou6 sam2 jin4	102307
+杞縣	gei2 jyun6	94137
+東岸路	dung1 ngon6 lou6	92231
+東澳	dung1 ou3	80628
+東麗區	dung1 lai6 keoi1	85400
+林佳蓉	lam4 gaai1 jung4	102307
+林嘉緯	lam4 gaa1 wai5	80628
+林慧玲	lam4 wai3 ling4	92231
+林智樂	lam4 zi3 ngaau6	80628
+林柏特	lam4 paak3 dak6	136018
+林欣	lam4 jan1	92231
+林煥光	lam4 wun6 gwong1	80628
+林熙隆	lam4 hei1 lung4	100261
+林燕玲	lam4 jin3 ling4	141871
+林襄	lam4 soeng1	80628
+林觀良	lam4 gun1 loeng4	102307
+梁國豪	loeng4 gwok3 hou4	92231
+梁婉微	loeng4 jyun2 mei4	92231
+梁宏正	loeng4 wang4 zeng3	80628
+梁思豪	loeng4 si1 hou4	80628
+梁日昌	loeng4 jat6 coeng1	80628
+梁永雄	loeng4 wing5 hung4	92231
+梁河	loeng4 ho2	101979
+梁繼璋	loeng4 gai3 zoeng1	80628
+梁蔭棠	loeng4 jam3 tong4	102307
+梁贊	loeng4 zaan3	80628
+梁音	loeng4 jam1	80628
+梧棲區	ng4 cai1 keoi1	89893
+梯雲東路	tai1 wan4 dung1 lou6	80628
+棠蔭街	tong4 jam3 gaai1	80628
+楊崢	joeng4 zang1	92231
+楊斯雅	joeng4 si1 ngaa5	171751
+楊碩	joeng4 sek6	80628
+楊超發	joeng4 ciu1 faat3	92231
+楊鳴章	joeng4 ming4 zoeng1	85400
+楓樹窩路	fung1 syu3 wo1 lou6	80628
+榕光社	jung4 gwong1 se5	114445
+榕林路	jung4 lam4 lou6	80628
+榮光街	wing4 gwong1 gaai1	92231
+民祥街	man4 coeng4 gaai1	174520
+永勝路	wing5 sing1 lou6	80628
+永豐街	wing5 fung1 gaai1	174520
+江口洋介	gong1 hau2 joeng4 gaai3	96351
+江月路	gong1 jyut6 lou6	80628
+沈可欣	sam2 ho2 jan1	80628
+沈夏	sam2 haa6	80628
+沈威	sam2 wai1	80628
+沙灣徑	saa1 waan1 ging3	211033
+波城	bo1 sing4	89893
+洪元碩	hung4 jyun4 sek6	80628
+洪明基	hung4 ming4 gei1	190255
+洪為民	hung4 wai6 man4	96351
+海桃灣	hoi2 tou4 waan1	178115
+涇縣	ging3 jyun6	114445
+湖景路	wu4 ging2 lou6	170749
+漱珠橋	sau3 zyu1 kiu4	102307
+潘敏濤	pun1 man5 tou4	80628
+瀧川市	lung4 cyun1 si5	98159
+牙山	ngaa4 saan1	94137
+牛池灣村	ngau4 ci4 waan1 cyun1	92231
+狹山	haap3 saan1	85400
+獅潭鄉	si1 taam4 hoeng1	80628
+獵頭	lip6 tau4	105931
+王一梅	wong4 jat1 mui4	89893
+王嘉儀	wong4 gaa1 ji4	136018
+王實甫	wong4 sat6 pou2	92231
+王希晉	wong4 hei1 zeon3	80628
+王思遠	wong4 si1 jyun5	80628
+王慶南	wong4 hing3 naam4	80628
+王振鵬	wong4 zan3 paang4	80628
+王曉冬	wong4 hiu1 dung1	80628
+王書君	wong4 syu1 gwan1	80628
+王歌慧	wong4 go1 wai3	80628
+王立平	wong4 laap6 peng4	80628
+王雍泰	wong4 jung1 taai3	80628
+王馨瑤	wong4 hing1 jiu4	92231
+珠爾多河	zyu1 ji5 do1 ho2	80628
+環翠區	waan4 ceoi3 keoi1	80628
+申城	san1 sing4	80628
+疊彩區	daap6 coi2 keoi1	80628
+白道	baak6 dou6	92231
+百事公司	baak3 si6 gung1 si1	80628
+盧俊宇	lou4 zeon3 jyu5	136018
+盧偉文	lou4 wai5 man1	80628
+盧永根	lou4 wing5 gan1	80628
+睡火山	seoi6 fo2 saan1	178115
+石偉雄	sek2 wai5 hung4	80628
+石潭路	sek2 taam4 lou6	80628
+石澳道	sek2 ou3 dou6	80628
+碧山	bik1 saan1	100261
+祁門	kei4 mun4	80628
+福島市	fuk1 dou2 si5	173729
+稷山	zik1 saan1	107528
+竹東鎮	zuk1 dung1 zan3	80628
+簡迪	kaan2 dik6	221699
+紅橋區	hung4 kiu4 keoi1	80628
+練馬區	lin6 maa5 keoi1	98159
+聯福道	lyun4 fuk1 dou6	170749
+聯運街	lyun4 wan6 gaai1	211033
+肥城	fei4 sing4	94137
+胡文新	wu4 man1 san1	80628
+胡漢清	wu4 hon3 cing1	92231
+胡琳	wu4 lam4	92231
+胡綽謙	wu4 coek3 him1	80628
+胡蘭成	wu4 laan4 seng4	170749
+臨縣	lam4 jyun6	80628
+良豐路	loeng4 fung1 lou6	80628
+莫愁湖	mok6 sau4 wu4	102307
+葉偉明	jip6 wai5 ming4	80628
+葉玉萍	jip6 juk2 ping4	111210
+葉縣	jip6 jyun6	85400
+葉選寧	jip6 syun2 ning4	92231
+蒙氏家廟	mung4 si6 gaa1 miu2	92231
+蔡亮	coi3 loeng6	207578
+蔡慧欣	coi3 wai3 jan1	85400
+蔡易餘	coi3 ji6 jyu4	92231
+蔡濯堂	coi3 zok6 tong4	170749
+蔡運華	coi3 wan6 waa4	80628
+蕭嘉怡	siu1 gaa1 ji4	92231
+蕭綱	siu1 gong1	89893
+蕭繹	siu1 jik6	80628
+薈賢路	wui6 jin4 lou6	80628
+薛勇	sit3 jung5	80628
+薛明	sit3 ming4	85400
+藝景路	ngai6 ging2 lou6	80628
+蘇來	sou1 lai4	111210
+蘇家欣	sou1 gaa1 jan1	92231
+蘇恩磁	sou1 jan1 ci4	85400
+蘇文欣	sou1 man1 jan1	80628
+蘇梅島	sou1 mui4 dou2	92231
+蘇達良	sou1 daat6 loeng4	89893
+虞城	jyu4 sing4	89893
+袁庚	jyun4 gang1	92231
+西增路	sai1 zang1 lou6	80628
+西涌	sai1 cung1	92231
+許俊豪	heoi2 zeon3 hou4	102307
+許家印	heoi2 gaa1 jan3	80628
+許振榮	heoi2 zan3 wing4	96351
+許林慶	heoi2 lam4 hing3	94137
+許舒	heoi2 syu1	92231
+許雅涵	heoi2 ngaa5 haam4	80628
+許魏洲	heoi2 ngai6 zau1	80628
+詹遜	zim1 seon3	85400
+諾丁山	nok6 ding1 saan1	80628
+謝永齡	ze6 wing5 ling4	102307
+謝淑薇	ze6 suk6 mei4	85400
+謝龍介	ze6 lung4 gaai3	92231
+譚伊哲	taam4 ji1 zit3	102307
+譚秉源	taam4 bing2 jyun4	80628
+譚駿賢	taam4 zeon3 jin4	192439
+賓吉道	ban1 gat1 dou6	170749
+赤崗路	cek3 gong1 lou6	80628
+郭位	gwok3 wai6	92231
+郭潔	gwok3 git3	80628
+鄧荀	dang6 seon1	92231
+鄧超萌	dang6 ciu1 mang4	89893
+鄧達善	dang6 daat6 sin6	102307
+鄧達智	dang6 daat6 zi3	136018
+鄭伊娜	zeng6 ji1 naa4	80628
+鄭偉	zeng6 wai5	80628
+鄭嘉欣	zeng6 gaa1 jan1	92231
+鄭家傑	zeng6 gaa1 git6	80628
+鄭成業	zeng6 seng4 jip6	80628
+鄭昭	zeng6 ciu1	80628
+鄭曉松	zeng6 hiu1 cung4	211033
+鄭清發	zeng6 cing1 faat3	92231
+鄭秀妍	zeng6 sau3 jin4	92231
+鄭秀晶	zeng6 sau3 zing1	85400
+鄭耀軒	zeng6 jiu6 hin1	94137
+鄭賽賽	zeng6 coi3 coi3	80628
+鄭雅文	zeng6 ngaa5 man1	80628
+鄺美寶	kwong3 mei5 bou2	80628
+鈕門	nau2 mun4	170749
+錦山	gam2 saan1	102307
+長門	coeng4 mun4	92231
+阮福昭	jyun2 fuk1 ciu1	80628
+陶源	tou4 jyun4	80628
+陶街	tou4 gaai1	92231
+雙喜街	soeng1 hei2 gaai1	80628
+靈洲山	ling4 zau1 saan1	119187
+青雲觀	cing1 wan4 gun1	114445
+韋拉馬	wai5 laai1 maa5	80628
+韋海英	wai5 hoi2 jing1	80628
+韋爾喬	wai5 ji5 kiu4	92231
+韓達德	hon4 daat6 dak1	80628
+順安道	seon6 on1 dou6	170749
+順朗路	seon6 long5 lou6	102307
+馮華健	fung4 waa4 gin6	92231
+駱惠寧	lok6 wai6 ning4	80628
+高智爾球	gou1 zi3 ji5 kau4	80628
+高雷門	gou1 leoi4 mun4	92231
+魏惠文	ngai6 wai6 man1	92231
+魏氏	ngai6 si6	96351
+魯連城	lou5 lin4 sing4	80628
+鴉蘭街	aa1 laan4 gaai1	174520
+鶴林寺	hok6 lam4 zi2	80628
+麥嘉欣	mak6 gaa1 jan1	80628
+麥沛東	mak6 pui3 dung1	92231
+黑部	hak1 bou6	80628
+龍仁市	lung4 jan4 si5	89893
+龍園	lung4 jyun4	170749
+龔開	gung1 hoi1	111210
+三聖廟	saam1 sing3 miu2	84730
+上尾	soeng5 mei1	71828
+下營區	haa5 jing4 keoi1	71828
+乳山	jyu5 saan1	71828
+乾縣	gon1 jyun6	171221
+井岡山市	zeng2 gong1 saan1 si5	77162
+亞蘭島	aa3 laan4 dou2	105419
+交城	gaau1 sing4	89262
+京溪路	ging1 kai1 lou6	71828
+亮島	loeng6 dou2	89262
+仁風街	jan4 fung1 gaai1	71828
+代縣	doi6 jyun6	86830
+伊江島	ji1 gong1 dou2	71828
+伊館	ji1 gun2	95771
+伍仲衡	ng5 zung6 hang4	84730
+佐藤浩市	zo2 tang4 hou6 si5	77162
+何佩珊	ho4 pui3 saan1	71828
+何卓瑩	ho4 coek3 jing4	84730
+何可欣	ho4 ho2 jan1	82148
+何君柱	ho4 gwan1 cyu5	71828
+何智麗	ho4 zi3 lai6	71828
+何珀廉	ho4 paak3 lim4	84730
+何秉舜	ho4 bing2 seon3	82148
+何耀明	ho4 jiu6 ming4	71828
+何超盈	ho4 ciu1 jing4	84730
+來義鄉	lai4 ji6 hoeng1	82148
+偉樂街	wai5 ngaau6 gaai1	175749
+傅政華	fu6 zing3 waa4	71828
+凱風路	kaai1 fung1 lou6	71828
+利南道	lei6 naam4 dou6	172038
+利希慎堂	lei6 hei1 san6 tong4	113987
+利濟橋	lei6 zai3 kiu4	84730
+劇道場	kek6 dou6 coeng4	84730
+劉偉德	lau4 wai5 dak1	95771
+劉兆玄	lau4 siu6 jyun4	84730
+劉卓輝	lau4 coek3 fai1	93540
+劉天龍	lau4 tin1 lung4	71828
+劉延東	lau4 jin4 dung1	71828
+劉擇明	lau4 zaak6 ming4	172038
+劉智鵬	lau4 zi3 paang4	82148
+劉準	lau4 zeon2	71828
+劉真	lau4 zan1	71828
+劉美詩	lau4 mei5 si1	95771
+劉義慶	lau4 ji6 hing3	95771
+劉義符	lau4 ji6 fu4	71828
+劉諾生	lau4 nok6 saang1	84730
+劉霞	lau4 haa4	71828
+卓蘭鎮	coek3 laan4 zan3	84730
+南丁格爾路	naam4 ding1 gaak3 ji5 lou6	176395
+南化區	naam4 faa3 keoi1	71828
+南開區	naam4 hoi1 keoi1	82148
+印堂	jan3 tong4	78788
+厄架園	ak1 gaa3 jyun4	71828
+古兜山	gu2 dau1 saan1	84730
+古爾頓	gu2 ji5 deon6	71828
+古越語	gu2 jyut6 jyu5	84730
+台伯河	toi4 baak3 ho2	105419
+合眾社	hap6 zung3 se5	77162
+吳佩隆	ng4 pui3 lung4	84730
+吳倩怡	ng4 sin6 ji4	71828
+吳健雄	ng4 gin6 hung4	71828
+吳坪楓	ng4 ping4 fung1	99709
+吳定霖	ng4 ding6 lam3	71828
+吳怡農	ng4 ji4 nung4	105419
+吳桂苓	ng4 gwai3 ling2	84730
+吳正世	ng4 zeng3 sai3	71828
+吳燕安	ng4 jin3 on1	71828
+吳磊	ng4 leoi5	71828
+吳蔚	ng4 wai3	71828
+吳諾弘	ng4 nok6 wang4	84730
+吳謹言	ng4 gan2 jin4	71828
+吳錦華	ng4 gam2 waa4	71828
+呂傳贊	leoi5 cyun4 zaan3	84730
+呂大樂	leoi5 daai6 ngaau6	77162
+呂明華	leoi5 ming4 waa4	95771
+呂鴻賓	leoi5 hung4 ban1	71828
+周佩婷	zau1 pui3 ting4	95771
+周健宏	zau1 gin6 wang4	84730
+周嘉全	zau1 gaa1 cyun4	71828
+周寶霖	zau1 bou2 lam3	95771
+周慶峻	zau1 hing3 zeon3	105419
+周暢	zau1 coeng3	84730
+周楚詩	zau1 co2 si1	71828
+周潔瓊	zau1 git3 king4	188240
+周蜜蜜	zau1 mat6 mat6	89262
+咖喱角	gaa3 nei1 gok3	168139
+員山鄉	jyun4 saan1 hoeng1	84730
+哥連費路	go1 lin4 fai3 lou6	84730
+唐德街	tong4 dak1 gaai1	172038
+唐麗球	tong4 lai6 kau4	71828
+國後島	gwok3 hau6 dou2	84730
+城關區	sing4 gwaan1 keoi1	71828
+塞得港	sak1 dat1 gong2	71828
+增江大道	zang1 gong1 daai6 dou6	71828
+大聖寶廟	daai6 sing3 bou2 miu2	209502
+奧得河	ou3 dat1 ho2	93540
+姚壯憲	jiu4 zong3 hin3	71828
+姚祖恩	jiu4 zou2 jan1	84730
+姜卓文	goeng1 coek3 man1	71828
+姜宇夫	goeng1 jyu5 fu1	71828
+孫慧蓮	syun1 wai3 lin4	71828
+孫慶安	syun1 hing3 on1	71828
+宇和島	jyu5 wu4 dou2	77162
+客西馬尼園	haak3 sai1 maa5 nei4 jyun4	77162
+小洲路	siu2 zau1 lou6	71828
+山光道	saan1 gwong1 dou6	71828
+岑紫生	sam4 zi2 saang1	84730
+巫成鋒	mou4 seng4 fung1	77162
+希雲街	hei1 wan4 gaai1	71828
+常和街	soeng4 wu4 gaai1	84730
+康莊道	hong1 zong1 dou6	84730
+廖力生	liu6 lik6 saang1	71828
+廖本懷	liu6 bun2 waai4	71828
+張丹蕾	zoeng1 daan1 leoi4	71828
+張俊平	zoeng1 zeon3 peng4	71828
+張凱貞	zoeng1 kaai1 zing1	77162
+張凱鈞	zoeng1 kaai1 gwan1	71828
+張嘉倪	zoeng1 gaa1 ngai4	71828
+張嘉汶	zoeng1 gaa1 man4	71828
+張嫻	zoeng1 haan4	77162
+張德熙	zoeng1 dak1 hei1	71828
+張怡寧	zoeng1 ji4 ning4	84730
+張曉卿	zoeng1 hiu1 hing1	89262
+張曼伶	zoeng1 maan6 ling4	71828
+張欣宇	zoeng1 jan1 jyu5	89262
+張翼東	zoeng1 jik6 dung1	84730
+張育玲	zoeng1 juk6 ling4	84730
+張詩欣	zoeng1 si1 jan1	71828
+張鑑泉	zoeng1 gaam3 cyun4	84730
+張陽	zoeng1 joeng4	84730
+張雅麗	zoeng1 ngaa5 lai6	71828
+張雲正	zoeng1 wan4 zeng3	71828
+張麗瑾	zoeng1 lai6 gan2	84730
+彭家浩	paang4 gaa1 hou6	84730
+徐德義	ceoi4 dak1 ji6	84730
+微山	mei4 saan1	77162
+戴亞街	daai3 aa3 gaai1	71828
+打石湖	daa1 sek2 wu4	95771
+方駿暉	fong1 zeon3 fai1	105419
+施德來	si1 dak1 lai4	71828
+施志安	si1 zi3 on1	84730
+日街	jat6 gaai1	84730
+昌德宮	coeng1 dak1 gung1	89262
+易北河	ji6 bak1 ho2	77162
+星漢大道	sing1 hon3 daai6 dou6	71828
+曹建明	cou4 gin3 ming4	84730
+曾安業	cang4 on1 jip6	77162
+曾寶玲	cang4 bou2 ling4	71828
+曾廣豫	cang4 gwong2 jyu6	71828
+曾憲九	cang4 hin3 gau2	71828
+曾敏	cang4 man5	84730
+曾美華	cang4 mei5 waa4	138038
+曾達恩	cang4 daat6 jan1	71828
+朱兆基	zyu1 siu6 gei1	84730
+朱廣權	zyu1 gwong2 kyun4	84730
+朱敏希	zyu1 man5 hei1	95771
+朱易	zyu1 ji6	105419
+朱潔儀	zyu1 git3 ji4	71828
+朱穆之	zyu1 muk6 zi1	71828
+朱芯儀	zyu1 sam1 ji4	113987
+朱芳雨	zyu1 fong1 jyu5	71828
+朱裕琳	zyu1 jyu6 lam4	71828
+李乙雪	lei5 jyut6 syut3	71828
+李克農	lei5 haak1 nung4	77162
+李冠霖	lei5 gun1 lam3	71828
+李卓庭	lei5 coek3 ting4	71828
+李卓謙	lei5 coek3 him1	77162
+李哲承	lei5 zit3 sing4	71828
+李岡	lei5 gong1	71828
+李康廉	lei5 hong1 lim4	71828
+李忠希	lei5 zung1 hei1	71828
+李思雅	lei5 si1 ngaa5	77162
+李慕豪	lei5 mou6 hou4	71828
+李慧娜	lei5 wai3 naa4	95771
+李日朗	lei5 jat6 long5	84730
+李朗怡	lei5 long5 ji4	71828
+李未	lei5 mei6	95771
+李毅	lei5 ngai6	71828
+李氏力場	lei5 si6 lik6 coeng4	100069
+李泳豪	lei5 wing6 hou4	165125
+李洋	lei5 joeng4	82148
+李浩林	lei5 hou6 lam4	71828
+李浩軒	lei5 hou6 hin1	84730
+李海強	lei5 hoi2 koeng4	71828
+李漫芬	lei5 maan6 fan1	71828
+李濟生	lei5 zai3 saang1	84730
+李焯寧	lei5 coek3 ning4	71828
+李熙媛	lei5 hei1 wun4	84730
+李爾王	lei5 ji5 wong4	82148
+李真	lei5 zan1	71828
+李聖潑	lei5 sing3 put3	168139
+李芳	lei5 fong1	84730
+李豪	lei5 hou4	71828
+李豫	lei5 jyu6	71828
+李貞賢	lei5 zing1 jin4	71828
+李赤	lei5 cek3	71828
+李軒朗	lei5 hin1 long5	84730
+李運騰	lei5 wan6 tang4	95771
+李雋青	lei5 zeon3 cing1	95771
+李顯揚	lei5 hin2 joeng2	84730
+李麗華	lei5 lai6 waa4	71828
+李默然	lei5 mak6 jin4	71828
+杜卜勒	dou6 buk1 lak6	84730
+杜平	dou6 peng4	95771
+杜愛恩	dou6 oi3 jan1	71828
+杜牙根	dou6 ngaa4 gan1	190481
+東湖區	dung1 wu4 keoi1	86830
+東澳灣	dung1 ou3 waan1	84730
+東萊區	dung1 loi4 keoi1	71828
+東門鎮	dung1 mun4 zan3	71828
+林允	lam4 wan5	71828
+林兆波	lam4 siu6 bo1	84730
+林卓夫	lam4 coek3 fu1	71828
+林夢	lam4 mung6	71828
+林孝謙	lam4 haau3 him1	71828
+林布蘭	lam4 bou3 laan4	71828
+林心廉	lam4 sam1 lim4	84730
+林慧倩	lam4 wai3 sin6	71828
+林燕芬	lam4 jin3 fan1	84730
+林玉珍	lam4 juk2 zan1	188240
+林秋離	lam4 cau1 lei4	71828
+林義豐	lam4 ji6 fung1	95771
+林莉嫻	lam4 lei6 haan4	71828
+林詠倫	lam4 wing6 leon4	71828
+林靜莉	lam4 zing6 lei6	71828
+林順潮	lam4 seon6 ciu4	105419
+柯士甸路	o1 si6 din1 lou6	71828
+柳營區	lau5 jing4 keoi1	71828
+梁世燦	loeng4 sai3 caan3	191257
+梁佩瑚	loeng4 pui3 wu4	82148
+梁卓偉	loeng4 coek3 wai5	165125
+梁敬魁	loeng4 ging3 fui1	71828
+梁美薇	loeng4 mei5 mei4	84730
+梁超怡	loeng4 ciu1 ji4	71828
+梁進	loeng4 zeon3	71828
+梁雪瑤	loeng4 syut3 jiu4	71828
+楊伊琳	joeng4 ji1 lam4	71828
+楊健興	joeng4 gin6 hing1	84730
+楊慧敏	joeng4 wai3 man5	71828
+楊振華	joeng4 zan3 waa4	71828
+楊斯捷	joeng4 si1 zit6	71828
+楊明學	joeng4 ming4 hok6	77162
+楊景輝	joeng4 ging2 fai1	71828
+楊曉穎	joeng4 hiu1 wing6	71828
+楊沛宜	joeng4 pui3 ji4	71828
+楊維	joeng4 wai4	89262
+楊繼昌	joeng4 gai3 coeng1	209502
+楊鎮華	joeng4 zan3 waa4	71828
+楊開慧	joeng4 hoi1 wai3	71828
+楊隆演	joeng4 lung4 jin2	82148
+樂業村	ngaau6 jip6 cyun1	71828
+橋咀洲	kiu4 zeoi2 zau1	71828
+橋興大道	kiu4 hing1 daai6 dou6	71828
+武鄉	mou5 hoeng1	71828
+江嘉良	gong1 gaa1 loeng4	77162
+江高鎮	gong1 gou1 zan3	84730
+沈穎婷	sam2 wing6 ting4	71828
+泄蘭街	sit3 laan4 gaai1	168139
+法隆寺	faat3 lung4 zi2	84730
+波多馬克河	bo1 do1 maa5 haak1 ho2	93540
+洪澤湖	hung4 zaak6 wu4	93540
+洪磊	hung4 leoi5	77162
+洪立熙	hung4 laap6 hei1	71828
+浪速區	long6 cuk1 keoi1	84730
+淮陰區	waai4 jam1 keoi1	91242
+深川市	sam1 cyun1 si5	86830
+添福道	tim1 fuk1 dou6	168139
+清道	cing1 dou6	86830
+湛塘路	zaam3 tong4 lou6	71828
+溪頭村	kai1 tau4 cyun1	84730
+潘文俊	pun1 man1 zeon3	71828
+潘瑤	pun1 jiu4	71828
+潘秀瓊	pun1 sau3 king4	71828
+潘耀焯	pun1 jiu6 coek3	71828
+潘芳芳	pun1 fong1 fong1	71828
+潘蘇通	pun1 sou1 tung1	84730
+潘震偉	pun1 zan3 wai5	77162
+澄平街	cing4 peng4 gaai1	168139
+澤西島	zaak6 sai1 dou2	71828
+灣景街	waan1 ging2 gaai1	168139
+烏來區	wu1 lai4 keoi1	77162
+燕市	jin3 si5	77162
+王凌燕	wong4 ling4 jin3	84730
+王卓雅	wong4 coek3 ngaa5	71828
+王嘉莉	wong4 gaa1 lei6	84730
+王如登	wong4 jyu4 dang1	84730
+王小洪	wong4 siu2 hung4	99709
+王思平	wong4 si1 peng4	86830
+王怡	wong4 ji4	84730
+王慧媛	wong4 wai3 wun4	71828
+王振星	wong4 zan3 sing1	71828
+王振民	wong4 zan3 man4	168139
+王潔曦	wong4 git3 hei1	71828
+王瑤	wong4 jiu4	71828
+王苗	wong4 miu4	84730
+王若伊	wong4 joek6 ji1	71828
+王薇君	wong4 mei4 gwan1	113987
+王薔	wong4 coeng4	71828
+王雅君	wong4 ngaa5 gwan1	84730
+王靖怡	wong4 zing6 ji4	71828
+王麗萍	wong4 lai6 ping4	77162
+王麟	wong4 leon4	89262
+琳寶徑	lam4 bou2 ging3	209502
+環海街	waan4 hoi2 gaai1	168139
+番山	faan1 saan1	84730
+盧潤炳	lou4 jeon6 bing2	84730
+石倚潔	sek2 ji2 git3	84730
+石希露	sek2 hei1 lou6	84730
+石田彰	sek2 tin4 zoeng1	91242
+福塘道	fuk1 tong4 dou6	71828
+福淘街	fuk1 tou4 gaai1	168139
+禹城	jyu5 sing4	91242
+租庇利街	zou1 bei3 lei6 gaai1	168139
+程介明	cing4 gaai3 ming4	84730
+程小東	cing4 siu2 dung1	71828
+程浩駿	cing4 hou6 zeon3	71828
+管城	gun2 sing4	77162
+簡奴	kaan2 nou4	71828
+簡思恩	kaan2 si1 jan1	71828
+簡文滌	kaan2 man1 dik6	77162
+簡銘東	kaan2 ming5 dung1	71828
+紅崗區	hung4 gong1 keoi1	71828
+純陽觀	seon4 joeng4 gun1	71828
+義德道	ji6 dak1 dou6	209502
+胡可澄	wu4 ho2 cing4	71828
+胡嘉盈	wu4 gaa1 jing4	71828
+胡經昌	wu4 ging1 coeng1	84730
+胡進慶	wu4 zeon3 hing3	84730
+舍蘭島	se5 laan4 dou2	71828
+舒門	syu1 mun4	91242
+色楞格河	sik1 ling4 gaak3 ho2	77162
+芮城	jeoi6 sing4	93540
+英紅鎮	jing1 hung4 zan3	105419
+茂山	mau6 saan1	84730
+范氏	faan6 si6	71828
+茅湖山	maau4 wu4 saan1	172038
+葉乃裳	jip6 naai5 soeng4	71828
+葉城	jip6 sing4	77162
+葉山豪	jip6 saan1 hou4	71828
+葉進康	jip6 zeon3 hong1	71828
+葉雅媛	jip6 ngaa5 wun4	71828
+葉麗嘉	jip6 lai6 gaa1	84730
+董棟	dung2 dung6	82148
+蔡倫	coi3 leon4	77162
+蔡志忠	coi3 zi3 zung1	71828
+蔡政勳	coi3 zing3 fan1	95771
+蕎頭	kiu2 tau4	168139
+蕭縣	siu1 jyun6	91242
+蕭賀碩	siu1 ho6 sek6	71828
+薩巴島	saat3 baa1 dou2	86830
+蘇敬恆	sou1 ging3 hang4	84730
+蘇文隆	sou1 man1 lung4	84730
+蘇炳文	sou1 bing2 man1	71828
+蘇豪	sou1 hou4	71828
+蘇麗珍	sou1 lai6 zan1	193412
+虎門鎮	fu2 mun4 zan3	71828
+袁學謙	jyun4 hok6 him1	71828
+袁晴晴	jyun4 cing4 cing4	84730
+袁樹偉	jyun4 syu3 wai5	95771
+袁武	jyun4 mou5	95771
+西尾	sai1 mei1	86830
+覃塘	cam4 tong4	84730
+角苔門	gok3 toi1 mun4	71828
+許冠武	heoi2 gun1 mou5	71828
+許德亮	heoi2 dak1 loeng6	84730
+許思敏	heoi2 si1 man5	71828
+許懷欣	heoi2 waai4 jan1	71828
+許漢忠	heoi2 hon3 zung1	95771
+許留山	heoi2 lau4 saan1	71828
+許維恩	heoi2 wai4 jan1	71828
+謝杏芳	ze6 hang6 fong1	71828
+謝素	ze6 sou3	105419
+譚伯源	taam4 baak3 jyun4	95771
+譚健常	taam4 gin6 soeng4	71828
+譚旋	taam4 syun4	71828
+谷埔	guk1 bou3	71828
+豪賢路	hou4 jin4 lou6	84730
+貴池區	gwai3 ci4 keoi1	71828
+費縣	fai3 jyun6	82148
+趙婷	ziu6 ting4	105419
+路易港	lou6 ji6 gong2	71828
+連拿	lin4 naa4	71828
+連晉	lin4 zeon3	71828
+郡山	gwan6 saan1	82148
+郭志堅	gwok3 zi3 gin1	71828
+郭慧	gwok3 wai3	71828
+郭振江	gwok3 zan3 gong1	71828
+郭東彩	gwok3 dung1 coi2	84730
+郭穎東	gwok3 wing6 dung1	84730
+郭穎橋	gwok3 wing6 kiu4	95771
+郭立文	gwok3 laap6 man1	89262
+郭蘭英	gwok3 laan4 jing1	71828
+郭頌	gwok3 zung6	84730
+鄧一君	dang6 jat1 gwan1	71828
+鄧琳琳	dang6 lam4 lam4	82148
+鄧祖欣	dang6 zou2 jan1	71828
+鄧駿暉	dang6 zeon3 fai1	71828
+鄧鳴賀	dang6 ming4 ho6	77162
+鄭問	zeng6 man6	71828
+鄭國漢	zeng6 gwok3 hon3	131873
+鄭基高	zeng6 gei1 gou1	91242
+鄭孟霞	zeng6 maang6 haa4	84730
+鄭恩地	zeng6 jan1 dei6	165125
+鄭慕智	zeng6 mou6 zi3	71828
+鄭益龍	zeng6 jik1 lung4	84730
+鄭莉梅	zeng6 lei6 mui4	138038
+鄭雨盛	zeng6 jyu5 sing6	77162
+鄺保羅	kwong3 bou2 lo4	84730
+鄺頌晴	kwong3 zung6 cing4	71828
+金華街	gam1 waa4 gaai1	89262
+銀澳路	ngan4 ou3 lou6	168139
+錦英路	gam2 jing1 lou6	95771
+阮星航	jyun2 sing1 hong4	71828
+阮福時	jyun2 fuk1 si4	71828
+阿空加瓜山	aa3 hung1 gaa1 gwaa1 saan1	71828
+陳茗倫	can4 ming5 leon4	71828
+陳鴻橋	can4 hung4 kiu4	71828
+陶嘉瑩	tou4 gaa1 jing4	71828
+陶魯笳	tou4 lou5 gaa1	93540
+雅賓利道	ngaa5 ban1 lei6 dou6	95771
+雍翠豪園	jung1 ceoi3 hou4 jyun4	84730
+雙鴨山	soeng1 aap2 saan1	71828
+雪柏大道	syut3 paak3 daai6 dou6	71828
+霍城	fok3 sing4	173518
+霎東街	sap1 dung1 gaai1	172038
+霧島	mou6 dou2	77162
+靖遠路	zing6 jyun5 lou6	71828
+韋漢娜	wai5 hon3 naa4	71828
+韋靈頓	wai5 ling4 deon6	71828
+韓冰	hon4 bing1	95771
+韓善續	hon4 sin6 zuk6	71828
+韓理強	hon4 lei5 koeng4	105419
+項城	hong6 sing4	77162
+順義區	seon6 ji6 keoi1	71828
+額爾古納河	ngaak6 ji5 gu2 naap6 ho2	89262
+馮坤	fung4 kwan1	71828
+馮奕森	fung4 jik6 sam1	84730
+馮青	fung4 cing1	84730
+高力士	gou1 lik6 si6	71828
+高厚良	gou1 hau5 loeng4	82148
+高原直泰	gou1 jyun4 zik6 taai3	71828
+高祀仁	gou1 zi6 jan4	95771
+魏柏豪	ngai6 paak3 hou4	95771
+魏秋月	ngai6 cau1 jyut6	82148
+魏蔓	ngai6 maan6	77162
+鳴門	ming4 mun4	89262
+鷹巢山	jing1 caau4 saan1	95771
+麥勁生	mak6 ging6 saang1	71828
+麥卡倫	mak6 kaa1 leon4	93540
+麥可暉	mak6 ho2 fai1	71828
+麥堅	mak6 gin1	71828
+麥家朗	mak6 gaa1 long5	84730
+麥根萊	mak6 gan1 loi4	71828
+麥業成	mak6 jip6 seng4	71828
+麥欣童	mak6 jan1 tung4	71828
+麥翠嫻	mak6 ceoi3 haan4	84730
+麥耶	mak6 je4	91242
+麥道維	mak6 dou6 wai4	71828
+黃獎	wong4 zoeng2	71828
+黃綠醫生	wong4 luk6 ji1 saang1	236219
+龍欣道	lung4 jan1 dou6	84730
+龍灣區	lung4 waan1 keoi1	71828
+龜山島	gwai1 saan1 dou2	84730
+三蘭港	saam1 laan4 gong2	61886
+丫洲	aa1 zau1	76416
+丹霞山	daan1 haa4 saan1	61886
+乾旦路	gon1 daan3 lou6	61886
+五桂堂	ng5 gwai3 tong4	61886
+五華區	ng5 waa4 keoi1	61886
+亞喀巴灣	aa3 haak3 baa1 waan1	76416
+亞穆納河	aa3 muk6 naap6 ho2	76416
+伍冰枝	ng5 bing1 zi1	61886
+伍晃榮	ng5 fong2 wing4	61886
+住吉區	zyu6 gat1 keoi1	67930
+何佩婷	ho4 pui3 ting4	99154
+何嘉裕	ho4 gaa1 jyu6	61886
+何國良	ho4 gwok3 loeng4	76416
+何姿	ho4 zi1	67930
+何容興	ho4 jung4 hing1	61886
+何慶輝	ho4 hing3 fai1	61886
+何永賢	ho4 wing5 jin4	76416
+何浩源	ho4 hou6 jyun4	76416
+何潤生	ho4 jeon6 saang1	61886
+何紹基	ho4 siu6 gei1	67930
+何致宏	ho4 zi3 wang4	76416
+何靖	ho4 zing6	61886
+佛國寺	fat6 gwok3 zi2	67930
+保維路	bou2 wai4 lou6	61886
+傅佳琳	fu6 gaai1 lam4	61886
+傅劍虹	fu6 gim3 hung3	61886
+傅曉琳	fu6 hiu1 lam4	81449
+內鄉	noi6 hoeng1	73532
+公孫氏	gung1 syun1 si6	73532
+凌雲寺	ling4 wan4 zi2	88625
+劉一飛	lau4 jat1 fei1	61886
+劉仰	lau4 ngong5	88625
+劉偉聰	lau4 wai5 cung1	61886
+劉喬安	lau4 kiu4 on1	76416
+劉婉婷	lau4 jyun2 ting4	61886
+劉子業	lau4 zi2 jip6	61886
+劉宋威	lau4 sung3 wai1	61886
+劉少昂	lau4 siu2 ngong5	61886
+劉展霆	lau4 zin2 ting4	76416
+劉建浩	lau4 gin3 hou6	76416
+劉慈欣	lau4 ci4 jan1	76416
+劉慶揚	lau4 hing3 joeng2	88625
+劉憲華	lau4 hin3 waa4	61886
+劉昌赫	lau4 coeng1 haak1	61886
+劉漪琳	lau4 ji2 lam4	61886
+劉澤基	lau4 zaak6 gei1	88625
+劉澤民	lau4 zaak6 man4	61886
+劉瑞祈	lau4 seoi6 kei4	76416
+劉祖德	lau4 zou2 dak1	76416
+劉秀盈	lau4 sau3 jing4	61886
+劉穎琳	lau4 wing6 lam4	76416
+劉繼元	lau4 gai3 jyun4	61886
+劉鈞	lau4 gwan1	67930
+劉隆	lau4 lung4	61886
+劉音	lau4 jam1	61886
+加寧街	gaa1 ning4 gaai1	207938
+南國市	naam4 gwok3 si5	61886
+南山寺	naam4 saan1 zi2	61886
+南禪寺	naam4 sim4 zi2	61886
+南竿鄉	naam4 gon1 hoeng1	73532
+南角道	naam4 gok3 dou6	61886
+博登湖	bok3 dang1 wu4	73532
+卡馬河	kaa1 maa5 ho2	61886
+叢桂路	cung4 gwai3 lou6	61886
+古桂耀	gu2 gwai3 jiu6	61886
+古永鏘	gu2 wing5 coeng1	61886
+可可西里山	ho2 ho2 sai1 lei5 saan1	73532
+合勝村	hap6 sing1 cyun1	61886
+吳丹	ng4 daan1	61886
+吳佩芸	ng4 pui3 wan4	61886
+吳嘉禧	ng4 gaa1 hei1	61886
+吳夏榮	ng4 haa6 wing4	162313
+吳微	ng4 mei4	61886
+吳志華	ng4 zi3 waa4	61886
+吳思賢	ng4 si1 jin4	67930
+吳恙	ng4 joeng6	76416
+吳成典	ng4 seng4 din2	61886
+吳欣諺	ng4 jan1 jin6	76416
+吳漢雄	ng4 hon3 hung4	61886
+吳澤森	ng4 zaak6 sam1	76416
+吳燕珊	ng4 jin3 saan1	61886
+呂倫居殊	leoi5 leon4 geoi1 syu4	61886
+呂志華	leoi5 zi3 waa4	61886
+呂愛平	leoi5 oi3 peng4	88625
+周嘉玲	zau1 gaa1 ling4	76416
+周嘉莉	zau1 gaa1 lei6	61886
+周國儀	zau1 gwok3 ji4	76416
+周玉堂	zau1 juk2 tong4	61886
+周蘇紅	zau1 sou1 hung4	61886
+呼倫湖	fu1 leon4 wu4	76416
+唐七	tong4 cat1	61886
+唐偉章	tong4 wai5 zoeng1	61886
+唐恬	tong4 tim4	61886
+商河	soeng1 ho2	73532
+嚴崇天	jim4 sung4 tin1	76416
+嚴順開	jim4 seon6 hoi1	61886
+固鎮	gu3 zan3	61886
+坦噶區	taan2 gaa1 keoi1	73532
+塘口鎮	tong4 hau2 zan3	61886
+墨田區	mak6 tin4 keoi1	67930
+大分市	daai6 fan1 si5	78752
+大萬山	daai6 maan6 saan1	61886
+大豐門	daai6 fung1 mun4	76416
+姚可傑	jiu4 ho2 git6	61886
+姚志勝	jiu4 zi3 sing1	76416
+姜泰伍	goeng1 taai3 ng5	88625
+姜至鵬	goeng1 zi3 paang4	76416
+孫承宗	syun1 sing4 zung1	78752
+孫政	syun1 zing3	76416
+孫芝蘭	syun1 zi1 laan4	61886
+孫詠軒	syun1 wing6 hin1	61886
+安鄉	on1 hoeng1	73532
+安陽縣	on1 joeng4 jyun6	73532
+宏村	wang4 cyun1	61886
+宿城區	suk1 sing4 keoi1	61886
+寶區	bou2 keoi1	61886
+寶珊道	bou2 saan1 dou6	61886
+專洲	zyun1 zau1	76416
+展城館	zin2 sing4 gun2	61886
+岑偉宗	sam4 wai5 zung1	61886
+岑勇康	sam4 jung5 hong1	61886
+岑參	sam4 caam1	67930
+岑應	sam4 jing1	61886
+布諾卡區	bou3 nok6 kaa1 keoi1	61886
+希路	hei1 lou6	76416
+常樂街	soeng4 ngaau6 gaai1	61886
+平鎮區	peng4 zan3 keoi1	73532
+庫魯夫市	fu3 lou5 fu1 si5	61886
+廖暉	liu6 fai1	61886
+廖熙琳	liu6 hei1 lam4	76416
+廣肇羅道	gwong2 siu6 lo4 dou6	61886
+廣華街	gwong2 waa4 gaai1	61886
+廬陽區	lou4 joeng4 keoi1	78752
+張可凝	zoeng1 ho2 jing4	76416
+張可盈	zoeng1 ho2 jing4	61886
+張嘉欣	zoeng1 gaa1 jan1	61886
+張嘉莉	zoeng1 gaa1 lei6	61886
+張國昌	zoeng1 gwok3 coeng1	78752
+張國興	zoeng1 gwok3 hing1	61886
+張娜	zoeng1 naa4	61886
+張小倫	zoeng1 siu2 leon4	67930
+張志剛	zoeng1 zi3 gong1	61886
+張振傑	zoeng1 zan3 git6	73532
+張敏潔	zoeng1 man5 git3	76416
+張暖雅	zoeng1 nyun5 ngaa5	61886
+張曼莉	zoeng1 maan6 lei6	61886
+張朝	zoeng1 ciu4	73532
+張樂聲	zoeng1 ngaau6 seng1	61886
+張玲	zoeng1 ling4	61886
+張綺娜	zoeng1 ji2 naa4	61886
+張繼安	zoeng1 gai3 on1	61886
+張賢秀	zoeng1 jin4 sau3	61886
+張赫	zoeng1 haak1	73532
+張迪文	zoeng1 dik6 man1	61886
+張雅卓	zoeng1 ngaa5 coek3	61886
+張雅涵	zoeng1 ngaa5 haam4	61886
+強縣	koeng4 jyun6	81449
+彌山	mei4 saan1	67930
+彌河	mei4 ho2	61886
+彌陀區	mei4 to4 keoi1	61886
+彭振生	paang4 zan3 saang1	61886
+彭明敏	paang4 ming4 man5	76416
+彭清華	paang4 cing1 waa4	76416
+彭皓鋒	paang4 hou6 fung1	76416
+彭荃	paang4 cyun4	76416
+往灣洲	wong5 waan1 zau1	61886
+徐嘉良	ceoi4 gaa1 loeng4	61886
+徐林倩麗	ceoi4 lam4 sin6 lai6	61886
+徐綽恩	ceoi4 coek3 jan1	76416
+徐雲麗	ceoi4 wan4 lai6	61886
+御景灣	jyu6 ging2 waan1	88625
+德高道	dak1 gou1 dou6	76416
+心誼路	sam1 ji4 lou6	61886
+志誠大道	zi3 sing4 daai6 dou6	76416
+拉多加湖	laai1 do1 gaa1 wu4	67930
+拙政園	zyut3 zing3 jyun4	76416
+拜城	baai3 sing4	67930
+拱墅區	gung2 seoi5 keoi1	73532
+拿華路	naa4 waa4 lou6	76416
+掘頭巷	gwat6 tau4 hong2	76416
+摩羅泰島	mo1 lo4 taai3 dou2	78752
+斬竹灣	zaam2 zuk1 waan1	76416
+斯坦利港	si1 taan2 lei6 gong2	61886
+新莊區	san1 zong1 keoi1	67930
+新華村	san1 waa4 cyun1	61886
+方守賢	fong1 sau2 jin4	61886
+施心圓	si1 sam1 jyun4	61886
+施榮恆	si1 wing4 hang4	61886
+明原堂	ming4 jyun4 tong4	207938
+昭信路	ciu1 seon3 lou6	61886
+昭島市	ciu1 dou2 si5	78752
+普仁街	pou2 jan4 gaai1	61886
+普樂道	pou2 ngaau6 dou6	61886
+景雲街	ging2 wan4 gaai1	61886
+暖暖區	nyun5 nyun5 keoi1	67930
+曉倫湖	hiu1 leon4 wu4	88625
+曲街	kuk1 gaai1	61886
+曹越	cou4 jyut6	76416
+曾兆榮	cang4 siu6 wing4	61886
+曾家瑩	cang4 gaa1 jing4	76416
+曾文輝	cang4 man1 fai1	61886
+曾智明	cang4 zi3 ming4	61886
+曾若華	cang4 joek6 waa4	61886
+曾醒明	cang4 seng2 ming4	88625
+會寧縣	wui5 ning4 jyun6	86173
+朝陽村	ciu4 joeng4 cyun1	67930
+朝香宮	ciu4 hoeng1 gung1	61886
+木質部	muk6 zat1 bou6	108410
+朱主愛	zyu1 zyu2 oi3	61886
+朱乃璋	zyu1 naai5 zoeng1	61886
+朱之瑜	zyu1 zi1 jyu4	61886
+朱佩瑩	zyu1 pui3 jing4	61886
+朱偉鈞	zyu1 wai5 gwan1	61886
+朱健鈞	zyu1 gin6 gwan1	76416
+朱國強	zyu1 gwok3 koeng4	76416
+朱拉洛	zyu1 laai1 lok6	61886
+朱永龍	zyu1 wing5 lung4	88625
+李世隆	lei5 sai3 lung4	88625
+李亞軒	lei5 aa3 hin1	61886
+李亦喬	lei5 jik6 kiu4	76416
+李佳芬	lei5 gaai1 fan1	61886
+李君豪	lei5 gwan1 hou4	76416
+李嘉晉	lei5 gaa1 zeon3	61886
+李大壯	lei5 daai6 zong3	61886
+李天慧	lei5 tin1 wai3	61886
+李天龍	lei5 tin1 lung4	61886
+李孟諺	lei5 maang6 jin6	61886
+李察利臣	lei5 caat3 lei6 san4	61886
+李寶華	lei5 bou2 waa4	76416
+李尚禹	lei5 soeng6 jyu5	67930
+李彩演	lei5 coi2 jin2	134003
+李思函	lei5 si1 haam4	76416
+李惠芬	lei5 wai6 fan1	61886
+李振輝	lei5 zan3 fai1	165438
+李政道	lei5 zing3 dou6	61886
+李文曦	lei5 man1 hei1	61886
+李文欣	lei5 man1 jan1	76416
+李文潔	lei5 man1 git3	76416
+李春波	lei5 ceon1 bo1	67930
+李格弟	lei5 gaak3 dai6	76416
+李樹佳	lei5 syu3 gaai1	61886
+李永進	lei5 wing5 zeon3	61886
+李清霞	lei5 cing1 haa4	73532
+李炳光	lei5 bing2 gwong1	61886
+李燦明	lei5 caan3 ming4	61886
+李珊	lei5 saan1	61886
+李皓晴	lei5 hou6 cing4	61886
+李紹堅	lei5 siu6 gin1	76416
+李美珊	lei5 mei5 saan1	61886
+李耀明	lei5 jiu6 ming4	61886
+李臨秋	lei5 lam4 cau1	61886
+李花塵	lei5 faa1 can4	61886
+李華度	lei5 waa4 dou6	61886
+李賀	lei5 ho6	76416
+李賢浩	lei5 jin4 hou6	67930
+李賢義	lei5 jin4 ji6	165438
+李賽鳳	lei5 coi3 fung6	61886
+李遠哲	lei5 jyun5 zit3	67930
+李錦	lei5 gam2	67930
+李隆俊	lei5 lung4 zeon3	76416
+李雅靜	lei5 ngaa5 zing6	61886
+李雪瑩	lei5 syut3 jing4	61886
+杜港	dou6 gong2	76416
+東成區	dung1 seng4 keoi1	61886
+東港區	dung1 gong2 keoi1	61886
+林伊麗	lam4 ji1 lai6	61886
+林倩同	lam4 sin6 tung4	61886
+林健文	lam4 gin6 man1	73532
+林其欣	lam4 kei4 jan1	61886
+林凱欣	lam4 kaai1 jan1	61886
+林勁放	lam4 ging6 fong3	61886
+林娜榮	lam4 naa4 wing4	162313
+林學曦	lam4 hok6 hei1	76416
+林宇星	lam4 jyu5 sing1	99154
+林恬兒	lam4 tim4 ji4	61886
+林慧君	lam4 wai3 gwan1	76416
+林映輝	lam4 jing2 fai1	61886
+林智遠	lam4 zi3 jyun5	76416
+林曼婷	lam4 maan6 ting4	61886
+林樂路	lam4 ngaau6 lou6	61886
+林波波河	lam4 bo1 bo1 ho2	76416
+林翠玲	lam4 ceoi3 ling4	61886
+林茹萍	lam4 jyu4 ping4	88625
+林達民	lam4 daat6 man4	61886
+林鉅成	lam4 geoi6 seng4	61886
+根息島	gan1 sak1 dou2	76416
+梁佩蘭	loeng4 pui3 laan4	61886
+梁凱程	loeng4 kaai1 cing4	61886
+梁園區	loeng4 jyun4 keoi1	73532
+梁天尺	loeng4 tin1 cek3	61886
+梁寶儀	loeng4 bou2 ji4	61886
+梁建民	loeng4 gin3 man4	61886
+梁德華	loeng4 dak1 waa4	61886
+梁慧恩	loeng4 wai3 jan1	61886
+梁晴晴	loeng4 cing4 cing4	61886
+梁熾江	loeng4 ci3 gong1	61886
+梁維特	loeng4 wai4 dak6	61886
+梁致欣	loeng4 zi3 jan1	61886
+梁詠琳	loeng4 wing6 lam4	61886
+梁頌恩	loeng4 zung6 jan1	61886
+梁麗瑩	loeng4 lai6 jing4	61886
+梁麗芳	loeng4 lai6 fong1	61886
+楊偉中	joeng4 wai5 zung1	61886
+楊卓欣	joeng4 coek3 jan1	76416
+楊子熙	joeng4 zi2 hei1	61886
+楊學明	joeng4 hok6 ming4	61886
+楊寶坤	joeng4 bou2 kwan1	76416
+楊敏德	joeng4 man5 dak1	61886
+楊明煌	joeng4 ming4 wong4	76416
+楊洛婷	joeng4 lok6 ting4	61886
+楊浦大橋	joeng4 pou2 daai6 kiu4	61886
+楊清檸	joeng4 cing1 ning2	61886
+楊焉	joeng4 jin4	76416
+楊茜堯	joeng4 sin3 jiu4	88625
+楊華勇	joeng4 waa4 jung5	61886
+楊蓉	joeng4 jung4	61886
+楊行密	joeng4 hong2 mat6	67930
+楊詩曼	joeng4 si1 maan6	61886
+楊雅婷	joeng4 ngaa5 ting4	61886
+樂嘉路	ngaau6 gaa1 lou6	61886
+橫枝崗路	waang4 zi1 gong1 lou6	76416
+欣澳道	jan1 ou3 dou6	61886
+歐鎮銘	au1 zan3 ming5	61886
+此花區	ci2 faa1 keoi1	67930
+武夷山市	mou5 ji4 saan1 si5	73532
+殷觀	jan1 gun1	61886
+民康街	man4 hong1 gaai1	165438
+永宗大橋	wing5 zung1 daai6 kiu4	78752
+江榮暉	gong1 wing4 fai1	61886
+江樂士	gong1 ngaau6 si6	61886
+江玉歡	gong1 juk2 fun1	76416
+江蕾	gong1 leoi4	61886
+沈詩鈞	sam2 si1 gwan1	76416
+沙埔鄉	saa1 bou3 hoeng1	76416
+沙浦道	saa1 pou2 dou6	207938
+沙燕橋	saa1 jin3 kiu4	207938
+沸湖	fai3 wu4	61886
+泰武鄉	taai3 mou5 hoeng1	73532
+洋洲	joeng4 zau1	76416
+洛龍區	lok6 lung4 keoi1	67930
+洪祖星	hung4 zou2 sing1	76416
+洪連杉	hung4 lin4 caam3	61886
+洪錫天	hung4 sek3 tin1	61886
+海聯路	hoi2 lyun4 lou6	61886
+淨慧路	zing6 wai3 lou6	61886
+渣甸街	zaa1 din1 gaai1	169473
+港景街	gong2 ging2 gaai1	165438
+潘尼亞瓜	pun1 nei4 aa3 gwaa1	61886
+潘淑嫻	pun1 suk6 haan4	76416
+潘盈慧	pun1 jing4 wai3	61886
+潘連生	pun1 lin4 saang1	61886
+潘雲峰	pun1 wan4 fung1	61886
+潘麗瓊	pun1 lai6 king4	61886
+澄城	cing4 sing4	73532
+烏拉河	wu1 laai1 ho2	67930
+燕翔路	jin3 coeng4 lou6	61886
+牛橋	ngau4 kiu4	76416
+王偉良	wong4 wai5 loeng4	61886
+王光英	wong4 gwong1 jing1	61886
+王嘉廉	wong4 gaa1 lim4	61886
+王坤	wong4 kwan1	61886
+王夫之	wong4 fu1 zi1	76416
+王審知	wong4 sam2 zi1	61886
+王小鳳	wong4 siu2 fung6	61886
+王少萍	wong4 siu2 ping4	61886
+王志康	wong4 zi3 hong1	61886
+王思婷	wong4 si1 ting4	61886
+王攀元	wong4 paan1 jyun4	76416
+王文儒	wong4 man1 jyu4	76416
+王月	wong4 jyut6	61886
+王東泰	wong4 dung1 taai3	61886
+王樂妍	wong4 ngaau6 jin4	67930
+王海濤	wong4 hoi2 tou4	61886
+王澤生	wong4 zaak6 saang1	61886
+王祿江	wong4 luk6 gong1	61886
+王籽	wong4 zi2	76416
+王繼鵬	wong4 gai3 paang4	61886
+王耀瑩	wong4 jiu6 jing4	76416
+王舜義	wong4 seon3 ji6	61886
+王蕙玲	wong4 wai6 ling4	67930
+王謙	wong4 him1	81449
+王雅繁	wong4 ngaa5 faan4	61886
+琳寶區	lam4 bou2 keoi1	61886
+琴橋	kam4 kiu4	76416
+瑪麗港	maa5 lai6 gong2	67930
+田灣山	tin4 waan1 saan1	76416
+畢拿山	bat1 naa4 saan1	76416
+登龍街	dang1 lung4 gaai1	61886
+白楊街	baak6 joeng4 gaai1	188471
+盧倩儀	lou4 sin6 ji4	76416
+盧坎	lou4 kaan2	67930
+盧永強	lou4 wing5 koeng4	81449
+盧海鷹	lou4 hoi2 jing1	76416
+盧華爾河	lou4 waa4 ji5 ho2	61886
+盧觀恆	lou4 gun1 hang4	61886
+相城區	soeng3 sing4 keoi1	61886
+石勒喀河	sek2 lak6 haak3 ho2	76416
+石洲	sek2 zau1	61886
+砂川市	saa1 cyun1 si5	73532
+確山	kok3 saan1	167050
+程皓	cing4 hou6	61886
+簡培如	kaan2 pui4 jyu4	61886
+簡智翔	kaan2 zi3 coeng4	61886
+精河	zing1 ho2	81449
+細山	sai3 saan1	88625
+翠榕橋	ceoi3 jung4 kiu4	207938
+翠河	ceoi3 ho2	162313
+聖亞納堂	sing3 aa3 naap6 tong4	61886
+聖老楞佐堂	sing3 lou5 ling4 zo2 tong4	61886
+聲門	seng1 mun4	61886
+肯特山	hang2 dak6 saan1	76416
+胡兆康	wu4 siu6 hong1	165438
+胡慧中	wu4 wai3 zung1	61886
+胡桐語	wu4 tung4 jyu5	76416
+脢頭	mui4 tau4	76416
+興寧區	hing1 ning4 keoi1	61886
+興漢道	hing1 hon3 dou6	207938
+船景街	syun4 ging2 gaai1	165438
+船營區	syun4 jing4 keoi1	76416
+良口鎮	loeng4 hau2 zan3	61886
+艾森大區	ngaai6 sam1 daai6 keoi1	78752
+英山	jing1 saan1	67930
+華就路	waa4 zau6 lou6	67930
+華穗路	waa4 seoi6 lou6	61886
+華觀路	waa4 gun1 lou6	61886
+落降頭	lok6 gong3 tau4	235119
+葉婷芝	jip6 ting4 zi1	61886
+葉秋語	jip6 cau1 jyu5	61886
+葉賜添	jip6 ci3 tim1	76416
+董玉方	dung2 juk2 fong1	76416
+蔡佩賢	coi3 pui3 jin4	76416
+蔡毅	coi3 ngai6	99154
+蔡科俊	coi3 fo1 zeon3	61886
+蔡雪瑩	coi3 syut3 jing4	61886
+蕭偉強	siu1 wai5 koeng4	76416
+蕭薔	siu1 coeng4	61886
+藍山	laam4 saan1	73532
+蘆竹區	lou4 zuk1 keoi1	61886
+蘇伊俊	sou1 ji1 zeon3	76416
+蘇可	sou1 ho2	61886
+蘇家樂	sou1 gaa1 ngaau6	76416
+蘇拿	sou1 naa4	61886
+蘇欣婷	sou1 jan1 ting4	61886
+蘇澤光	sou1 zaak6 gwong1	61886
+蘇澳鎮	sou1 ou3 zan3	61886
+蘇霖	sou1 lam3	134003
+蘇頌輝	sou1 zung6 fai1	61886
+蘇麟	sou1 leon4	61886
+蘭杜街	laan4 dou6 gaai1	169473
+西成區	sai1 seng4 keoi1	61886
+許乃勝	heoi2 naai5 sing1	88625
+許允	heoi2 wan5	76416
+許凱	heoi2 kaai1	61886
+許文馨	heoi2 man1 hing1	61886
+許榮茂	heoi2 wing4 mau6	61886
+許清安	heoi2 cing1 on1	61886
+許素瑩	heoi2 sou3 jing4	61886
+許華傑	heoi2 waa4 git6	61886
+許麗燕	heoi2 lai6 jin3	61886
+詹氏	zim1 si6	73532
+詹皓晴	zim1 hou6 cing4	61886
+謝國維	ze6 gwok3 wai4	61886
+謝曉陽	ze6 hiu1 joeng4	61886
+譚偉國	taam4 wai5 gwok3	61886
+譚偉權	taam4 wai5 kyun4	61886
+譚凱螢	taam4 kaai1 jing4	61886
+譚家博	taam4 gaa1 bok3	61886
+譚舜而	taam4 seon3 ji4	61886
+讀谷村	duk6 guk1 cyun1	61886
+豐城	fung1 sing4	61886
+豪蘭島	hou4 laan4 dou2	61886
+貴華路	gwai3 waa4 lou6	61886
+趙寅成	ziu6 jan4 seng4	67930
+趟門	tong3 mun4	74019
+輪島	leon4 dou2	73532
+迎澤區	jing4 zaak6 keoi1	67930
+迪比亞路	dik6 bei2 aa3 lou6	61886
+連雲區	lin4 wan4 keoi1	61886
+達維爾灣	daat6 wai4 ji5 waan1	76416
+郭子儀	gwok3 zi2 ji4	67930
+郭美江	gwok3 mei5 gong1	61886
+郭躍	gwok3 joek3	61886
+鄧景煌	dang6 ging2 wong4	76416
+鄧氏玉盛	dang6 si6 juk2 sing6	165438
+鄧永健	dang6 wing5 gin6	61886
+鄭建鵬	zeng6 gin3 paang4	61886
+鄭杞瑤	zeng6 gei2 jiu4	81449
+鄭臨	zeng6 lam4	61886
+鄭詩婷	zeng6 si1 ting4	61886
+鄭雲龍	zeng6 wan4 lung4	76416
+鄺志堅	kwong3 zi3 gin1	61886
+錢乃榮	cin2 naai5 wing4	61886
+錢志庸	cin2 zi3 jung4	61886
+錢慧儀	cin2 wai3 ji4	61886
+錫爾河	sek3 ji5 ho2	81449
+鐘落潭鎮	zung1 lok6 taam4 zan3	76416
+鐵鋒區	tit3 fung1 keoi1	61886
+閻良區	jim4 loeng4 keoi1	73532
+關城路	gwaan1 sing4 lou6	61886
+阮子健	jyun2 zi2 gin6	61886
+阮福明	jyun2 fuk1 ming4	61886
+阮福晃	jyun2 fuk1 fong2	61886
+阿魯巴島	aa3 lou5 baa1 dou2	73532
+陳俊堅	can4 zeon3 gin1	61886
+陳逸敏	can4 jat6 man5	61886
+陶菲克	tou4 fei1 haak1	67930
+陸川縣	luk6 cyun1 jyun6	81449
+陸河	luk6 ho2	61886
+雪村	syut3 cyun1	73532
+韋國洪	wai5 gwok3 hung4	61886
+韓孝周	hon4 haau3 zau1	67930
+韓雅凜	hon4 ngaa5 lam5	78752
+風之宮	fung1 zi1 gung1	61886
+風神大道	fung1 san4 daai6 dou6	76416
+食物銀行	sik6 mat6 ngan4 hong2	61886
+養和堂	joeng5 wu4 tong4	61886
+馮偉衷	fung4 wai5 cung1	76416
+馮沁苑	fung4 sam3 jyun2	76416
+駿景路	zeon3 ging2 lou6	61886
+高天鶴	gou1 tin1 hok6	99154
+高尼路	gou1 nei4 lou6	61886
+高建	gou1 gin3	76416
+高德納	gou1 dak1 naap6	61886
+高曉攀	gou1 hiu1 paan1	76416
+高木禮子	gou1 muk6 lai5 zi2	61886
+高林隆	gou1 lam4 lung4	61886
+高禮澤	gou1 lai5 zaak6	67930
+高維泰	gou1 wai4 taai3	76416
+高誘	gou1 jau5	88625
+高飛哈代	gou1 fei1 haa1 doi6	61886
+鳥松區	niu5 cung4 keoi1	61886
+鹹水角	haam4 seoi2 gok3	88625
+鹿洲	luk2 zau1	61886
+麥保美	mak6 bou2 mei5	76416
+麥瑞權	mak6 seoi6 kyun4	61886
+麻笏河	maa4 wat1 ho2	61886
+龍溪大道	lung4 kai1 daai6 dou6	76416
+龍蟠街	lung4 faan1 gaai1	61886
+龍鳳村	lung4 fung6 cyun1	61886
+龍鼓洲	lung4 gu2 zau1	88625
+龔楊恩慈	gung1 joeng4 jan1 ci4	61886
+龔靜儀	gung1 zing6 ji4	76416
+一本道	jat1 bun2 dou6	50460
+七寶街	cat1 bou2 gaai1	50460
+七尾	cat1 mei1	67088
+三清山	saam1 cing1 saan1	50460
+三渡洲	saam1 dou6 zau1	50460
+三聯市	saam1 lyun4 si5	50460
+三育路	saam1 juk6 lou6	50460
+下尾灣	haa5 mei1 waan1	50460
+丹拿道	daan1 naa4 dou6	67088
+九肚村	gau2 tou5 cyun1	80744
+二鍋頭	ji6 wo1 tau4	50460
+京斯鎮	ging1 si1 zan3	67088
+仙螺島	sin1 lo2 dou2	50460
+伍家怡	ng5 gaa1 ji4	50460
+佐賀市	zo2 ho6 si5	57432
+何佳樂	ho4 gaai1 ngaau6	50460
+何國泉	ho4 gwok3 cyun4	50460
+何天兒	ho4 tin1 ji4	67088
+何家裕	ho4 gaa1 jyu6	50460
+何曉輝	ho4 hiu1 fai1	50460
+何芝君	ho4 zi1 gwan1	50460
+何靜林	ho4 zing6 lam4	50460
+俄塔社	ngo4 taap3 se5	57432
+信華路	seon3 waa4 lou6	50460
+傅洛	fu6 lok6	50460
+傅玉蘭	fu6 juk2 laan4	50460
+僑福道	kiu4 fuk1 dou6	50460
+光市	gwong1 si5	57432
+八尾	baat3 mei1	50460
+八街	baat3 gaai1	50460
+共榮村	gung6 wing4 cyun1	50460
+兼六園	gim1 luk6 jyun4	50460
+冬宮	dung1 gung1	50460
+冷宮	laang1 gung1	50460
+利揚堂	lei6 joeng2 tong4	50460
+利枝道	lei6 zi1 dou6	206343
+劉兆豐	lau4 siu6 fung1	50460
+劉冠佑	lau4 gun1 jau6	63823
+劉冠廷	lau4 gun1 ting4	50460
+劉卓軒	lau4 coek3 hin1	67088
+劉博雍	lau4 bok3 jung1	50460
+劉堅	lau4 gin1	57432
+劉嬰	lau4 jing1	50460
+劉子傑	lau4 zi2 git6	80744
+劉家儀	lau4 gaa1 ji4	50460
+劉富生	lau4 fu3 saang1	50460
+劉寶文	lau4 bou2 man1	67088
+劉彩英	lau4 coi2 jing1	50460
+劉必榮	lau4 bit1 wing4	162638
+劉恭	lau4 gung1	50460
+劉敏儀	lau4 man5 ji4	50460
+劉晉安	lau4 zeon3 on1	50460
+劉根森	lau4 gan1 sam1	50460
+劉樹居	lau4 syu3 geoi1	50460
+劉欣靈	lau4 jan1 ling4	50460
+劉肥	lau4 fei4	80744
+劉虞瑞	lau4 jyu4 seoi6	50460
+劉賀	lau4 ho6	50460
+劉連滿	lau4 lin4 mun5	50460
+劉錫康	lau4 sek3 hong1	50460
+北俱盧洲	bak1 keoi1 lou4 zau1	67088
+北崙二橋	bak1 leon4 ji6 kiu4	50460
+北關區	bak1 gwaan1 keoi1	67088
+十皇殿	sap6 wong4 din6	50460
+南風洲	naam4 fung1 zau1	50460
+厄爾巴島	ak1 ji5 baa1 dou2	67088
+原州區	jyun4 zau1 keoi1	67088
+友和路	jau5 wu4 lou6	50460
+古俁健次	gu2 jyu5 gin6 ci3	50460
+古揚邦	gu2 joeng2 bong1	50460
+古氏	gu2 si6	72749
+古螺城	gu2 lo2 sing4	67088
+古谷徹	gu2 guk1 cit3	72749
+召陵區	ziu6 ling4 keoi1	50460
+右區	jau6 keoi1	50460
+吉州區	gat1 zau1 keoi1	57432
+吳亭欣	ng4 ting2 jan1	50460
+吳偉英	ng4 wai5 jing1	50460
+吳天顯	ng4 tin1 hin2	50460
+吳寶強	ng4 bou2 koeng4	50460
+吳慶康	ng4 hing3 hong1	67088
+吳換炎	ng4 wun6 jim4	50460
+吳文傑	ng4 man1 git6	50460
+吳樂俊	ng4 ngaau6 zeon3	67088
+吳永順	ng4 wing5 seon6	50460
+吳漢章	ng4 hon3 zoeng1	50460
+吳燕芳	ng4 jin3 fong1	50460
+吳碧霞	ng4 bik1 haa4	50460
+吳頌今	ng4 zung6 gam1	50460
+呂君昌	leoi5 gwan1 coeng1	57432
+呂慧瑜	leoi5 wai3 jyu4	50460
+呂東孩	leoi5 dung1 haai4	50460
+呂比須	leoi5 bei2 seoi1	50460
+呂田鎮	leoi5 tin4 zan3	50460
+呂耀東	leoi5 jiu6 dung1	50460
+周伯展	zau1 baak3 zin2	50460
+周偉強	zau1 wai5 koeng4	50460
+周偉雄	zau1 wai5 hung4	162638
+周厚立	zau1 hau5 laap6	67088
+周子馨	zau1 zi2 hing1	122841
+周安達源	zau1 on1 daat6 jyun4	50460
+周思中	zau1 si1 zung1	67088
+周旭明	zau1 juk1 ming4	80744
+周潔儀	zau1 git3 ji4	50460
+周潔穎	zau1 git3 wing6	50460
+周玉蔻	zau1 juk2 kau3	80744
+周美欣	zau1 mei5 jan1	50460
+周美鳳	zau1 mei5 fung6	50460
+味之道	mei6 zi1 dou6	67088
+咪頭	mai6 tau4	50460
+唐區	tong4 keoi1	63823
+唐嘉麟	tong4 gaa1 leon4	50460
+唐子涵	tong4 zi2 haam4	50460
+唐榮敏	tong4 wing4 man5	50460
+唐浩嘉	tong4 hou6 gaa1	67088
+唐達	tong4 daat6	50460
+唱頭	coeng3 tau4	50460
+喜臨門	hei2 lam4 mun4	50460
+嘉御山	gaa1 jyu6 saan1	50460
+嘉慧園	gaa1 wai3 jyun4	186408
+坡頭	bo1 tau4	50460
+坦噶尼喀湖	taan2 gaa1 nei4 haak3 wu4	50460
+埃納河	aai1 naap6 ho2	63823
+城陽區	sing4 joeng4 keoi1	50460
+大東市	daai6 dung1 si5	50460
+大角灣	daai6 gok3 waan1	50460
+天慈路	tin1 ci4 lou6	67088
+奈何橋	noi6 ho4 kiu4	50460
+奉賢區	fung6 jin4 keoi1	50460
+奧涅加湖	ou3 nip6 gaa1 wu4	50460
+奧蘭島	ou3 laan4 dou2	50460
+姚兵	jiu4 bing1	50460
+姚嘉俊	jiu4 gaa1 zeon3	57432
+姚國威	jiu4 gwok3 wai1	50460
+姚氏	jiu4 si6	72749
+姜亞兵	goeng1 aa3 bing1	50460
+姜成妍	goeng1 seng4 jin4	50460
+姜知英	goeng1 zi1 jing1	50460
+姜美兒	goeng1 mei5 ji4	50460
+孫千平	syun1 cin1 peng4	50460
+孫循徽	syun1 ceon4 fai1	206343
+孫志義	syun1 zi3 ji6	50460
+孫振福	syun1 zan3 fuk1	50460
+孫浩俊	syun1 hou6 zeon3	57432
+孫興	syun1 hing1	50460
+孫衣文	syun1 ji3 man1	50460
+宇部	jyu5 bou6	67088
+安加拉河	on1 gaa1 laai1 ho2	50460
+安德路	on1 dak1 lou6	57432
+安蘭街	on1 laan4 gaai1	50460
+宋欣橋	sung3 jan1 kiu4	208735
+宜秀區	ji4 sau3 keoi1	50460
+富美街	fu3 mei5 gaai1	50460
+寒亭區	hon4 ting2 keoi1	50460
+寶豐路	bou2 fung1 lou6	92331
+射龍門	se6 lung4 mun4	162638
+小潭山	siu2 taam4 saan1	50460
+尼日河	nei4 jat6 ho2	57432
+岑尚哲	sam4 soeng6 zit3	50460
+岑氏	sam4 si6	50460
+巴芬灣	baa1 fan1 waan1	50460
+布吉市	bou3 gat1 si5	50460
+帝景園	dai3 ging2 jyun4	162638
+師任堂	si1 jam6 tong4	50460
+平橋區	peng4 kiu4 keoi1	50460
+平魯區	peng4 lou5 keoi1	67088
+廖凡	liu6 faan4	50460
+廖家爵	liu6 gaa1 zoek3	50460
+廖舜禧	liu6 seon3 hei1	67088
+廟街	miu2 gaai1	162638
+廣佛河	gwong2 fat6 ho2	50460
+廣南縣	gwong2 naam4 jyun6	57432
+張可義	zoeng1 ho2 ji6	50460
+張嘉琳	zoeng1 gaa1 lam4	50460
+張嘉輝	zoeng1 gaa1 fai1	50460
+張大大	zoeng1 daai6 daai6	50460
+張天穎	zoeng1 tin1 wing6	67088
+張奕敏	zoeng1 jik6 man5	50460
+張子賢	zoeng1 zi2 jin4	50460
+張定涵	zoeng1 ding6 haam4	57432
+張家瑩	zoeng1 gaa1 jing4	50460
+張常寧	zoeng1 soeng4 ning4	50460
+張店區	zoeng1 dim3 keoi1	50460
+張志祥	zoeng1 zi3 coeng4	50460
+張明傑	zoeng1 ming4 git6	50460
+張洛蔚	zoeng1 lok6 wai3	67088
+張瀾瀾	zoeng1 laan4 laan4	67088
+張碩輔	zoeng1 sek6 fu6	162638
+張福元	zoeng1 fuk1 jyun4	67088
+張秀葉	zoeng1 sau3 jip6	67088
+張維洲	zoeng1 wai4 zau1	80744
+張莉莎	zoeng1 lei6 saa1	80744
+張萍	zoeng1 ping4	67088
+張蓉芳	zoeng1 jung4 fong1	50460
+張藝洋	zoeng1 ngai6 joeng4	50460
+張詩盈	zoeng1 si1 jing4	67088
+張越紅	zoeng1 jyut6 hung4	50460
+張逸帆	zoeng1 jat6 faan4	50460
+張錫容	zoeng1 sek3 jung4	57432
+張靜婷	zoeng1 zing6 ting4	50460
+張鵬	zoeng1 paang4	50460
+彩興路	coi2 hing1 lou6	50460
+彭凱源	paang4 kaai1 jyun4	50460
+彭家傑	paang4 gaa1 git6	50460
+往灣	wong5 waan1	50460
+徐仁國	ceoi4 jan4 gwok3	57432
+徐匡迪	ceoi4 hong1 dik6	67088
+徐康俊	ceoi4 hong1 zeon3	72749
+徐心怡	ceoi4 sam1 ji4	50460
+徐惠芬	ceoi4 wai6 fan1	50460
+徐玄振	ceoi4 jyun4 zan3	50460
+徐穗珍	ceoi4 seoi6 zan1	50460
+徐菁遙	ceoi4 cing1 jiu4	50460
+徐階	ceoi4 gaai1	50460
+德島市	dak1 dou2 si5	50460
+必發道	bit1 faat3 dou6	50460
+息縣	sak1 jyun6	57432
+惠庭市	wai6 ting4 si5	50460
+愛園	oi3 jyun4	162638
+斯蘭島	si1 laan4 dou2	57432
+方俊傑	fong1 zeon3 git6	50460
+方榮發	fong1 wing4 faat3	162638
+方氏	fong1 si6	67088
+方聞	fong1 man4	50460
+施俊輝	si1 zeon3 fai1	50460
+施家倫	si1 gaa1 leon4	50460
+施文	si1 man1	50460
+施立	si1 laap6	67088
+施維斯達	si1 wai4 si1 daat6	50460
+施麗珊	si1 lai6 saan1	162638
+日向市	jat6 hoeng3 si5	50460
+日野市	jat6 je5 si5	57432
+昆市	kwan1 si5	63823
+明遠堂	ming4 jyun5 tong4	50460
+星匯園	sing1 wui6 jyun4	67088
+曹凱喬	cou4 kaai1 kiu4	67088
+曹英發	cou4 jing1 faat3	50460
+曹軒賓	cou4 hin1 ban1	50460
+曾志文	cang4 zi3 man1	50460
+曾浩輝	cang4 hou6 fai1	50460
+曾雅鈴	cang4 ngaa5 ling4	50460
+朱仲八	zyu1 zung6 baat3	50460
+朱偉倫	zyu1 wai5 leon4	50460
+朱希敏	zyu1 hei1 man5	50460
+朱拉士	zyu1 laai1 si6	50460
+朱浩賢	zyu1 hou6 jin4	50460
+朱爾古迪	zyu1 ji5 gu2 dik6	50460
+朱福強	zyu1 fuk1 koeng4	50460
+朱立威	zyu1 laap6 wai1	50460
+朱經武	zyu1 ging1 mou5	50460
+朱蒙	zyu1 mung4	67088
+朱韻韻	zyu1 wan5 wan5	50460
+朱麗玲	zyu1 lai6 ling4	50460
+朱鼎健	zyu1 ding2 gin6	50460
+李一桐	lei5 jat1 tung4	50460
+李世真	lei5 sai3 zan1	50460
+李乾順	lei5 gon1 seon6	50460
+李偉強	lei5 wai5 koeng4	50460
+李克明	lei5 haak1 ming4	67088
+李善彬	lei5 sin6 ban1	50460
+李善敏	lei5 sin6 man5	50460
+李嘉慧	lei5 gaa1 wai3	50460
+李嘉美	lei5 gaa1 mei5	50460
+李嘉耀	lei5 gaa1 jiu6	50460
+李嘉進	lei5 gaa1 zeon3	50460
+李嘉麗	lei5 gaa1 lai6	67088
+李國興	lei5 gwok3 hing1	50460
+李壽哲	lei5 sau6 zit3	50460
+李娟	lei5 gyun1	50460
+李宜娟	lei5 ji4 gyun1	50460
+李寶龍路	lei5 bou2 lung4 lou6	67088
+李律仁	lei5 leot6 jan4	50460
+李慧嫻	lei5 wai3 haan4	50460
+李應生	lei5 jing1 saang1	67088
+李承仕	lei5 sing4 si6	50460
+李承哲	lei5 sing4 zit3	50460
+李文傑	lei5 man1 git6	50460
+李昇基	lei5 sing1 gei1	63823
+李明柱	lei5 ming4 cyu5	50460
+李李嘉麗	lei5 lei5 gaa1 lai6	50460
+李武龍	lei5 mou5 lung4	50460
+李永富	lei5 wing5 fu3	50460
+李浩菲	lei5 hou6 fei1	67088
+李漢偉	lei5 hon3 wai5	50460
+李潔瑩	lei5 git3 jing4	67088
+李玉	lei5 juk2	50460
+李理	lei5 lei5	50460
+李相赫	lei5 soeng3 haak1	50460
+李祿	lei5 luk6	50460
+李穎琳	lei5 wing6 lam4	50460
+李素妍	lei5 sou3 jin4	50460
+李細燕	lei5 sai3 jin3	50460
+李耀滋	lei5 jiu6 zi1	50460
+李耀輝	lei5 jiu6 fai1	50460
+李菊	lei5 guk1	67088
+李賞	lei5 soeng2	50460
+李進秋	lei5 zeon3 cau1	67088
+李雲在	lei5 wan4 zoi6	50460
+李鶴彪	lei5 hok6 biu1	80744
+杜詩雅	dou6 si1 ngaa5	50460
+東寶區	dung1 bou2 keoi1	162638
+東寺	dung1 zi2	67088
+東平縣	dung1 peng4 jyun6	50460
+東廣島	dung1 gwong2 dou2	57432
+東營區	dung1 jing4 keoi1	57432
+松浦村	cung4 pou2 cyun1	50460
+林佩瑜	lam4 pui3 jyu4	67088
+林偉江	lam4 wai5 gong1	50460
+林全	lam4 cyun4	50460
+林呈風	lam4 cing4 fung1	50460
+林哲玄	lam4 zit3 jyun4	50460
+林小湛	lam4 siu2 zaam3	50460
+林影紅	lam4 jing2 hung4	50460
+林志堅	lam4 zi3 gin1	50460
+林柱機	lam4 cyu5 gei1	50460
+林樹哲	lam4 syu3 zit3	50460
+林浩銘	lam4 hou6 ming5	67088
+林燕祝	lam4 jin3 zuk1	50460
+林玉鳳	lam4 juk2 fung6	50460
+林玥	lam4 jyut6	50460
+林繼賢	lam4 gai3 jin4	50460
+林謀泉	lam4 mau4 cyun4	80744
+林道權	lam4 dou6 kyun4	50460
+林鼓子	lam4 gu2 zi2	50460
+柏傲灣	paak3 ngou6 waan1	50460
+柏打路	paak3 daa1 lou6	50460
+柯城區	o1 sing4 keoi1	50460
+桃村	tou4 cyun1	50460
+梁佩詩	loeng4 pui3 si1	50460
+梁健怡	loeng4 gin6 ji4	50460
+梁兆基	loeng4 siu6 gei1	50460
+梁兆新	loeng4 siu6 san1	50460
+梁冠華	loeng4 gun1 waa4	50460
+梁善知	loeng4 sin6 zi1	67088
+梁嘉駿	loeng4 gaa1 zeon3	67088
+梁嘉麗	loeng4 gaa1 lai6	50460
+梁婉靜	loeng4 jyun2 zing6	50460
+梁學銘	loeng4 hok6 ming5	50460
+梁志榮	loeng4 zi3 wing4	50460
+梁永鏗	loeng4 wing5 hang1	67088
+梁泰來	loeng4 taai3 lai4	67088
+梁碧友	loeng4 bik1 jau5	50460
+梁芒	loeng4 mong1	50460
+梁裕恆	loeng4 jyu6 hang4	50460
+梁錦堂	loeng4 gam2 tong4	67088
+梁麟	loeng4 leon4	50460
+梅坑鎮	mui4 haang1 zan3	50460
+梅維爾島	mui4 wai4 ji5 dou2	50460
+棉登徑	min4 dang1 ging3	162638
+楊佩婷	joeng4 pui3 ting4	50460
+楊佳瑞	joeng4 gaai1 seoi6	67088
+楊倩玉	joeng4 sin6 juk2	50460
+楊嘉成	joeng4 gaa1 seng4	50460
+楊子樸	joeng4 zi2 pok3	57432
+楊政龍	joeng4 zing3 lung4	50460
+楊秉頤	joeng4 bing2 ji4	67088
+楊穎彪	joeng4 wing6 biu1	50460
+楊詩蒂	joeng4 si1 dai3	50460
+楊達	joeng4 daat6	50460
+楚山	co2 saan1	67088
+模達灣	mou4 daat6 waan1	50460
+歐亞美創	au1 aa3 mei5 cong3	50460
+武珞路	mou5 lok3 lou6	166819
+歷下區	lik6 haa5 keoi1	50460
+歷城區	lik6 sing4 keoi1	50460
+段部	dyun6 bou6	50460
+比奧科島	bei2 ou3 fo1 dou2	50460
+民雄鄉	man4 hung4 hoeng1	50460
+汝矣島	jyu5 ji5 dou2	63823
+江津市	gong1 zeon1 si5	50460
+江漢區	gong1 hon3 keoi1	50460
+江玉珠	gong1 juk2 zyu1	50460
+江連浩	gong1 lin4 hou6	50460
+沈仲平	sam2 zung6 peng4	50460
+沈凌	sam2 ling4	50460
+沈志亮	sam2 zi3 loeng6	50460
+沈錫希	sam2 sek3 hei1	50460
+河傍路	ho2 pong4 lou6	50460
+河大區	ho2 daai6 keoi1	57432

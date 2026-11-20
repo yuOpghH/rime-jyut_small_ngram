@@ -1,0 +1,51 @@
+# 範例：把模型與附加詞庫接到「你自己的」方案
+#
+# 用法：把下面內容改個名字，貼進你的 <你的方案>.custom.yaml（或直接寫進 .schema.yaml）。
+# 貼完務必重新部署，並照 INTEGRATE.md §5 驗證模型是否載入。
+#
+# 下面用「your_scheme」代稱你的方案，請全部換成實際名稱。
+
+patch:
+  # ─────────────────────────────────────────────
+  # 1) 語言模型：兩個模型選一個掛（同一個方案只能有一個 grammar 段）
+  #    詞級：language: jyut      ⇔  用戶目錄要有 jyut.gram
+  #    字級：language: jyut_char ⇔  用戶目錄要有 jyut_char.gram
+  #    前提：translator 的 enable_sentence 必須是 true
+  # ─────────────────────────────────────────────
+  grammar:
+    language: jyut          # 改用字級模型時改成 jyut_char
+    collocation_max_length: 5
+    collocation_min_length: 2
+    collocation_penalty: -15
+    non_collocation_penalty: -5
+    weak_collocation_penalty: -100
+    rear_penalty: -18
+
+  # ─────────────────────────────────────────────
+  # 2) 選項一：附加層 translator（不動你的主詞庫）
+  #    注意：initial_quality 是固定偏移，擋不住權重尺度差 2–3 個數量級的詞表。
+  #    掛之前先量你自己的權重範圍，見 INTEGRATE.md §2 A。
+  # ─────────────────────────────────────────────
+  engine/translators/+:
+    - script_translator@yue_extra
+
+  yue_extra:
+    tag: abc
+    dictionary: jyut_small_basic
+    enable_sentence: false
+    enable_completion: false
+    enable_encoder: false
+    enable_user_dict: false
+    initial_quality: -5
+    spelling_hints: 10
+
+  # ─────────────────────────────────────────────
+  # 3) 選項二：只加模型，不加任何詞庫（最保守）
+  #    若選這個，把上面 2) 那一整段刪掉，只留 grammar。
+  # ─────────────────────────────────────────────
+
+  # ─────────────────────────────────────────────
+  # 4) 若你用 table_translator 而非 script_translator
+  #    把 script_translator@yue_extra 改成 table_translator@yue_extra，
+  #    並確認主詞庫碼格式與 jyut_small_basic 相同（帶調粵拼）。
+  # ─────────────────────────────────────────────

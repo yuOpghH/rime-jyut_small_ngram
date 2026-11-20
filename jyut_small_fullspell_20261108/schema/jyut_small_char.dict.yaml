@@ -1,0 +1,16 @@
+# Rime prism dictionary: jyut_small_char
+---
+name: jyut_small_char
+version: "1.0"
+sort: by_weight
+import_tables:
+  - jyut_small_chars
+  - jyut_small_basic
+  - jyut_small_association
+  - jyut_small_mispronounced
+  - jyut_small_placenames
+  - jyut_small_written
+  - jyut_small_collocation
+# - jyut_small_longtail
+  - jyut_small_local
+...

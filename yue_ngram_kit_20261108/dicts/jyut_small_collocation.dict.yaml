@@ -1,0 +1,410 @@
+# 搭配詞層（語料中真實連續的 3–5 字跨詞片段）
+---
+name: jyut_small_collocation
+version: "1.0"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+...
+一個市鎮	jat1 go3 si5 zan3	828045
+係法國	hai6 faat3 gwok3	698201
+足球員	zuk1 kau4 jyun4	724561
+係日本	hai6 jat6 bun2	758955
+日本足	jat6 bun2 zuk1	688713
+日本足球員	jat6 bun2 zuk1 kau4 jyun4	687870
+無綫電視	mou4 sin3 din6 si6	806436
+人民共和國	jan4 man4 gung6 wo4 gwok3	829843
+運動員	wan6 dung6 jyun4	850000
+中華人民	zung1 waa4 jan4 man4	827877
+的一個	dik1 jat1 go3	848963
+廣州市	gwong2 zau1 si5	804577
+政治人物	zing3 zi6 jan4 mat2	808269
+年開始	nin4 hoi1 ci2	804928
+中國廣東	zung1 gwok3 gwong2 dung1	749655
+係日本足	hai6 jat6 bun2 zuk1	685219
+呢個站	ni1 go3 zaam6	797596
+都可以	dou1 ho2 ji5	788475
+係中國廣東	hai6 zung1 gwok3 gwong2 dung1	737163
+運動會	wan6 dung6 wui5	815882
+第一個	dai6 jat1 go3	797724
+年人口	nin4 jan4 hau2	830719
+女藝人	neoi2 ngai6 jan4	710627
+親中派	can1 zung1 paai3	752540
+總面積	zung2 min6 zik1	779799
+政治人	zing3 zi6 jan4	731140
+女演員	neoi2 jin2 jyun4	784116
+一個女	jat1 go3 neoi2	680324
+的一個市鎮	dik1 jat1 go3 si5 zan3	827877
+中國共產黨	zung1 gwok3 gung6 caan2 dong2	802432
+是一個	si6 jat1 go3	824305
+係台灣	hai6 toi4 waan1	756548
+負責管轄	fu6 zaak3 gun2 hat6	823492
+香港電視	hoeng1 gong2 din6 si6	759320
+香港無綫	hoeng1 gong2 mou4 sin3	742526
+中國人民	zung1 gwok3 jan4 man4	821942
+上法蘭西	soeng5 faat3 laan1 sai1	822875
+年成立	nin4 sing4 laap6	779590
+男藝人	naam4 ngai6 jan4	692658
+粵語拼音	jyut6 jyu5 ping3 jam1	669428
+年香港	nin4 hoeng1 gong2	778094
+香港語言學	hoeng1 gong2 jyu5 jin4 hok6	646737
+語言學學會	jyu5 jin4 hok6 hok6 wui2	646737
+分佈於	fan1 bou3 jyu1	819744
+頒獎典禮	baan1 zoeng2 din2 lai5	754530
+號開始	hou6 hoi1 ci2	770527
+香港親中	hoeng1 gong2 can1 zung1	700688
+法國上	faat3 gwok3 soeng5	820023
+位於中國	wai6 jyu1 zung1 gwok3	818702
+亦可以	jik6 ho2 ji5	758709
+面積約	min6 zik1 joek3	817056
+世紀初	sai3 gei2 co1	766665
+例如係	lai6 jyu4 hai6	751050
+廣東廣州	gwong2 dung1 gwong2 zau1	718438
+情況下	cing4 fong3 haa5	784546
+香港電影	hoeng1 gong2 din6 jing2	751951
+官方網站	gun1 fong1 mong5 zaam6	771758
+是法國	si6 faat3 gwok3	818145
+同其他	tung4 kei4 taa1	776458
+分別係	fan1 bit6 hai6	762236
+有唔少	jau5 m4 siu2	773530
+一個位於	jat1 go3 wai6 jyu1	816728
+人民解放軍	jan4 man4 gaai2 fong3 gwan1	817704
+另一個	ling6 jat1 go3	778671
+的其中	dik1 kei4 zung1	816678
+的衞星	dik1 wai6 sing1	816474
+入面有	jap6 min6 jau5	759320
+的城鎮	dik1 sing4 zan3	815095
+面積約為	min6 zik1 joek3 wai6	814776
+可能會	ho2 nang4 wui5	774665
+足球代表隊	zuk1 kau4 doi6 biu2 deoi2	729534
+武漢肺炎	mou5 hon3 fai3 jim4	773032
+年嗰陣	nin4 go2 zan6	719532
+男演員	naam4 jin2 jyun4	738041
+世界大戰	sai3 gaai3 daai6 zin3	786736
+香港演員	hoeng1 gong2 jin2 jyun4	682361
+香港歌手	hoeng1 gong2 go1 sau2	723286
+改名做	goi2 meng2 zou6	772949
+電視節目	din6 si6 zit3 muk6	767451
+湖南衞	wu4 naam4 wai6	765247
+湖南衞視	wu4 naam4 wai6 si6	765247
+香港立法會	hoeng1 gong2 laap6 faat3 wui2	753548
+國際機場	gwok3 zai3 gei1 coeng4	775456
+棲息在	cai1 sik1 zoi6	809954
+製作人	zai3 zok3 jan4	761097
+科學家	fo1 hok6 gaa1	773940
+的人口	dik1 jan4 hau2	809493
+可以指	ho2 ji5 zi2	759320
+年夏季	nin4 haa6 gwai3	798482
+有可能	jau5 ho2 nang4	765351
+頒獎禮	baan1 zoeng2 lai5	730613
+足球聯賽	zuk1 kau4 lyun4 coi3	757960
+是一個位於	si6 jat1 go3 wai6 jyu1	808045
+廣東省廣州	gwong2 dung1 saang2 gwong2 zau1	736035
+省廣州	saang2 gwong2 zau1	736035
+世界上	sai3 gaai3 soeng5	773612
+副主席	fu3 zyu2 zik6	776986
+又或者	jau6 waak6 ze2	759320
+係廣州	hai6 gwong2 zau1	754112
+電視藝員	din6 si6 ngai6 jyun4	729260
+之後就	zi1 hau6 zau6	776152
+一個縣	jat1 go3 jyun6	669428
+屆香港	gaai3 hoeng1 gong2	745828
+的市鎮	dik1 si5 zan3	806469
+海峽省	hoi2 haap6 saang2	807298
+係香港電視	hai6 hoeng1 gong2 din6 si6	727568
+時的人口	si4 dik1 jan4 hau2	806132
+省的一個	saang2 dik1 jat1 go3	806166
+電子遊戲	din6 zi2 jau4 hei3	754668
+同香港	tung4 hoeng1 gong2	762124
+自己的	zi6 gei2 dik1	800033
+民主黨	man4 zyu2 dong2	772443
+中國廣東省	zung1 gwok3 gwong2 dung1 saang2	732426
+省廣州市	saang2 gwong2 zau1 si5	733424
+年出道	nin4 ceot1 dou6	707769
+曾經係	cang4 ging1 hai6	754668
+認為係	jing6 wai4 hai6	762124
+人口數量	jan4 hau2 sou3 loeng6	803755
+立法會議員	laap6 faat3 wui2 ji5 jyun4	750591
+接壤的	zip3 joeng6 dik1	802804
+係中華	hai6 zung1 waa4	729534
+物理學家	mat6 lei5 hok6 gaa1	749969
+年在位	nin4 zoi6 wai6	694836
+所屬的	so2 suk6 dik1	801019
+最出名	zeoi3 ceot1 meng2	746694
+香港女	hoeng1 gong2 neoi2	719171
+金曲獎	gam1 kuk1 zoeng2	746003
+電影演員	din6 jing2 jin2 jyun4	728141
+係中國大陸	hai6 zung1 gwok3 daai6 luk6	750591
+電視廣播	din6 si6 gwong2 bo3	740958
+係中華人民	hai6 zung1 waa4 jan4 man4	726691
+隻遊戲	zek3 jau4 hei3	721965
+被稱為	pei5 cing1 wai4	781956
+年上畫	nin4 soeng5 waa2	691902
+發生過	faat3 sang1 gwo3	687870
+足球會	zuk1 kau4 wui2	733669
+基金會	gei1 gam1 wui5	765963
+區議會選舉	keoi1 ji5 wui2 syun2 geoi2	766566
+已經有	ji5 ging1 jau5	763012
+最受歡迎	zeoi3 sau6 fun1 jing4	723609
+的城市	dik1 sing4 si5	797851
+由香港	jau2 hoeng1 gong2	757453
+舊市鎮	gau6 si5 zan3	797510
+係世界	hai6 sai3 gaai3	752831
+演員同	jin2 jyun4 tung4	693398
+數量為人	sou3 loeng6 wai4 jan4	797209
+郵政編碼	jau4 zing3 pin1 maa5	796600
+足球運動	zuk1 kau4 wan6 dung6	789502
+接壤的市鎮	zip3 joeng6 dik1 si5 zan3	797036
+羅馬天主教	lo4 maa5 tin1 zyu2 gaau3	745652
+同一個	tung4 jat1 go3	756285
+節目主持	zit3 muk6 zyu2 ci4	736263
+英文叫	jing1 man2 giu3	747205
+重可以	cung4 ho2 ji5	721286
+美國電影	mei5 gwok3 din6 jing2	737384
+年起好	nin4 hei2 hou2	727278
+是法國上	si6 faat3 gwok3 soeng5	796468
+總人口	zung2 jan4 hau2	784301
+歷史上	lik6 si2 soeng5	768694
+到而家	dou3 ji4 gaa1	752686
+係香港無綫	hai6 hoeng1 gong2 mou4 sin3	722961
+藝術家	ngai6 seot6 gaa1	771148
+的人口數量	dik1 jan4 hau2 sou3 loeng6	795980
+被認為	pei5 jing6 wai4	777802
+指一個	zi2 jat1 go3	701284
+足球運動員	zuk1 kau4 wan6 dung6 jyun4	788200
+呢件事	nei1 gin6 si6	776305
+一個屬	jat1 go3 suk6	758585
+或舊市鎮	waak6 gau6 si5 zan3	794938
+選區為	syun2 keoi1 wai6	794846
+第二個	dai6 ji6 go3	753831
+呢個名	ni1 go3 meng2	752540
+為日本	wai6 jat6 bun2	716146
+於時的	jyu1 si4 dik1	794615
+於時的人口	jyu1 si4 dik1 jan4 hau2	794615
+廿世紀	jaa6 sai3 gei2	732928
+年加入	nin4 gaa1 jap6	765862
+又可以	jau6 ho2 ji5	729807
+的湖泊	dik1 wu4 pok3	793534
+美國演員	mei5 gwok3 jin2 jyun4	749337
+先可以	sin1 ho2 ji5	748694
+編碼為	pin1 maa5 wai6	818582
+郵政編碼為	jau4 zing3 pin1 maa5 wai6	793198
+市鎮編碼	si5 zan3 pin1 maa5	793150
+市鎮編碼為	si5 zan3 pin1 maa5 wai6	793150
+創辦人	cong3 baan6 jan4	737163
+同演員	tung4 jin2 jyun4	682361
+的郵政	dik1 jau4 zing3	793005
+距離首府	keoi5 lei4 sau2 fu2	792517
+廣州地鐵	gwong2 zau1 dei6 tit3	735805
+香港新界	hoeng1 gong2 san1 gaai3	720244
+的郵政編碼	dik1 jau4 zing3 pin1 maa5	792859
+總統選舉	zung2 tung2 syun2 geoi2	742908
+音樂會	jam1 ngok6 wui5	739320
+委員會委員	wai2 jyun4 wui2 wai2 jyun4	764200
+兩個人	loeng2 go3 jan4	756021
+香港藝人	hoeng1 gong2 ngai6 jan4	687007
+參賽者	caam1 coi3 ze2	741158
+第一屆	dai6 jat1 gaai3	761443
+畢業後	bat1 jip6 hau6	769896
+領導人	ling5 dou6 jan4	762792
+金曲頒獎	gam1 kuk1 baan1 zoeng2	705205
+台灣歌手	toi4 waan1 go1 sau2	716538
+地區的	dei6 keoi1 dik1	790292
+可以有	ho2 ji5 jau5	734634
+英國倫敦	jing1 gwok3 leon4 deon1	765862
+錦標賽	gam2 biu1 coi3	766764
+香港九龍	hoeng1 gong2 gau2 lung4	716146
+通常會	tung1 soeng4 wui5	733424
+號舉行	hou6 geoi2 hang4	723929
+號正式	hou6 zing3 sik1	746523
+流行音樂	lau4 hang4 jam1 ngok6	748368
+美國總統	mei5 gwok3 zung2 tung2	733913
+電影導演	din6 jing2 dou6 jin2	743846
+所以就	so2 ji5 zau6	743098
+張專輯	zoeng1 zyun1 cap1	748040
+就開始	zau6 hoi1 ci2	763880
+月開始	jyut6 hoi1 ci2	757068
+立法會選舉	laap6 faat3 wui2 syun2 geoi2	747874
+神經細胞	san4 ging1 sai3 baau1	737384
+音樂製作	jam1 ngok6 zai3 zok3	713278
+最重要	zeoi3 zung6 jiu3	755215
+中國人	zung1 gwok3 jan4	752394
+年推出	nin4 teoi1 ceot1	739320
+同時亦	tung4 si4 jik6	749337
+棲息深度	cai1 sik1 sam1 dou6	788310
+係香港女	hai6 hoeng1 gong2 neoi2	709699
+同政治	tung4 zing3 zi6	714121
+中國內地	zung1 gwok3 noi6 dei6	744214
+亦都有	jik6 dou1 jau5	743474
+國會議員	gwok3 wui2 ji5 jyun4	777802
+前身係	cin4 san1 hai6	741751
+就已經	zau6 ji5 ging1	754252
+年美國	nin4 mei5 gwok3	744579
+電視娛樂	din6 si6 jyu4 lok6	701870
+有機會	jau5 gei1 wui6	747708
+同中國	tung4 zung1 gwok3	747035
+數學家	sou3 hok6 gaa1	738472
+議院議員	ji5 jyun2 ji5 jyun4	744214
+呢隻歌	nei1 zek3 go1	743474
+香港同	hoeng1 gong2 tung4	744579
+但由於	daan6 jau4 jyu1	764306
+訓練班	fan3 lin6 baan1	747373
+音樂家	jam1 ngok6 gaa1	758086
+但因為	daan6 jan1 wai6	756548
+而呢個	ji4 ni1 go3	744214
+係馬來西亞	hai6 maa5 loi4 sai1 aa3	736940
+用嚟做	jung6 lai4 zou6	721627
+數據庫	sou3 geoi3 fu3	724247
+日本足球	jat6 bun2 zuk1 kau4	655949
+位於法國	wai6 jyu1 faat3 gwok3	784424
+屆全國	gaai3 cyun4 gwok3	763449
+一個月	jat1 go3 jyut6	752831
+古希臘	gu2 hei1 laap6	746003
+盃冠軍	bui1 gun3 gwan1	710166
+香港出世	hoeng1 gong2 ceot1 sai3	739528
+聯賽冠軍	lyun4 coi3 gun3 gwan1	731140
+音樂人	jam1 ngok6 jan4	725183
+總共有	zung2 gung6 jau5	735805
+有超過	jau5 ciu1 gwo3	740352
+可以做	ho2 ji5 zou6	726986
+熱帶風暴	jit6 daai3 fung1 bou6	732426
+國民政府	gwok3 man4 zing3 fu2	764412
+年參加	nin4 caam1 gaa1	753972
+羅馬帝國	lo4 maa5 dai3 gwok3	738472
+海峽省的	hoi2 haap6 saang2 dik1	783368
+都會有	dou1 wui6 jau5	731140
+每一個	mui5 jat1 go3	738472
+國家同	gwok3 gaa1 tung4	701284
+到香港	dou3 hoeng1 gong2	751202
+被視為	pei5 si6 wai4	758086
+過程中	gwo3 cing4 zung1	765658
+足球隊	zuk1 kau4 deoi2	746003
+係澳門	hai6 ou3 mun2	721286
+歌手同	go1 sau2 tung4	679262
+為法國	wai6 faat3 gwok3	781759
+東南部	dung1 naam4 bou6	769346
+間學校	gaan1 hok6 haau6	744760
+香港男	hoeng1 gong2 naam4	705205
+仲可以	zung6 ho2 ji5	728983
+獎得主	zoeng2 dak1 zyu2	713278
+巡迴演唱會	ceon4 wui4 jin2 coeng3 wui2	735805
+中國國民黨	zung1 gwok3 gwok3 man4 dong2	756548
+舉行的	geoi2 hang4 dik1	779520
+程式語言	cing4 sik1 jyu5 jin4	721627
+神經網絡	san4 ging1 mong5 lok6	726395
+區入面	keoi1 jap6 min6	717690
+係中華民國	hai6 zung1 waa4 man4 gwok3	722632
+同地區	tung4 dei6 keoi1	696892
+係俄羅斯	hai6 ngo4 lo4 si1	680324
+係太陽系	hai6 taai3 joeng4 hai6	657931
+一開始	jat1 hoi1 ci2	750281
+漫畫家	maan6 waa2 gaa1	733424
+東北部	dung1 bak1 bou6	763557
+年期間	nin4 kei4 gaan1	751050
+並唔係	bing6 m4 hai6	744579
+有線電視	jau5 sin3 din6 si6	744031
+係德國	hai6 dak1 gwok3	694836
+參加過	caam1 gaa1 gwo3	735574
+人口有	jan4 hau2 jau5	705732
+呢個時候	ni1 go3 si4 hau6	742908
+香港區議會	hoeng1 gong2 keoi1 ji5 wui2	737384
+省份為	saang2 fan6 wai6	779380
+省份為法國	saang2 fan6 wai6 faat3 gwok3	779380
+該省份	goi1 saang2 fan6	779380
+該省份為	goi1 saang2 fan6 wai6	779380
+會出現	wui5 ceot1 jin6	736940
+作品有	zok3 ban2 jau5	697553
+做為食	zou6 wai6 sik6	779169
+可做為食	ho2 zou6 wai6 sik6	779098
+年正式	nin4 zing3 sik1	740958
+中世紀	zung1 sai3 gei2	746694
+委員會主席	wai2 jyun4 wui2 zyu2 zik6	740958
+副主任	fu3 zyu2 jam6	769714
+總書記	zung2 syu1 gei3	741554
+第一間	dai6 jat1 gaan1	736035
+如果有	jyu4 gwo2 jau5	720595
+係一隻	hai6 jat1 zek3	713278
+年之間	nin4 zi1 gaan1	707270
+一般嚟講	jat1 bun1 lai2 gong2	725490
+的時候	dik1 si4 hau6	769438
+一般認為	jat1 bun1 jing6 wai4	728141
+音樂製作人	jam1 ngok6 zai3 zok3 jan4	692658
+或者叫	waak6 ze2 giu3	704670
+公開賽	gung1 hoi1 coi3	723609
+收費區	sau1 fai3 keoi1	721965
+年嘅美國	nin4 ge3 mei5 gwok3	695534
+總經理	zung2 ging1 lei5	746003
+代表團	doi6 biu2 tyun4	769896
+物理學	mat6 lei5 hok6	736263
+藝員訓練	ngai6 jyun4 fan3 lin6	732678
+及文化	kap6 man4 faa3	730613
+中央委員會	zung1 joeng1 wai2 jyun4 wui2	747373
+香港一個	hoeng1 gong2 jat1 go3	711976
+港鐵公司	gong2 tit3 gung1 si1	705732
+中文金曲	zung1 man2 gam1 kuk1	699466
+機場係	gei1 coeng4 hai6	663305
+可以話係	ho2 ji5 waa6 hai6	730077
+藝員訓練班	ngai6 jyun4 fan3 lin6 baan1	731660
+總決賽	zung2 kyut3 coi3	731401
+香港警察	hoeng1 gong2 ging2 caat3	738472
+有時會	jau5 si4 wui5	733669
+眾議院	zung3 ji5 jyun2	737384
+中國政府	zung1 gwok3 zing3 fu2	747373
+前香港	cin4 hoeng1 gong2	717690
+中國國家	zung1 gwok3 gwok3 gaa1	741751
+都係由	dou1 hai6 jau2	734395
+國家同地區	gwok3 gaa1 tung4 dei6 keoi1	682361
+係指一個	hai6 zi2 jat1 go3	674674
+立法委員	laap6 faat3 wai2 jyun4	742908
+只可以	zi2 ho2 ji5	733669
+鐵路車站	tit3 lou6 ce1 zaam6	762124
+係加拿大	hai6 gaa1 naa4 daai6	697553
+係韓國	hai6 hon4 gwok3	694836
+可以揾	ho2 ji5 wan2	703016
+係香港九龍	hai6 hoeng1 gong2 gau2 lung4	679262
+一個區	jat1 go3 keoi1	745119
+中央電視台	zung1 joeng1 din6 si6 toi4	737163
+第二輪	dai6 ji6 leon4	733913
+繁忙時間	faan4 mong4 si4 gaan3	708747
+係香港新界	hai6 hoeng1 gong2 san1 gaai3	692658
+小説家	siu2 syut3 gaa1	744940
+年電影	nin4 din6 jing2	709226
+東京都	dung1 ging1 dou1	740555
+荔灣區	lai6 waan1 keoi1	715750
+係香港歌手	hai6 hoeng1 gong2 go1 sau2	696220
+西藏自治區	sai1 zong6 zi6 zi6 keoi1	777359
+有幾多	jau5 gei2 do1	723609
+最常見	zeoi3 soeng4 gin3	716926
+亦曾經	jik6 cang4 ging1	737384
+是歌手	si6 go1 sau2	730346
+經濟活動	ging1 zai3 wut6 dung6	770168
+中醫藥	zung1 ji1 joek6	681357
+大學畢業	daai6 hok6 bat1 jip6	744579
+一直到	jat1 zik6 dou3	737823
+我是歌手	ngo5 si6 go1 sau2	729807
+公共圖書館	gung1 gung6 tou4 syu1 gun2	721965
+年建立	nin4 gin3 laap6	763773
+聯合會	lyun4 hap6 wui5	739528
+選舉委員會	syun2 geoi2 wai2 jyun4 wui2	724561
+副總統	fu3 zung2 tung2	731401
+係香港一個	hai6 hoeng1 gong2 jat1 go3	710166
+附近有	fu6 gan6 jau5	756809
+成為香港	sing4 wai4 hoeng1 gong2	730077
+文物保護	man4 mat6 bou2 wu6	751653
+例子有	lai6 zi2 jau5	696892
+錄音室	luk6 jam1 sat1	730613
+主義者	zyu2 ji6 ze2	757708
+郊野公園	gaau1 je5 gung1 jyun2	722300
+位於法國上	wai6 jyu1 faat3 gwok3 soeng5	773940
+同美國	tung4 mei5 gwok3	731140
+呢個節目	ni1 go3 zit3 muk6	719890
+可以將	ho2 ji5 zoeng1	739110
+範圍內	faan6 wai4 noi2	754252
+其中包括	kei4 zung1 baau1 kut3	750126
+先至可以	sin1 zi3 ho2 ji5	731401
+必須要	bit1 seoi1 jiu3	724247
+所以又	so2 ji5 jau6	720942
+公共屋邨	gung1 gung6 uk1 cyun1	706765
+係嚟自	hai6 lai4 zi6	717690

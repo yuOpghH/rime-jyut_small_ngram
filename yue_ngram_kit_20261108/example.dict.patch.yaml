@@ -1,0 +1,38 @@
+# 範例：把本包的詞庫層以 import_tables 掛進「你自己的」詞庫
+#
+# 用法：這是 YAML 標頭片段，請把 import_tables 那幾行併進你的
+#       <你的方案>.dict.yaml 標頭（不是整檔覆蓋，檔頭其餘欄位保持原樣）。
+#
+# 注意：Rime 的 *.custom.yaml 只覆寫 schema，沒有對 .dict.yaml 的 patch 機制；
+#       所以下面刻意不加 patch: 包裝，直接寫成標頭內容。
+#
+# 原始檔案（dicts\jyut_small_*.dict.yaml）要先放到 Rime 用戶目錄，
+# 檔名與 name: 必須一致（Rime 以 name 對應檔名）。
+
+name: your_scheme          # ← 你的詞庫名，保持不動
+version: "1.0"             # ← 你的原值，保持不動
+sort: by_weight            # ← 你的原值，保持不動
+
+# 你的原詞庫層放前面，我們的放後面（同名詞條以先出現者為準）。
+# 若想讓本包的詞壓過你自己的，就把我們的放前面。
+import_tables:
+  - your_scheme_chars
+  - your_scheme_words
+  - jyut_small_chars
+  - jyut_small_basic
+  - jyut_small_association
+  - jyut_small_mispronounced
+  - jyut_small_placenames
+  - jyut_small_written
+  - jyut_small_collocation
+  - jyut_small_local
+  # - jyut_small_longtail     # 低頻 4.9 萬條，想清楚再開：部署變慢、記憶體變大
+
+# ─────────────────────────────────────────────
+# 詞庫格式（本包所有層都一樣）：
+#   columns: [text, code, weight]
+#   code 為帶調粵拼，音節以空格分隔：ngo5 dei6
+#
+# 如果你的方案是「無調」或「連寫不分音節」，這幾層不能直接 import，
+# 需要自己轉碼；模型本身不受影響。
+# ─────────────────────────────────────────────
