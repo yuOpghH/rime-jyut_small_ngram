@@ -1,4 +1,4 @@
-# 粵語小詞庫
+# 粵語小詞庫 Jyut_small語言模型
 
 
 給 Windows 小狼毫（Weasel）用的**粵語全拼輸入方案**。用粵拼（Jyutping）打字，配合一個
