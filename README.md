@@ -1,5 +1,10 @@
 # 粵語小詞庫 Jyut_small語言模型
 
+<h1 align="center">
+ 
+<p align="center"><a href="https://github.com/yuOpghH/rime-jyut_small_ngram/releases/tag/1.0"><img src="https://github.com/yuOpghH/rime-jyutsp-goi/blob/main/%E5%B1%95%E7%A4%BA/download-button.jpg" style="width: 150px;"/></a></p>
+
+</h1>
 
 給 Windows 小狼毫（Weasel）用的**粵語全拼輸入方案**。用粵拼（Jyutping）打字，配合一個
 4-gram 粵語語言模型，讓長句的首選更接近自然說法。
